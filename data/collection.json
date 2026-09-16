@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T16:43:42.350Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T19:45:03.362Z",
   "lastPull": {
-    "id": 255,
-    "name": "torchic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "id": 871,
+    "name": "pincurchin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
     "types": [
-      "fire"
+      "electric"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-16T16:43:42.350Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-09-16T19:45:03.362Z"
   },
   "pulls": [
+    {
+      "id": 871,
+      "name": "pincurchin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:45:03.362Z"
+    },
     {
       "id": 255,
       "name": "torchic",
@@ -149,6 +160,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:07.684Z",
       "lastPulledAt": "2026-09-16T01:30:07.684Z"
+    },
+    "871": {
+      "id": 871,
+      "name": "pincurchin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-09-16T19:45:03.362Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T19:45:03.362Z",
+      "lastPulledAt": "2026-09-16T19:45:03.362Z"
     }
   },
   "typeTotals": {
