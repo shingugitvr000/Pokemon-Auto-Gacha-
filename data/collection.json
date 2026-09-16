@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:30:07.684Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:31:21.464Z",
   "lastPull": {
-    "id": 666,
-    "name": "vivillon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
+    "id": 384,
+    "name": "rayquaza",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
     "types": [
-      "bug",
+      "dragon",
       "flying"
     ],
-    "totalStats": 411,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:30:07.684Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T01:31:21.464Z"
   },
   "pulls": [
+    {
+      "id": 384,
+      "name": "rayquaza",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:31:21.464Z"
+    },
     {
       "id": 666,
       "name": "vivillon",
@@ -29,6 +41,22 @@
     }
   ],
   "pokemon": {
+    "384": {
+      "id": 384,
+      "name": "rayquaza",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:31:21.464Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:31:21.464Z",
+      "lastPulledAt": "2026-09-16T01:31:21.464Z"
+    },
     "666": {
       "id": 666,
       "name": "vivillon",
