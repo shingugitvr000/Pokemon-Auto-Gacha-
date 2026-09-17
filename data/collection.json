@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-17T15:11:46.560Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-17T19:05:47.885Z",
   "lastPull": {
-    "id": 429,
-    "name": "mismagius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "ghost"
+      "grass"
     ],
-    "totalStats": 495,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-17T15:11:46.560Z"
+    "pulledAt": "2026-09-17T19:05:47.885Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-17T19:05:47.885Z"
+    },
     {
       "id": 429,
       "name": "mismagius",
@@ -116,18 +127,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-16T06:29:54.238Z"
-    },
-    {
-      "id": 384,
-      "name": "rayquaza",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:31:21.464Z"
     }
   ],
   "pokemon": {
@@ -285,6 +284,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:45:03.362Z",
       "lastPulledAt": "2026-09-16T19:45:03.362Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-17T19:05:47.885Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T19:05:47.885Z",
+      "lastPulledAt": "2026-09-17T19:05:47.885Z"
     },
     "996": {
       "id": 996,
