@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-17T19:05:47.885Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-17T22:07:20.355Z",
   "lastPull": {
-    "id": 907,
-    "name": "floragato",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "id": 563,
+    "name": "cofagrigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
     "types": [
-      "grass"
+      "ghost"
     ],
-    "totalStats": 410,
+    "totalStats": 483,
     "grade": "R",
-    "pulledAt": "2026-09-17T19:05:47.885Z"
+    "pulledAt": "2026-09-17T22:07:20.355Z"
   },
   "pulls": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:07:20.355Z"
+    },
     {
       "id": 907,
       "name": "floragato",
@@ -116,17 +127,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-09-16T11:58:55.337Z"
-    },
-    {
-      "id": 10,
-      "name": "caterpie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-09-16T06:29:54.238Z"
     }
   ],
   "pokemon": {
@@ -253,6 +253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:11:46.560Z",
       "lastPulledAt": "2026-09-17T15:11:46.560Z"
+    },
+    "563": {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:07:20.355Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:07:20.355Z",
+      "lastPulledAt": "2026-09-17T22:07:20.355Z"
     },
     "666": {
       "id": 666,
