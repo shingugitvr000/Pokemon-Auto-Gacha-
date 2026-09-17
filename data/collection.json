@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-17T10:24:50.330Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-17T15:11:46.560Z",
   "lastPull": {
-    "id": 302,
-    "name": "sableye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
     "types": [
-      "dark",
       "ghost"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-17T10:24:50.330Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-17T15:11:46.560Z"
   },
   "pulls": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:11:46.560Z"
+    },
     {
       "id": 302,
       "name": "sableye",
@@ -118,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:31:21.464Z"
-    },
-    {
-      "id": 666,
-      "name": "vivillon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:30:07.684Z"
     }
   ],
   "pokemon": {
@@ -241,6 +239,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:58:55.337Z",
       "lastPulledAt": "2026-09-16T11:58:55.337Z"
+    },
+    "429": {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-17T15:11:46.560Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T15:11:46.560Z",
+      "lastPulledAt": "2026-09-17T15:11:46.560Z"
     },
     "666": {
       "id": 666,
