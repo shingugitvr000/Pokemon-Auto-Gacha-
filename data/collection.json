@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-17T00:47:42.165Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-17T05:31:31.669Z",
   "lastPull": {
-    "id": 165,
-    "name": "ledyba",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "id": 205,
+    "name": "forretress",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
     "types": [
       "bug",
-      "flying"
+      "steel"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-09-17T00:47:42.165Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-09-17T05:31:31.669Z"
   },
   "pulls": [
+    {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-17T05:31:31.669Z"
+    },
     {
       "id": 165,
       "name": "ledyba",
@@ -139,6 +151,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:47:42.165Z",
       "lastPulledAt": "2026-09-17T00:47:42.165Z"
+    },
+    "205": {
+      "id": 205,
+      "name": "forretress",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-09-17T05:31:31.669Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T05:31:31.669Z",
+      "lastPulledAt": "2026-09-17T05:31:31.669Z"
     },
     "255": {
       "id": 255,
