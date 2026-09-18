@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-18T04:53:04.799Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-18T09:27:32.271Z",
   "lastPull": {
-    "id": 583,
-    "name": "vanillish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "ice"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-09-18T04:53:04.799Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T09:27:32.271Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T09:27:32.271Z"
+    },
     {
       "id": 583,
       "name": "vanillish",
@@ -116,17 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-16T22:24:00.006Z"
-    },
-    {
-      "id": 871,
-      "name": "pincurchin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-09-16T19:45:03.362Z"
     }
   ],
   "pokemon": {
@@ -314,6 +316,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:45:03.362Z",
       "lastPulledAt": "2026-09-16T19:45:03.362Z"
+    },
+    "880": {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T09:27:32.271Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T09:27:32.271Z",
+      "lastPulledAt": "2026-09-18T09:27:32.271Z"
     },
     "907": {
       "id": 907,
