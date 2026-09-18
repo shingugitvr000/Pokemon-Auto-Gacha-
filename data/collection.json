@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T19:44:33.359Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T21:55:52.594Z",
   "lastPull": {
-    "id": 827,
-    "name": "nickit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "id": 610,
+    "name": "axew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
     "types": [
-      "dark"
+      "dragon"
     ],
-    "totalStats": 245,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-09-18T19:44:33.359Z"
+    "pulledAt": "2026-09-18T21:55:52.594Z"
   },
   "pulls": [
+    {
+      "id": 610,
+      "name": "axew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:55:52.594Z"
+    },
     {
       "id": 827,
       "name": "nickit",
@@ -115,18 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-17T15:11:46.560Z"
-    },
-    {
-      "id": 302,
-      "name": "sableye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
-      "types": [
-        "dark",
-        "ghost"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-09-17T10:24:50.330Z"
     }
   ],
   "pokemon": {
@@ -299,6 +298,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:53:04.799Z",
       "lastPulledAt": "2026-09-18T04:53:04.799Z"
+    },
+    "610": {
+      "id": 610,
+      "name": "axew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-18T21:55:52.594Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:55:52.594Z",
+      "lastPulledAt": "2026-09-18T21:55:52.594Z"
     },
     "666": {
       "id": 666,
