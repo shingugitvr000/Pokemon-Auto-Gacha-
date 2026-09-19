@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-18T21:55:52.594Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-19T00:00:07.315Z",
   "lastPull": {
-    "id": 610,
-    "name": "axew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "dragon"
+      "bug"
     ],
-    "totalStats": 320,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-18T21:55:52.594Z"
+    "pulledAt": "2026-09-19T00:00:07.315Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T00:00:07.315Z"
+    },
     {
       "id": 610,
       "name": "axew",
@@ -115,17 +126,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-17T19:05:47.885Z"
-    },
-    {
-      "id": 429,
-      "name": "mismagius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-17T15:11:46.560Z"
     }
   ],
   "pokemon": {
@@ -313,6 +313,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:55:52.594Z",
       "lastPulledAt": "2026-09-18T21:55:52.594Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T00:00:07.315Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T00:00:07.315Z",
+      "lastPulledAt": "2026-09-19T00:00:07.315Z"
     },
     "666": {
       "id": 666,
