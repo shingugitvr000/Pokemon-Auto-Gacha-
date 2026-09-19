@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 25,
-  "updatedAt": "2026-09-19T16:25:55.534Z",
+  "totalPulls": 26,
+  "updatedAt": "2026-09-19T18:45:08.237Z",
   "lastPull": {
-    "id": 653,
-    "name": "fennekin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "id": 78,
+    "name": "rapidash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
     "types": [
       "fire"
     ],
-    "totalStats": 307,
-    "grade": "N",
-    "pulledAt": "2026-09-19T16:25:55.534Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T18:45:08.237Z"
   },
   "pulls": [
+    {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T18:45:08.237Z"
+    },
     {
       "id": 653,
       "name": "fennekin",
@@ -116,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-18T13:45:49.950Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T09:27:32.271Z"
     }
   ],
   "pokemon": {
@@ -145,6 +144,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:29:54.238Z",
       "lastPulledAt": "2026-09-16T06:29:54.238Z"
+    },
+    "78": {
+      "id": 78,
+      "name": "rapidash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T18:45:08.237Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T18:45:08.237Z",
+      "lastPulledAt": "2026-09-19T18:45:08.237Z"
     },
     "101": {
       "id": 101,
