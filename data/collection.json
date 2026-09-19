@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-19T00:00:07.315Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-19T04:29:17.275Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 286,
+    "name": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
     "types": [
-      "bug"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-19T00:00:07.315Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-19T04:29:17.275Z"
   },
   "pulls": [
+    {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-19T04:29:17.275Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -115,17 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-09-17T22:07:20.355Z"
-    },
-    {
-      "id": 907,
-      "name": "floragato",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-17T19:05:47.885Z"
     }
   ],
   "pokemon": {
@@ -190,6 +192,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:43:42.350Z",
       "lastPulledAt": "2026-09-16T16:43:42.350Z"
+    },
+    "286": {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-19T04:29:17.275Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T04:29:17.275Z",
+      "lastPulledAt": "2026-09-19T04:29:17.275Z"
     },
     "302": {
       "id": 302,
