@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-19T08:56:36.638Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-19T13:01:11.842Z",
   "lastPull": {
-    "id": 101,
-    "name": "electrode",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "id": 1021,
+    "name": "raging-bolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
     "types": [
-      "electric"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-19T08:56:36.638Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T13:01:11.842Z"
   },
   "pulls": [
+    {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T13:01:11.842Z"
+    },
     {
       "id": 101,
       "name": "electrode",
@@ -116,17 +129,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-18T04:53:04.799Z"
-    },
-    {
-      "id": 933,
-      "name": "naclstack",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-09-18T00:15:31.234Z"
     }
   ],
   "pokemon": {
@@ -484,6 +486,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:24:00.006Z",
       "lastPulledAt": "2026-09-16T22:24:00.006Z"
+    },
+    "1021": {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T13:01:11.842Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T13:01:11.842Z",
+      "lastPulledAt": "2026-09-19T13:01:11.842Z"
     }
   },
   "typeTotals": {
