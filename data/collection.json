@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T04:29:17.275Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T08:56:36.638Z",
   "lastPull": {
-    "id": 286,
-    "name": "breloom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "id": 101,
+    "name": "electrode",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
     "types": [
-      "grass",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 460,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-19T04:29:17.275Z"
+    "pulledAt": "2026-09-19T08:56:36.638Z"
   },
   "pulls": [
+    {
+      "id": 101,
+      "name": "electrode",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-19T08:56:36.638Z"
+    },
     {
       "id": 286,
       "name": "breloom",
@@ -117,17 +127,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-09-18T00:15:31.234Z"
-    },
-    {
-      "id": 563,
-      "name": "cofagrigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-09-17T22:07:20.355Z"
     }
   ],
   "pokemon": {
@@ -145,6 +144,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:29:54.238Z",
       "lastPulledAt": "2026-09-16T06:29:54.238Z"
+    },
+    "101": {
+      "id": 101,
+      "name": "electrode",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-19T08:56:36.638Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T08:56:36.638Z",
+      "lastPulledAt": "2026-09-19T08:56:36.638Z"
     },
     "165": {
       "id": 165,
