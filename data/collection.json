@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T19:50:03.015Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T22:00:03.940Z",
   "lastPull": {
-    "id": 843,
-    "name": "silicobra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "id": 826,
+    "name": "orbeetle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
     "types": [
-      "ground"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-09-20T19:50:03.015Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T22:00:03.940Z"
   },
   "pulls": [
+    {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T22:00:03.940Z"
+    },
     {
       "id": 843,
       "name": "silicobra",
@@ -115,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-19T18:45:08.237Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-09-19T16:25:55.534Z"
     }
   ],
   "pokemon": {
@@ -468,6 +470,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:07.684Z",
       "lastPulledAt": "2026-09-16T01:30:07.684Z"
+    },
+    "826": {
+      "id": 826,
+      "name": "orbeetle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T22:00:03.940Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T22:00:03.940Z",
+      "lastPulledAt": "2026-09-20T22:00:03.940Z"
     },
     "827": {
       "id": 827,
