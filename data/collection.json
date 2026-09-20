@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-20T17:43:17.979Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-20T19:50:03.015Z",
   "lastPull": {
-    "id": 564,
-    "name": "tirtouga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "id": 843,
+    "name": "silicobra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
     "types": [
-      "water",
-      "rock"
+      "ground"
     ],
-    "totalStats": 355,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-09-20T17:43:17.979Z"
+    "pulledAt": "2026-09-20T19:50:03.015Z"
   },
   "pulls": [
+    {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-09-20T19:50:03.015Z"
+    },
     {
       "id": 564,
       "name": "tirtouga",
@@ -116,18 +126,6 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-09-19T16:25:55.534Z"
-    },
-    {
-      "id": 1021,
-      "name": "raging-bolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T13:01:11.842Z"
     }
   ],
   "pokemon": {
@@ -516,6 +514,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T13:45:49.950Z",
       "lastPulledAt": "2026-09-18T13:45:49.950Z"
+    },
+    "843": {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-09-20T19:50:03.015Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T19:50:03.015Z",
+      "lastPulledAt": "2026-09-20T19:50:03.015Z"
     },
     "871": {
       "id": 871,
