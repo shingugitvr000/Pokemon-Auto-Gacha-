@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-20T00:58:32.416Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-20T06:02:34.855Z",
   "lastPull": {
-    "id": 938,
-    "name": "tadbulb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    "id": 410,
+    "name": "shieldon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
     "types": [
-      "electric"
+      "rock",
+      "steel"
     ],
-    "totalStats": 272,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-09-20T00:58:32.416Z"
+    "pulledAt": "2026-09-20T06:02:34.855Z"
   },
   "pulls": [
+    {
+      "id": 410,
+      "name": "shieldon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-20T06:02:34.855Z"
+    },
     {
       "id": 938,
       "name": "tadbulb",
@@ -114,17 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T00:00:07.315Z"
-    },
-    {
-      "id": 610,
-      "name": "axew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-18T21:55:52.594Z"
     }
   ],
   "pokemon": {
@@ -282,6 +284,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:58:55.337Z",
       "lastPulledAt": "2026-09-16T11:58:55.337Z"
+    },
+    "410": {
+      "id": 410,
+      "name": "shieldon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-20T06:02:34.855Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T06:02:34.855Z",
+      "lastPulledAt": "2026-09-20T06:02:34.855Z"
     },
     "429": {
       "id": 429,
