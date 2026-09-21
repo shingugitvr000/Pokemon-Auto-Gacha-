@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 35,
-  "updatedAt": "2026-09-20T22:00:03.940Z",
+  "totalPulls": 36,
+  "updatedAt": "2026-09-21T00:09:04.893Z",
   "lastPull": {
-    "id": 826,
-    "name": "orbeetle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
+    "id": 462,
+    "name": "magnezone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
     "types": [
-      "bug",
-      "psychic"
+      "electric",
+      "steel"
     ],
-    "totalStats": 505,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-09-20T22:00:03.940Z"
+    "pulledAt": "2026-09-21T00:09:04.893Z"
   },
   "pulls": [
+    {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T00:09:04.893Z"
+    },
     {
       "id": 826,
       "name": "orbeetle",
@@ -117,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-19T21:05:41.908Z"
-    },
-    {
-      "id": 78,
-      "name": "rapidash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T18:45:08.237Z"
     }
   ],
   "pokemon": {
@@ -347,6 +348,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:11:46.560Z",
       "lastPulledAt": "2026-09-17T15:11:46.560Z"
+    },
+    "462": {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T00:09:04.893Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T00:09:04.893Z",
+      "lastPulledAt": "2026-09-21T00:09:04.893Z"
     },
     "475": {
       "id": 475,
