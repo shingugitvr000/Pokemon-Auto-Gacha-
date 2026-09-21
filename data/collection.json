@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-21T16:35:00.275Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-21T20:34:35.679Z",
   "lastPull": {
-    "id": 660,
-    "name": "diggersby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+    "id": 523,
+    "name": "zebstrika",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
     "types": [
-      "normal",
-      "ground"
+      "electric"
     ],
-    "totalStats": 423,
+    "totalStats": 497,
     "grade": "R",
-    "pulledAt": "2026-09-21T16:35:00.275Z"
+    "pulledAt": "2026-09-21T20:34:35.679Z"
   },
   "pulls": [
+    {
+      "id": 523,
+      "name": "zebstrika",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 497,
+      "grade": "R",
+      "pulledAt": "2026-09-21T20:34:35.679Z"
+    },
     {
       "id": 660,
       "name": "diggersby",
@@ -119,18 +129,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-09-20T11:16:54.634Z"
-    },
-    {
-      "id": 410,
-      "name": "shieldon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-20T06:02:34.855Z"
     }
   ],
   "pokemon": {
@@ -413,6 +411,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:16:57.363Z",
       "lastPulledAt": "2026-09-18T17:16:57.363Z"
+    },
+    "523": {
+      "id": 523,
+      "name": "zebstrika",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 497,
+      "grade": "R",
+      "pulledAt": "2026-09-21T20:34:35.679Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T20:34:35.679Z",
+      "lastPulledAt": "2026-09-21T20:34:35.679Z"
     },
     "563": {
       "id": 563,
