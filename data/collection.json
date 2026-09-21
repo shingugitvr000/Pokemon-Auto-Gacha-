@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-21T10:30:52.634Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-21T16:35:00.275Z",
   "lastPull": {
-    "id": 270,
-    "name": "lotad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "id": 660,
+    "name": "diggersby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
     "types": [
-      "water",
-      "grass"
+      "normal",
+      "ground"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-09-21T10:30:52.634Z"
+    "totalStats": 423,
+    "grade": "R",
+    "pulledAt": "2026-09-21T16:35:00.275Z"
   },
   "pulls": [
+    {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-21T16:35:00.275Z"
+    },
     {
       "id": 270,
       "name": "lotad",
@@ -119,17 +131,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-20T06:02:34.855Z"
-    },
-    {
-      "id": 938,
-      "name": "tadbulb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 272,
-      "grade": "N",
-      "pulledAt": "2026-09-20T00:58:32.416Z"
     }
   ],
   "pokemon": {
@@ -503,6 +504,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:25:55.534Z",
       "lastPulledAt": "2026-09-19T16:25:55.534Z"
+    },
+    "660": {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-21T16:35:00.275Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T16:35:00.275Z",
+      "lastPulledAt": "2026-09-21T16:35:00.275Z"
     },
     "666": {
       "id": 666,
