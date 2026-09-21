@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-21T00:09:04.893Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T04:55:41.712Z",
   "lastPull": {
-    "id": 462,
-    "name": "magnezone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+    "id": 86,
+    "name": "seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "types": [
-      "electric",
-      "steel"
+      "water"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T00:09:04.893Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-09-21T04:55:41.712Z"
   },
   "pulls": [
+    {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-21T04:55:41.712Z"
+    },
     {
       "id": 462,
       "name": "magnezone",
@@ -118,17 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-19T22:58:52.531Z"
-    },
-    {
-      "id": 828,
-      "name": "thievul",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-09-19T21:05:41.908Z"
     }
   ],
   "pokemon": {
@@ -161,6 +160,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:45:08.237Z",
       "lastPulledAt": "2026-09-19T18:45:08.237Z"
+    },
+    "86": {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-21T04:55:41.712Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T04:55:41.712Z",
+      "lastPulledAt": "2026-09-21T04:55:41.712Z"
     },
     "101": {
       "id": 101,
