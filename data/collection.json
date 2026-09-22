@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T17:21:31.812Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T20:24:46.646Z",
   "lastPull": {
-    "id": 919,
-    "name": "nymble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    "id": 340,
+    "name": "whiscash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
     "types": [
-      "bug"
+      "water",
+      "ground"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-09-22T17:21:31.812Z"
+    "totalStats": 468,
+    "grade": "R",
+    "pulledAt": "2026-09-22T20:24:46.646Z"
   },
   "pulls": [
+    {
+      "id": 340,
+      "name": "whiscash",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-09-22T20:24:46.646Z"
+    },
     {
       "id": 919,
       "name": "nymble",
@@ -116,18 +129,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-21T04:55:41.712Z"
-    },
-    {
-      "id": 462,
-      "name": "magnezone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
-      "types": [
-        "electric",
-        "steel"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T00:09:04.893Z"
     }
   ],
   "pokemon": {
@@ -313,10 +314,10 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-09-22T07:27:46.768Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T07:27:46.768Z",
-      "lastPulledAt": "2026-09-22T07:27:46.768Z"
+      "lastPulledAt": "2026-09-22T20:24:46.646Z"
     },
     "384": {
       "id": 384,
