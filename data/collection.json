@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-22T12:47:48.758Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T17:21:31.812Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 919,
+    "name": "nymble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
     "types": [
-      "psychic"
+      "bug"
     ],
-    "totalStats": 292,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-09-22T12:47:48.758Z"
+    "pulledAt": "2026-09-22T17:21:31.812Z"
   },
   "pulls": [
+    {
+      "id": 919,
+      "name": "nymble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:21:31.812Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -117,18 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-21T00:09:04.893Z"
-    },
-    {
-      "id": 826,
-      "name": "orbeetle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T22:00:03.940Z"
     }
   ],
   "pokemon": {
@@ -718,6 +717,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:05:47.885Z",
       "lastPulledAt": "2026-09-17T19:05:47.885Z"
+    },
+    "919": {
+      "id": 919,
+      "name": "nymble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-22T17:21:31.812Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T17:21:31.812Z",
+      "lastPulledAt": "2026-09-22T17:21:31.812Z"
     },
     "933": {
       "id": 933,
