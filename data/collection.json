@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-22T20:24:46.646Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-22T23:10:44.242Z",
   "lastPull": {
-    "id": 340,
-    "name": "whiscash",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "id": 935,
+    "name": "charcadet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
     "types": [
-      "water",
-      "ground"
+      "fire"
     ],
-    "totalStats": 468,
-    "grade": "R",
-    "pulledAt": "2026-09-22T20:24:46.646Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-09-22T23:10:44.242Z"
   },
   "pulls": [
+    {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-09-22T23:10:44.242Z"
+    },
     {
       "id": 340,
       "name": "whiscash",
@@ -118,17 +128,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-09-21T10:30:52.634Z"
-    },
-    {
-      "id": 86,
-      "name": "seel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-21T04:55:41.712Z"
     }
   ],
   "pokemon": {
@@ -748,6 +747,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:15:31.234Z",
       "lastPulledAt": "2026-09-18T00:15:31.234Z"
+    },
+    "935": {
+      "id": 935,
+      "name": "charcadet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-09-22T23:10:44.242Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T23:10:44.242Z",
+      "lastPulledAt": "2026-09-22T23:10:44.242Z"
     },
     "938": {
       "id": 938,
