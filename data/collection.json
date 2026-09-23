@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-22T23:10:44.242Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-23T01:33:08.323Z",
   "lastPull": {
-    "id": 935,
-    "name": "charcadet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "id": 969,
+    "name": "glimmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
     "types": [
-      "fire"
+      "rock",
+      "poison"
     ],
-    "totalStats": 255,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-09-22T23:10:44.242Z"
+    "pulledAt": "2026-09-23T01:33:08.323Z"
   },
   "pulls": [
+    {
+      "id": 969,
+      "name": "glimmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-23T01:33:08.323Z"
+    },
     {
       "id": 935,
       "name": "charcadet",
@@ -116,18 +129,6 @@
       "totalStats": 423,
       "grade": "R",
       "pulledAt": "2026-09-21T16:35:00.275Z"
-    },
-    {
-      "id": 270,
-      "name": "lotad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 220,
-      "grade": "N",
-      "pulledAt": "2026-09-21T10:30:52.634Z"
     }
   ],
   "pokemon": {
@@ -793,6 +794,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:52:02.394Z",
       "lastPulledAt": "2026-09-22T01:52:02.394Z"
+    },
+    "969": {
+      "id": 969,
+      "name": "glimmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-23T01:33:08.323Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:33:08.323Z",
+      "lastPulledAt": "2026-09-23T01:33:08.323Z"
     },
     "996": {
       "id": 996,
