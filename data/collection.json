@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T12:12:42.479Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T17:13:21.159Z",
   "lastPull": {
-    "id": 832,
-    "name": "dubwool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "id": 946,
+    "name": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
     "types": [
-      "normal"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-23T12:12:42.479Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-09-23T17:13:21.159Z"
   },
   "pulls": [
+    {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:13:21.159Z"
+    },
     {
       "id": 832,
       "name": "dubwool",
@@ -117,17 +130,6 @@
       "totalStats": 486,
       "grade": "R",
       "pulledAt": "2026-09-22T01:52:02.394Z"
-    },
-    {
-      "id": 763,
-      "name": "tsareena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T23:36:05.374Z"
     }
   ],
   "pokemon": {
@@ -808,6 +810,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:58:32.416Z",
       "lastPulledAt": "2026-09-20T00:58:32.416Z"
+    },
+    "946": {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:13:21.159Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T17:13:21.159Z",
+      "lastPulledAt": "2026-09-23T17:13:21.159Z"
     },
     "952": {
       "id": 952,
