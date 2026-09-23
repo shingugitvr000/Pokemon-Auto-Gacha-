@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T20:29:20.455Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T23:05:39.010Z",
   "lastPull": {
-    "id": 928,
-    "name": "smoliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "id": 500,
+    "name": "emboar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
     "types": [
-      "grass",
-      "normal"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-09-23T20:29:20.455Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T23:05:39.010Z"
   },
   "pulls": [
+    {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T23:05:39.010Z"
+    },
     {
       "id": 928,
       "name": "smoliv",
@@ -118,18 +130,6 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-09-22T12:47:48.758Z"
-    },
-    {
-      "id": 340,
-      "name": "whiscash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-09-22T07:27:46.768Z"
     }
   ],
   "pokemon": {
@@ -428,6 +428,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:16:57.363Z",
       "lastPulledAt": "2026-09-18T17:16:57.363Z"
+    },
+    "500": {
+      "id": 500,
+      "name": "emboar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T23:05:39.010Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:05:39.010Z",
+      "lastPulledAt": "2026-09-23T23:05:39.010Z"
     },
     "517": {
       "id": 517,
