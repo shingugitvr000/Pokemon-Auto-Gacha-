@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-23T01:33:08.323Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-23T06:38:34.855Z",
   "lastPull": {
-    "id": 969,
-    "name": "glimmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "rock",
-      "poison"
+      "water",
+      "bug"
     ],
-    "totalStats": 350,
+    "totalStats": 269,
     "grade": "N",
-    "pulledAt": "2026-09-23T01:33:08.323Z"
+    "pulledAt": "2026-09-23T06:38:34.855Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-23T06:38:34.855Z"
+    },
     {
       "id": 969,
       "name": "glimmet",
@@ -117,18 +129,6 @@
       "totalStats": 497,
       "grade": "R",
       "pulledAt": "2026-09-21T20:34:35.679Z"
-    },
-    {
-      "id": 660,
-      "name": "diggersby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
-      "types": [
-        "normal",
-        "ground"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-09-21T16:35:00.275Z"
     }
   ],
   "pokemon": {
@@ -580,6 +580,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:07.684Z",
       "lastPulledAt": "2026-09-16T01:30:07.684Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-23T06:38:34.855Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T06:38:34.855Z",
+      "lastPulledAt": "2026-09-23T06:38:34.855Z"
     },
     "763": {
       "id": 763,
