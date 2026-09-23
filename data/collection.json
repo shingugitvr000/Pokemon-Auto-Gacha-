@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-23T17:13:21.159Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-23T20:29:20.455Z",
   "lastPull": {
-    "id": 946,
-    "name": "bramblin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "id": 928,
+    "name": "smoliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
     "types": [
       "grass",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 275,
+    "totalStats": 260,
     "grade": "N",
-    "pulledAt": "2026-09-23T17:13:21.159Z"
+    "pulledAt": "2026-09-23T20:29:20.455Z"
   },
   "pulls": [
+    {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:29:20.455Z"
+    },
     {
       "id": 946,
       "name": "bramblin",
@@ -118,18 +130,6 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-09-22T07:27:46.768Z"
-    },
-    {
-      "id": 952,
-      "name": "scovillain",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-      "types": [
-        "grass",
-        "fire"
-      ],
-      "totalStats": 486,
-      "grade": "R",
-      "pulledAt": "2026-09-22T01:52:02.394Z"
     }
   ],
   "pokemon": {
@@ -765,6 +765,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T17:21:31.812Z",
       "lastPulledAt": "2026-09-22T17:21:31.812Z"
+    },
+    "928": {
+      "id": 928,
+      "name": "smoliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-09-23T20:29:20.455Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T20:29:20.455Z",
+      "lastPulledAt": "2026-09-23T20:29:20.455Z"
     },
     "933": {
       "id": 933,
