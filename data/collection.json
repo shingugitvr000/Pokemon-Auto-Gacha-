@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-24T01:21:11.522Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-24T06:33:04.296Z",
   "lastPull": {
-    "id": 98,
-    "name": "krabby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "id": 355,
+    "name": "duskull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
     "types": [
-      "water"
+      "ghost"
     ],
-    "totalStats": 325,
+    "totalStats": 295,
     "grade": "N",
-    "pulledAt": "2026-09-24T01:21:11.522Z"
+    "pulledAt": "2026-09-24T06:33:04.296Z"
   },
   "pulls": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:33:04.296Z"
+    },
     {
       "id": 98,
       "name": "krabby",
@@ -118,17 +129,6 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-09-22T20:24:46.646Z"
-    },
-    {
-      "id": 919,
-      "name": "nymble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-09-22T17:21:31.812Z"
     }
   ],
   "pokemon": {
@@ -333,6 +333,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T07:27:46.768Z",
       "lastPulledAt": "2026-09-22T20:24:46.646Z"
+    },
+    "355": {
+      "id": 355,
+      "name": "duskull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:33:04.296Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T06:33:04.296Z",
+      "lastPulledAt": "2026-09-24T06:33:04.296Z"
     },
     "384": {
       "id": 384,
