@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T23:05:39.010Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-24T01:21:11.522Z",
   "lastPull": {
-    "id": 500,
-    "name": "emboar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "id": 98,
+    "name": "krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "types": [
-      "fire",
-      "fighting"
+      "water"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T23:05:39.010Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-09-24T01:21:11.522Z"
   },
   "pulls": [
+    {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:21:11.522Z"
+    },
     {
       "id": 500,
       "name": "emboar",
@@ -119,17 +129,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-09-22T17:21:31.812Z"
-    },
-    {
-      "id": 517,
-      "name": "munna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-09-22T12:47:48.758Z"
     }
   ],
   "pokemon": {
@@ -177,6 +176,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T04:55:41.712Z",
       "lastPulledAt": "2026-09-21T04:55:41.712Z"
+    },
+    "98": {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:21:11.522Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T01:21:11.522Z",
+      "lastPulledAt": "2026-09-24T01:21:11.522Z"
     },
     "101": {
       "id": 101,
