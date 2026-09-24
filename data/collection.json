@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-24T17:19:17.279Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-24T20:34:29.503Z",
   "lastPull": {
-    "id": 984,
-    "name": "great-tusk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "ground",
-      "fighting"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T17:19:17.279Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-24T20:34:29.503Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-24T20:34:29.503Z"
+    },
     {
       "id": 984,
       "name": "great-tusk",
@@ -118,18 +130,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-09-23T06:38:34.855Z"
-    },
-    {
-      "id": 969,
-      "name": "glimmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-23T01:33:08.323Z"
     }
   ],
   "pokemon": {
@@ -349,6 +349,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:33:04.296Z",
       "lastPulledAt": "2026-09-24T06:33:04.296Z"
+    },
+    "374": {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-24T20:34:29.503Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T20:34:29.503Z",
+      "lastPulledAt": "2026-09-24T20:34:29.503Z"
     },
     "384": {
       "id": 384,
