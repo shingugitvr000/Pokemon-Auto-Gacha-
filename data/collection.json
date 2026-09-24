@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-24T06:33:04.296Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-24T12:10:55.202Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 491,
+    "name": "darkrai",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
     "types": [
-      "ghost"
+      "dark"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-09-24T06:33:04.296Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-24T12:10:55.202Z"
   },
   "pulls": [
+    {
+      "id": 491,
+      "name": "darkrai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-24T12:10:55.202Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -117,18 +128,6 @@
       "totalStats": 255,
       "grade": "N",
       "pulledAt": "2026-09-22T23:10:44.242Z"
-    },
-    {
-      "id": 340,
-      "name": "whiscash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-09-22T20:24:46.646Z"
     }
   ],
   "pokemon": {
@@ -457,6 +456,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:16:57.363Z",
       "lastPulledAt": "2026-09-18T17:16:57.363Z"
+    },
+    "491": {
+      "id": 491,
+      "name": "darkrai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-24T12:10:55.202Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T12:10:55.202Z",
+      "lastPulledAt": "2026-09-24T12:10:55.202Z"
     },
     "500": {
       "id": 500,
