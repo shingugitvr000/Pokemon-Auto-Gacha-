@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 61,
-  "updatedAt": "2026-09-25T06:43:09.617Z",
+  "totalPulls": 62,
+  "updatedAt": "2026-09-25T12:20:48.622Z",
   "lastPull": {
-    "id": 931,
-    "name": "squawkabilly-green-plumage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "id": 39,
+    "name": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "types": [
       "normal",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 417,
-    "grade": "R",
-    "pulledAt": "2026-09-25T06:43:09.617Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-09-25T12:20:48.622Z"
   },
   "pulls": [
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:20:48.622Z"
+    },
     {
       "id": 931,
       "name": "squawkabilly-green-plumage",
@@ -118,18 +130,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-09-23T23:05:39.010Z"
-    },
-    {
-      "id": 928,
-      "name": "smoliv",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-09-23T20:29:20.455Z"
     }
   ],
   "pokemon": {
@@ -147,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:29:54.238Z",
       "lastPulledAt": "2026-09-16T06:29:54.238Z"
+    },
+    "39": {
+      "id": 39,
+      "name": "jigglypuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:20:48.622Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T12:20:48.622Z",
+      "lastPulledAt": "2026-09-25T12:20:48.622Z"
     },
     "78": {
       "id": 78,
