@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-25T12:20:48.622Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-25T17:27:19.436Z",
   "lastPull": {
-    "id": 39,
-    "name": "jigglypuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "id": 494,
+    "name": "victini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
     "types": [
-      "normal",
-      "fairy"
+      "psychic",
+      "fire"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-25T12:20:48.622Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-25T17:27:19.436Z"
   },
   "pulls": [
+    {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T17:27:19.436Z"
+    },
     {
       "id": 39,
       "name": "jigglypuff",
@@ -118,18 +130,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-24T01:21:11.522Z"
-    },
-    {
-      "id": 500,
-      "name": "emboar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T23:05:39.010Z"
     }
   ],
   "pokemon": {
@@ -536,6 +536,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T12:10:55.202Z",
       "lastPulledAt": "2026-09-24T12:10:55.202Z"
+    },
+    "494": {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T17:27:19.436Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T17:27:19.436Z",
+      "lastPulledAt": "2026-09-25T17:27:19.436Z"
     },
     "500": {
       "id": 500,
