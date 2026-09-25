@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-24T23:25:56.862Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-25T01:46:18.410Z",
   "lastPull": {
-    "id": 361,
-    "name": "snorunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "id": 365,
+    "name": "walrein",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
     "types": [
-      "ice"
+      "ice",
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-24T23:25:56.862Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T01:46:18.410Z"
   },
   "pulls": [
+    {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T01:46:18.410Z"
+    },
     {
       "id": 361,
       "name": "snorunt",
@@ -117,17 +130,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-23T17:13:21.159Z"
-    },
-    {
-      "id": 832,
-      "name": "dubwool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-23T12:12:42.479Z"
     }
   ],
   "pokemon": {
@@ -362,6 +364,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:25:56.862Z",
       "lastPulledAt": "2026-09-24T23:25:56.862Z"
+    },
+    "365": {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T01:46:18.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:46:18.410Z",
+      "lastPulledAt": "2026-09-25T01:46:18.410Z"
     },
     "374": {
       "id": 374,
