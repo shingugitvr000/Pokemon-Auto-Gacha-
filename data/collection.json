@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-25T20:41:48.173Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-25T23:37:22.637Z",
   "lastPull": {
-    "id": 394,
-    "name": "prinplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "id": 960,
+    "name": "wiglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
     "types": [
       "water"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-25T20:41:48.173Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-25T23:37:22.637Z"
   },
   "pulls": [
+    {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-25T23:37:22.637Z"
+    },
     {
       "id": 394,
       "name": "prinplup",
@@ -118,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-24T12:10:55.202Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-09-24T06:33:04.296Z"
     }
   ],
   "pokemon": {
@@ -1028,6 +1028,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:52:02.394Z",
       "lastPulledAt": "2026-09-22T01:52:02.394Z"
+    },
+    "960": {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-25T23:37:22.637Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T23:37:22.637Z",
+      "lastPulledAt": "2026-09-25T23:37:22.637Z"
     },
     "969": {
       "id": 969,
