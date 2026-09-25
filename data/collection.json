@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-25T01:46:18.410Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-25T06:43:09.617Z",
   "lastPull": {
-    "id": 365,
-    "name": "walrein",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
     "types": [
-      "ice",
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T01:46:18.410Z"
+    "totalStats": 417,
+    "grade": "R",
+    "pulledAt": "2026-09-25T06:43:09.617Z"
   },
   "pulls": [
+    {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-09-25T06:43:09.617Z"
+    },
     {
       "id": 365,
       "name": "walrein",
@@ -118,18 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-09-23T20:29:20.455Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-23T17:13:21.159Z"
     }
   ],
   "pokemon": {
@@ -889,6 +889,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:29:20.455Z",
       "lastPulledAt": "2026-09-23T20:29:20.455Z"
+    },
+    "931": {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-09-25T06:43:09.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T06:43:09.617Z",
+      "lastPulledAt": "2026-09-25T06:43:09.617Z"
     },
     "933": {
       "id": 933,
