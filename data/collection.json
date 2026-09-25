@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 63,
-  "updatedAt": "2026-09-25T17:27:19.436Z",
+  "totalPulls": 64,
+  "updatedAt": "2026-09-25T20:41:48.173Z",
   "lastPull": {
-    "id": 494,
-    "name": "victini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
     "types": [
-      "psychic",
-      "fire"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-25T17:27:19.436Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-25T20:41:48.173Z"
   },
   "pulls": [
+    {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:41:48.173Z"
+    },
     {
       "id": 494,
       "name": "victini",
@@ -119,17 +129,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-09-24T06:33:04.296Z"
-    },
-    {
-      "id": 98,
-      "name": "krabby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-09-24T01:21:11.522Z"
     }
   ],
   "pokemon": {
@@ -443,6 +442,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:58:55.337Z",
       "lastPulledAt": "2026-09-16T11:58:55.337Z"
+    },
+    "394": {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:41:48.173Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T20:41:48.173Z",
+      "lastPulledAt": "2026-09-25T20:41:48.173Z"
     },
     "405": {
       "id": 405,
