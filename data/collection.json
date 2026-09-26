@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 66,
-  "updatedAt": "2026-09-26T01:59:16.765Z",
+  "totalPulls": 67,
+  "updatedAt": "2026-09-26T07:31:45.800Z",
   "lastPull": {
-    "id": 303,
-    "name": "mawile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "id": 858,
+    "name": "hatterene",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
     "types": [
-      "steel",
+      "psychic",
       "fairy"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-26T01:59:16.765Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T07:31:45.800Z"
   },
   "pulls": [
+    {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T07:31:45.800Z"
+    },
     {
       "id": 303,
       "name": "mawile",
@@ -119,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-24T20:34:29.503Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T17:19:17.279Z"
     }
   ],
   "pokemon": {
@@ -876,6 +876,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:50:03.015Z",
       "lastPulledAt": "2026-09-20T19:50:03.015Z"
+    },
+    "858": {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T07:31:45.800Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T07:31:45.800Z",
+      "lastPulledAt": "2026-09-26T07:31:45.800Z"
     },
     "871": {
       "id": 871,
