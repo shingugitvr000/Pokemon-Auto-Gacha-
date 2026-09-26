@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T12:26:15.408Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T16:38:27.390Z",
   "lastPull": {
-    "id": 271,
-    "name": "lombre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "id": 518,
+    "name": "musharna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
     "types": [
-      "water",
-      "grass"
+      "psychic"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-09-26T12:26:15.408Z"
+    "totalStats": 487,
+    "grade": "R",
+    "pulledAt": "2026-09-26T16:38:27.390Z"
   },
   "pulls": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-26T16:38:27.390Z"
+    },
     {
       "id": 271,
       "name": "lombre",
@@ -120,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-25T01:46:18.410Z"
-    },
-    {
-      "id": 361,
-      "name": "snorunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-24T23:25:56.862Z"
     }
   ],
   "pokemon": {
@@ -631,6 +630,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:47:48.758Z",
       "lastPulledAt": "2026-09-22T12:47:48.758Z"
+    },
+    "518": {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-26T16:38:27.390Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T16:38:27.390Z",
+      "lastPulledAt": "2026-09-26T16:38:27.390Z"
     },
     "523": {
       "id": 523,
