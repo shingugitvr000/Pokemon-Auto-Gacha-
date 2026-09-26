@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-26T07:31:45.800Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-26T12:26:15.408Z",
   "lastPull": {
-    "id": 858,
-    "name": "hatterene",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "id": 271,
+    "name": "lombre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
     "types": [
-      "psychic",
-      "fairy"
+      "water",
+      "grass"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T07:31:45.800Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-26T12:26:15.408Z"
   },
   "pulls": [
+    {
+      "id": 271,
+      "name": "lombre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-26T12:26:15.408Z"
+    },
     {
       "id": 858,
       "name": "hatterene",
@@ -119,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-24T23:25:56.862Z"
-    },
-    {
-      "id": 374,
-      "name": "beldum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-24T20:34:29.503Z"
     }
   ],
   "pokemon": {
@@ -303,6 +303,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T10:30:52.634Z",
       "lastPulledAt": "2026-09-21T10:30:52.634Z"
+    },
+    "271": {
+      "id": 271,
+      "name": "lombre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-26T12:26:15.408Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T12:26:15.408Z",
+      "lastPulledAt": "2026-09-26T12:26:15.408Z"
     },
     "286": {
       "id": 286,
