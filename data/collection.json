@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-27T10:49:36.606Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-27T15:25:00.070Z",
   "lastPull": {
-    "id": 784,
-    "name": "kommo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "id": 913,
+    "name": "quaxwell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
     "types": [
-      "dragon",
-      "fighting"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-27T10:49:36.606Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-09-27T15:25:00.070Z"
   },
   "pulls": [
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-27T15:25:00.070Z"
+    },
     {
       "id": 784,
       "name": "kommo-o",
@@ -117,17 +127,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-09-26T01:59:16.765Z"
-    },
-    {
-      "id": 960,
-      "name": "wiglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-25T23:37:22.637Z"
     }
   ],
   "pokemon": {
@@ -1027,6 +1026,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:05:47.885Z",
       "lastPulledAt": "2026-09-17T19:05:47.885Z"
+    },
+    "913": {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-27T15:25:00.070Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T15:25:00.070Z",
+      "lastPulledAt": "2026-09-27T15:25:00.070Z"
     },
     "919": {
       "id": 919,
