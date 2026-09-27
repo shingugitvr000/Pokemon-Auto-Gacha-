@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 72,
-  "updatedAt": "2026-09-27T00:33:51.375Z",
+  "totalPulls": 73,
+  "updatedAt": "2026-09-27T05:43:39.684Z",
   "lastPull": {
-    "id": 773,
-    "name": "silvally",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "id": 620,
+    "name": "mienshao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
     "types": [
-      "normal"
+      "fighting"
     ],
-    "totalStats": 570,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-27T00:33:51.375Z"
+    "pulledAt": "2026-09-27T05:43:39.684Z"
   },
   "pulls": [
+    {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T05:43:39.684Z"
+    },
     {
       "id": 773,
       "name": "silvally",
@@ -115,18 +126,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-25T20:41:48.173Z"
-    },
-    {
-      "id": 494,
-      "name": "victini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
-      "types": [
-        "psychic",
-        "fire"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-25T17:27:19.436Z"
     }
   ],
   "pokemon": {
@@ -748,6 +747,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T00:00:07.315Z",
       "lastPulledAt": "2026-09-19T00:00:07.315Z"
+    },
+    "620": {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T05:43:39.684Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T05:43:39.684Z",
+      "lastPulledAt": "2026-09-27T05:43:39.684Z"
     },
     "653": {
       "id": 653,
