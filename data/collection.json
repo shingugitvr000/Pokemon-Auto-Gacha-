@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-09-27T05:43:39.684Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-09-27T10:49:36.606Z",
   "lastPull": {
-    "id": 620,
-    "name": "mienshao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "id": 784,
+    "name": "kommo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
     "types": [
+      "dragon",
       "fighting"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T05:43:39.684Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-27T10:49:36.606Z"
   },
   "pulls": [
+    {
+      "id": 784,
+      "name": "kommo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T10:49:36.606Z"
+    },
     {
       "id": 620,
       "name": "mienshao",
@@ -115,17 +128,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-09-25T23:37:22.637Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-25T20:41:48.173Z"
     }
   ],
   "pokemon": {
@@ -855,6 +857,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:33:51.375Z",
       "lastPulledAt": "2026-09-27T00:33:51.375Z"
+    },
+    "784": {
+      "id": 784,
+      "name": "kommo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-27T10:49:36.606Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:49:36.606Z",
+      "lastPulledAt": "2026-09-27T10:49:36.606Z"
     },
     "826": {
       "id": 826,
