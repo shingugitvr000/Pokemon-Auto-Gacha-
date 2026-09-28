@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-28T14:27:19.454Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-28T20:42:11.100Z",
   "lastPull": {
-    "id": 823,
-    "name": "corviknight",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "id": 345,
+    "name": "lileep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
     "types": [
-      "flying",
-      "steel"
+      "rock",
+      "grass"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-28T14:27:19.454Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-09-28T20:42:11.100Z"
   },
   "pulls": [
+    {
+      "id": 345,
+      "name": "lileep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:42:11.100Z"
+    },
     {
       "id": 823,
       "name": "corviknight",
@@ -119,17 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-27T00:33:51.375Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-26T22:07:02.834Z"
     }
   ],
   "pokemon": {
@@ -429,6 +430,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T07:27:46.768Z",
       "lastPulledAt": "2026-09-22T20:24:46.646Z"
+    },
+    "345": {
+      "id": 345,
+      "name": "lileep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:42:11.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T20:42:11.100Z",
+      "lastPulledAt": "2026-09-28T20:42:11.100Z"
     },
     "355": {
       "id": 355,
