@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-28T06:33:08.779Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-28T14:27:19.454Z",
   "lastPull": {
-    "id": 542,
-    "name": "leavanny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "id": 823,
+    "name": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
     "types": [
-      "bug",
-      "grass"
+      "flying",
+      "steel"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T06:33:08.779Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-28T14:27:19.454Z"
   },
   "pulls": [
+    {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-28T14:27:19.454Z"
+    },
     {
       "id": 542,
       "name": "leavanny",
@@ -118,17 +130,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-26T22:07:02.834Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-26T19:23:43.537Z"
     }
   ],
   "pokemon": {
@@ -922,6 +923,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:49:36.606Z",
       "lastPulledAt": "2026-09-27T10:49:36.606Z"
+    },
+    "823": {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-28T14:27:19.454Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T14:27:19.454Z",
+      "lastPulledAt": "2026-09-28T14:27:19.454Z"
     },
     "826": {
       "id": 826,
