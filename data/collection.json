@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-29T00:36:59.811Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-29T06:12:33.346Z",
   "lastPull": {
-    "id": 999,
-    "name": "gimmighoul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "id": 102,
+    "name": "exeggcute",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
     "types": [
-      "ghost"
+      "grass",
+      "psychic"
     ],
-    "totalStats": 300,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-09-29T00:36:59.811Z"
+    "pulledAt": "2026-09-29T06:12:33.346Z"
   },
   "pulls": [
+    {
+      "id": 102,
+      "name": "exeggcute",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:12:33.346Z"
+    },
     {
       "id": 999,
       "name": "gimmighoul",
@@ -119,17 +132,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-27T10:49:36.606Z"
-    },
-    {
-      "id": 620,
-      "name": "mienshao",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T05:43:39.684Z"
     }
   ],
   "pokemon": {
@@ -223,6 +225,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T08:56:36.638Z",
       "lastPulledAt": "2026-09-19T08:56:36.638Z"
+    },
+    "102": {
+      "id": 102,
+      "name": "exeggcute",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:12:33.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T06:12:33.346Z",
+      "lastPulledAt": "2026-09-29T06:12:33.346Z"
     },
     "163": {
       "id": 163,
