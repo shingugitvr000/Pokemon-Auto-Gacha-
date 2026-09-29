@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 84,
-  "updatedAt": "2026-09-29T13:05:11.331Z",
+  "totalPulls": 85,
+  "updatedAt": "2026-09-29T18:36:30.866Z",
   "lastPull": {
-    "id": 111,
-    "name": "rhyhorn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "id": 35,
+    "name": "clefairy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
     "types": [
-      "ground",
-      "rock"
+      "fairy"
     ],
-    "totalStats": 345,
+    "totalStats": 323,
     "grade": "N",
-    "pulledAt": "2026-09-29T13:05:11.331Z"
+    "pulledAt": "2026-09-29T18:36:30.866Z"
   },
   "pulls": [
+    {
+      "id": 35,
+      "name": "clefairy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 323,
+      "grade": "N",
+      "pulledAt": "2026-09-29T18:36:30.866Z"
+    },
     {
       "id": 111,
       "name": "rhyhorn",
@@ -121,17 +131,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-27T19:11:14.181Z"
-    },
-    {
-      "id": 913,
-      "name": "quaxwell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-27T15:25:00.070Z"
     }
   ],
   "pokemon": {
@@ -149,6 +148,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:29:54.238Z",
       "lastPulledAt": "2026-09-16T06:29:54.238Z"
+    },
+    "35": {
+      "id": 35,
+      "name": "clefairy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 323,
+      "grade": "N",
+      "pulledAt": "2026-09-29T18:36:30.866Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T18:36:30.866Z",
+      "lastPulledAt": "2026-09-29T18:36:30.866Z"
     },
     "39": {
       "id": 39,
