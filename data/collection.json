@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T07:25:46.307Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T14:07:20.890Z",
   "lastPull": {
-    "id": 638,
-    "name": "cobalion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "steel",
+      "normal",
       "fighting"
     ],
-    "totalStats": 580,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-30T07:25:46.307Z"
+    "pulledAt": "2026-09-30T14:07:20.890Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T14:07:20.890Z"
+    },
     {
       "id": 638,
       "name": "cobalion",
@@ -119,18 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-28T14:27:19.454Z"
-    },
-    {
-      "id": 542,
-      "name": "leavanny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T06:33:08.779Z"
     }
   ],
   "pokemon": {
@@ -988,6 +988,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:38:34.855Z",
       "lastPulledAt": "2026-09-23T06:38:34.855Z"
+    },
+    "760": {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T14:07:20.890Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T14:07:20.890Z",
+      "lastPulledAt": "2026-09-30T14:07:20.890Z"
     },
     "763": {
       "id": 763,
