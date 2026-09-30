@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-30T14:07:20.890Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-30T19:17:20.939Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 388,
+    "name": "grotle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
     "types": [
-      "normal",
-      "fighting"
+      "grass"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T14:07:20.890Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-30T19:17:20.939Z"
   },
   "pulls": [
+    {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:17:20.939Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -119,18 +129,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-09-28T20:42:11.100Z"
-    },
-    {
-      "id": 823,
-      "name": "corviknight",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-      "types": [
-        "flying",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-28T14:27:19.454Z"
     }
   ],
   "pokemon": {
@@ -571,6 +569,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:31:21.464Z",
       "lastPulledAt": "2026-09-16T01:31:21.464Z"
+    },
+    "388": {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:17:20.939Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T19:17:20.939Z",
+      "lastPulledAt": "2026-09-30T19:17:20.939Z"
     },
     "390": {
       "id": 390,
