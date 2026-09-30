@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T19:17:20.939Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T23:05:24.062Z",
   "lastPull": {
-    "id": 388,
-    "name": "grotle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "id": 517,
+    "name": "munna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
     "types": [
-      "grass"
+      "psychic"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-30T19:17:20.939Z"
+    "totalStats": 292,
+    "grade": "N",
+    "pulledAt": "2026-09-30T23:05:24.062Z"
   },
   "pulls": [
+    {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-09-30T23:05:24.062Z"
+    },
     {
       "id": 388,
       "name": "grotle",
@@ -117,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-29T00:36:59.811Z"
-    },
-    {
-      "id": 345,
-      "name": "lileep",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
-      "types": [
-        "rock",
-        "grass"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-09-28T20:42:11.100Z"
     }
   ],
   "pokemon": {
@@ -766,10 +765,10 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-09-22T12:47:48.758Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:47:48.758Z",
-      "lastPulledAt": "2026-09-22T12:47:48.758Z"
+      "lastPulledAt": "2026-09-30T23:05:24.062Z"
     },
     "518": {
       "id": 518,
