@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-30T01:33:39.601Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-30T07:25:46.307Z",
   "lastPull": {
-    "id": 437,
-    "name": "bronzong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "id": 638,
+    "name": "cobalion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
     "types": [
       "steel",
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 500,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-09-30T01:33:39.601Z"
+    "pulledAt": "2026-09-30T07:25:46.307Z"
   },
   "pulls": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T07:25:46.307Z"
+    },
     {
       "id": 437,
       "name": "bronzong",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-28T06:33:08.779Z"
-    },
-    {
-      "id": 163,
-      "name": "hoothoot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-09-28T00:56:17.979Z"
     }
   ],
   "pokemon": {
@@ -909,6 +909,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:43:39.684Z",
       "lastPulledAt": "2026-09-27T05:43:39.684Z"
+    },
+    "638": {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T07:25:46.307Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T07:25:46.307Z",
+      "lastPulledAt": "2026-09-30T07:25:46.307Z"
     },
     "653": {
       "id": 653,
