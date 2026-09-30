@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-29T22:35:58.226Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-30T01:33:39.601Z",
   "lastPull": {
-    "id": 582,
-    "name": "vanillite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "id": 437,
+    "name": "bronzong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
     "types": [
-      "ice"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-29T22:35:58.226Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T01:33:39.601Z"
   },
   "pulls": [
+    {
+      "id": 437,
+      "name": "bronzong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T01:33:39.601Z"
+    },
     {
       "id": 582,
       "name": "vanillite",
@@ -118,18 +131,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-09-28T00:56:17.979Z"
-    },
-    {
-      "id": 334,
-      "name": "altaria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-27T22:19:31.781Z"
     }
   ],
   "pokemon": {
@@ -646,6 +647,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:11:46.560Z",
       "lastPulledAt": "2026-09-17T15:11:46.560Z"
+    },
+    "437": {
+      "id": 437,
+      "name": "bronzong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T01:33:39.601Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T01:33:39.601Z",
+      "lastPulledAt": "2026-09-30T01:33:39.601Z"
     },
     "462": {
       "id": 462,
