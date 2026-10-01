@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-10-01T16:06:32.574Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-10-01T21:00:45.737Z",
   "lastPull": {
-    "id": 324,
-    "name": "torkoal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "id": 317,
+    "name": "swalot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
     "types": [
-      "fire"
+      "poison"
     ],
-    "totalStats": 470,
+    "totalStats": 467,
     "grade": "R",
-    "pulledAt": "2026-10-01T16:06:32.574Z"
+    "pulledAt": "2026-10-01T21:00:45.737Z"
   },
   "pulls": [
+    {
+      "id": 317,
+      "name": "swalot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 467,
+      "grade": "R",
+      "pulledAt": "2026-10-01T21:00:45.737Z"
+    },
     {
       "id": 324,
       "name": "torkoal",
@@ -116,17 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-29T22:35:58.226Z"
-    },
-    {
-      "id": 35,
-      "name": "clefairy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 323,
-      "grade": "N",
-      "pulledAt": "2026-09-29T18:36:30.866Z"
     }
   ],
   "pokemon": {
@@ -441,6 +441,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T01:59:16.765Z",
       "lastPulledAt": "2026-09-26T01:59:16.765Z"
+    },
+    "317": {
+      "id": 317,
+      "name": "swalot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 467,
+      "grade": "R",
+      "pulledAt": "2026-10-01T21:00:45.737Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T21:00:45.737Z",
+      "lastPulledAt": "2026-10-01T21:00:45.737Z"
     },
     "324": {
       "id": 324,
