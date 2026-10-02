@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-02T00:44:20.717Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-02T06:18:24.746Z",
   "lastPull": {
-    "id": 139,
-    "name": "omastar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "rock",
-      "water"
+      "ice"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-02T00:44:20.717Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-10-02T06:18:24.746Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T06:18:24.746Z"
+    },
     {
       "id": 139,
       "name": "omastar",
@@ -117,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-30T07:25:46.307Z"
-    },
-    {
-      "id": 437,
-      "name": "bronzong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T01:33:39.601Z"
     }
   ],
   "pokemon": {
@@ -1480,6 +1478,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:33:08.323Z",
       "lastPulledAt": "2026-09-23T01:33:08.323Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T06:18:24.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T06:18:24.746Z",
+      "lastPulledAt": "2026-10-02T06:18:24.746Z"
     },
     "984": {
       "id": 984,
