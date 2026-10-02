@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-02T12:52:22.428Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-02T18:15:07.711Z",
   "lastPull": {
-    "id": 840,
-    "name": "applin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "grass",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 260,
+    "totalStats": 307,
     "grade": "N",
-    "pulledAt": "2026-10-02T12:52:22.428Z"
+    "pulledAt": "2026-10-02T18:15:07.711Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-10-02T18:15:07.711Z"
+    },
     {
       "id": 840,
       "name": "applin",
@@ -116,18 +126,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-30T19:17:20.939Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T14:07:20.890Z"
     }
   ],
   "pokemon": {
@@ -1009,10 +1007,10 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-09-19T16:25:55.534Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:25:55.534Z",
-      "lastPulledAt": "2026-09-19T16:25:55.534Z"
+      "lastPulledAt": "2026-10-02T18:15:07.711Z"
     },
     "660": {
       "id": 660,
