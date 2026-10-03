@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 104,
-  "updatedAt": "2026-10-03T16:13:00.828Z",
+  "totalPulls": 105,
+  "updatedAt": "2026-10-03T19:17:30.671Z",
   "lastPull": {
-    "id": 507,
-    "name": "herdier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "id": 941,
+    "name": "kilowattrel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
     "types": [
-      "normal"
+      "electric",
+      "flying"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-03T16:13:00.828Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-03T19:17:30.671Z"
   },
   "pulls": [
+    {
+      "id": 941,
+      "name": "kilowattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-03T19:17:30.671Z"
+    },
     {
       "id": 507,
       "name": "herdier",
@@ -116,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-02T00:44:20.717Z"
-    },
-    {
-      "id": 317,
-      "name": "swalot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 467,
-      "grade": "R",
-      "pulledAt": "2026-10-01T21:00:45.737Z"
     }
   ],
   "pokemon": {
@@ -1492,6 +1494,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:58:32.416Z",
       "lastPulledAt": "2026-09-20T00:58:32.416Z"
+    },
+    "941": {
+      "id": 941,
+      "name": "kilowattrel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-03T19:17:30.671Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T19:17:30.671Z",
+      "lastPulledAt": "2026-10-03T19:17:30.671Z"
     },
     "946": {
       "id": 946,
