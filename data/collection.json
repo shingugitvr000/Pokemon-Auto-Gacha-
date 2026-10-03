@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-03T01:18:54.670Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-03T06:39:24.440Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 96,
+    "name": "drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
     "types": [
-      "water",
-      "bug"
+      "psychic"
     ],
-    "totalStats": 269,
+    "totalStats": 328,
     "grade": "N",
-    "pulledAt": "2026-10-03T01:18:54.670Z"
+    "pulledAt": "2026-10-03T06:39:24.440Z"
   },
   "pulls": [
+    {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-03T06:39:24.440Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -117,17 +127,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-01T08:51:19.773Z"
-    },
-    {
-      "id": 486,
-      "name": "regigigas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-01T02:05:53.262Z"
     }
   ],
   "pokemon": {
@@ -206,6 +205,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T04:55:41.712Z",
       "lastPulledAt": "2026-09-21T04:55:41.712Z"
+    },
+    "96": {
+      "id": 96,
+      "name": "drowzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-03T06:39:24.440Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T06:39:24.440Z",
+      "lastPulledAt": "2026-10-03T06:39:24.440Z"
     },
     "98": {
       "id": 98,
