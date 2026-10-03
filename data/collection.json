@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-03T06:39:24.440Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-03T12:02:45.769Z",
   "lastPull": {
-    "id": 96,
-    "name": "drowzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "id": 758,
+    "name": "salazzle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
     "types": [
-      "psychic"
+      "poison",
+      "fire"
     ],
-    "totalStats": 328,
-    "grade": "N",
-    "pulledAt": "2026-10-03T06:39:24.440Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-03T12:02:45.769Z"
   },
   "pulls": [
+    {
+      "id": 758,
+      "name": "salazzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-03T12:02:45.769Z"
+    },
     {
       "id": 96,
       "name": "drowzee",
@@ -115,18 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-01T16:06:32.574Z"
-    },
-    {
-      "id": 876,
-      "name": "indeedee-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
-      "types": [
-        "psychic",
-        "normal"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-01T08:51:19.773Z"
     }
   ],
   "pokemon": {
@@ -1090,6 +1091,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:38:34.855Z",
       "lastPulledAt": "2026-10-03T01:18:54.670Z"
+    },
+    "758": {
+      "id": 758,
+      "name": "salazzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-03T12:02:45.769Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T12:02:45.769Z",
+      "lastPulledAt": "2026-10-03T12:02:45.769Z"
     },
     "760": {
       "id": 760,
