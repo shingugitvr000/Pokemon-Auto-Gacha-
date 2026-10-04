@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-04T00:44:54.608Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-04T06:25:32.296Z",
   "lastPull": {
-    "id": 697,
-    "name": "tyrantrum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "id": 784,
+    "name": "kommo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
     "types": [
-      "rock",
-      "dragon"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T00:44:54.608Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-04T06:25:32.296Z"
   },
   "pulls": [
+    {
+      "id": 784,
+      "name": "kommo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-04T06:25:32.296Z"
+    },
     {
       "id": 697,
       "name": "tyrantrum",
@@ -117,18 +129,6 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-10-02T18:15:07.711Z"
-    },
-    {
-      "id": 840,
-      "name": "applin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-10-02T12:52:22.428Z"
     }
   ],
   "pokemon": {
@@ -1212,10 +1212,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-27T10:49:36.606Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:49:36.606Z",
-      "lastPulledAt": "2026-09-27T10:49:36.606Z"
+      "lastPulledAt": "2026-10-04T06:25:32.296Z"
     },
     "823": {
       "id": 823,
