@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T22:12:58.292Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-04T00:44:54.608Z",
   "lastPull": {
-    "id": 775,
-    "name": "komala",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "normal"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-03T22:12:58.292Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T00:44:54.608Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T00:44:54.608Z"
+    },
     {
       "id": 775,
       "name": "komala",
@@ -116,17 +129,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-02T12:52:22.428Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T06:18:24.746Z"
     }
   ],
   "pokemon": {
@@ -1089,6 +1091,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:07.684Z",
       "lastPulledAt": "2026-09-16T01:30:07.684Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T00:44:54.608Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T00:44:54.608Z",
+      "lastPulledAt": "2026-10-04T00:44:54.608Z"
     },
     "751": {
       "id": 751,
