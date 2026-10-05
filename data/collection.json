@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T08:55:54.259Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T18:10:00.701Z",
   "lastPull": {
-    "id": 395,
-    "name": "empoleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "id": 991,
+    "name": "iron-bundle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
     "types": [
-      "water",
-      "steel"
+      "ice",
+      "water"
     ],
-    "totalStats": 530,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-05T08:55:54.259Z"
+    "pulledAt": "2026-10-05T18:10:00.701Z"
   },
   "pulls": [
+    {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T18:10:00.701Z"
+    },
     {
       "id": 395,
       "name": "empoleon",
@@ -119,18 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-03T22:12:58.292Z"
-    },
-    {
-      "id": 941,
-      "name": "kilowattrel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-03T19:17:30.671Z"
     }
   ],
   "pokemon": {
@@ -1731,6 +1731,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T20:09:04.497Z",
       "lastPulledAt": "2026-10-04T20:09:04.497Z"
+    },
+    "991": {
+      "id": 991,
+      "name": "iron-bundle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T18:10:00.701Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T18:10:00.701Z",
+      "lastPulledAt": "2026-10-05T18:10:00.701Z"
     },
     "996": {
       "id": 996,
