@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-06T00:04:08.294Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-06T06:14:11.046Z",
   "lastPull": {
-    "id": 97,
-    "name": "hypno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "id": 197,
+    "name": "umbreon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
     "types": [
-      "psychic"
+      "dark"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-10-06T00:04:08.294Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T06:14:11.046Z"
   },
   "pulls": [
+    {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T06:14:11.046Z"
+    },
     {
       "id": 97,
       "name": "hypno",
@@ -118,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-04T06:25:32.296Z"
-    },
-    {
-      "id": 697,
-      "name": "tyrantrum",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
-      "types": [
-        "rock",
-        "dragon"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T00:44:54.608Z"
     }
   ],
   "pokemon": {
@@ -363,6 +362,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:47:42.165Z",
       "lastPulledAt": "2026-09-17T00:47:42.165Z"
+    },
+    "197": {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T06:14:11.046Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T06:14:11.046Z",
+      "lastPulledAt": "2026-10-06T06:14:11.046Z"
     },
     "205": {
       "id": 205,
