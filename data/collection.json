@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-06T13:25:47.631Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-06T19:00:01.150Z",
   "lastPull": {
-    "id": 270,
-    "name": "lotad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "id": 838,
+    "name": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
     "types": [
-      "water",
-      "grass"
+      "rock",
+      "fire"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-10-06T13:25:47.631Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-06T19:00:01.150Z"
   },
   "pulls": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T19:00:01.150Z"
+    },
     {
       "id": 270,
       "name": "lotad",
@@ -118,18 +130,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-04T17:05:46.287Z"
-    },
-    {
-      "id": 369,
-      "name": "relicanth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-04T12:46:39.077Z"
     }
   ],
   "pokemon": {
@@ -1402,6 +1402,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T12:12:42.479Z",
       "lastPulledAt": "2026-09-23T12:12:42.479Z"
+    },
+    "838": {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-06T19:00:01.150Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T19:00:01.150Z",
+      "lastPulledAt": "2026-10-06T19:00:01.150Z"
     },
     "840": {
       "id": 840,
