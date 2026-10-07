@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-07T16:09:52.949Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-07T21:18:45.984Z",
   "lastPull": {
-    "id": 513,
-    "name": "pansear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "id": 650,
+    "name": "chespin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
     "types": [
-      "fire"
+      "grass"
     ],
-    "totalStats": 316,
+    "totalStats": 313,
     "grade": "N",
-    "pulledAt": "2026-10-07T16:09:52.949Z"
+    "pulledAt": "2026-10-07T21:18:45.984Z"
   },
   "pulls": [
+    {
+      "id": 650,
+      "name": "chespin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 313,
+      "grade": "N",
+      "pulledAt": "2026-10-07T21:18:45.984Z"
+    },
     {
       "id": 513,
       "name": "pansear",
@@ -118,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-05T18:10:00.701Z"
-    },
-    {
-      "id": 395,
-      "name": "empoleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
-      "types": [
-        "water",
-        "steel"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T08:55:54.259Z"
     }
   ],
   "pokemon": {
@@ -1184,6 +1183,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T07:25:46.307Z",
       "lastPulledAt": "2026-09-30T07:25:46.307Z"
+    },
+    "650": {
+      "id": 650,
+      "name": "chespin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 313,
+      "grade": "N",
+      "pulledAt": "2026-10-07T21:18:45.984Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T21:18:45.984Z",
+      "lastPulledAt": "2026-10-07T21:18:45.984Z"
     },
     "653": {
       "id": 653,
