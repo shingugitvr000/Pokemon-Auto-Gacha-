@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-07T08:50:22.559Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-07T16:09:52.949Z",
   "lastPull": {
-    "id": 701,
-    "name": "hawlucha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+    "id": 513,
+    "name": "pansear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
     "types": [
-      "fighting",
-      "flying"
+      "fire"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T08:50:22.559Z"
+    "totalStats": 316,
+    "grade": "N",
+    "pulledAt": "2026-10-07T16:09:52.949Z"
   },
   "pulls": [
+    {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-10-07T16:09:52.949Z"
+    },
     {
       "id": 701,
       "name": "hawlucha",
@@ -120,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-05T08:55:54.259Z"
-    },
-    {
-      "id": 631,
-      "name": "heatmor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-05T02:01:56.452Z"
     }
   ],
   "pokemon": {
@@ -957,6 +956,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:13:00.828Z",
       "lastPulledAt": "2026-10-03T16:13:00.828Z"
+    },
+    "513": {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-10-07T16:09:52.949Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T16:09:52.949Z",
+      "lastPulledAt": "2026-10-07T16:09:52.949Z"
     },
     "517": {
       "id": 517,
