@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-06T22:58:19.973Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-07T02:14:19.595Z",
   "lastPull": {
-    "id": 183,
-    "name": "marill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "id": 709,
+    "name": "trevenant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
     "types": [
-      "water",
-      "fairy"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-06T22:58:19.973Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-10-07T02:14:19.595Z"
   },
   "pulls": [
+    {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-07T02:14:19.595Z"
+    },
     {
       "id": 183,
       "name": "marill",
@@ -118,18 +130,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-04T23:09:52.342Z"
-    },
-    {
-      "id": 989,
-      "name": "sandy-shocks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-      "types": [
-        "electric",
-        "ground"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T20:09:04.497Z"
     }
   ],
   "pokemon": {
@@ -1232,6 +1232,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T00:44:54.608Z",
       "lastPulledAt": "2026-10-04T00:44:54.608Z"
+    },
+    "709": {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-07T02:14:19.595Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T02:14:19.595Z",
+      "lastPulledAt": "2026-10-07T02:14:19.595Z"
     },
     "751": {
       "id": 751,
