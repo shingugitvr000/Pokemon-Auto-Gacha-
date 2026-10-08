@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-08T01:05:52.357Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-08T07:19:35.582Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 553,
+    "name": "krookodile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
     "types": [
-      "bug"
+      "ground",
+      "dark"
     ],
-    "totalStats": 404,
-    "grade": "R",
-    "pulledAt": "2026-10-08T01:05:52.357Z"
+    "totalStats": 519,
+    "grade": "SR",
+    "pulledAt": "2026-10-08T07:19:35.582Z"
   },
   "pulls": [
+    {
+      "id": 553,
+      "name": "krookodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 519,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T07:19:35.582Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -117,17 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-06T06:14:11.046Z"
-    },
-    {
-      "id": 97,
-      "name": "hypno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-06T00:04:08.294Z"
     }
   ],
   "pokemon": {
@@ -1045,6 +1047,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T06:33:08.779Z",
       "lastPulledAt": "2026-09-28T06:33:08.779Z"
+    },
+    "553": {
+      "id": 553,
+      "name": "krookodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 519,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T07:19:35.582Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T07:19:35.582Z",
+      "lastPulledAt": "2026-10-08T07:19:35.582Z"
     },
     "563": {
       "id": 563,
