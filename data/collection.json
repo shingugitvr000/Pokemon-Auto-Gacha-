@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-08T14:42:45.696Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-08T20:14:05.904Z",
   "lastPull": {
-    "id": 487,
-    "name": "giratina-altered",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "ghost",
-      "dragon"
+      "bug",
+      "poison"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-08T14:42:45.696Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-10-08T20:14:05.904Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-08T20:14:05.904Z"
+    },
     {
       "id": 487,
       "name": "giratina-altered",
@@ -119,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-06T19:00:01.150Z"
-    },
-    {
-      "id": 270,
-      "name": "lotad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
-      "types": [
-        "water",
-        "grass"
-      ],
-      "totalStats": 220,
-      "grade": "N",
-      "pulledAt": "2026-10-06T13:25:47.631Z"
     }
   ],
   "pokemon": {
@@ -364,6 +364,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:47:42.165Z",
       "lastPulledAt": "2026-09-17T00:47:42.165Z"
+    },
+    "168": {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-08T20:14:05.904Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T20:14:05.904Z",
+      "lastPulledAt": "2026-10-08T20:14:05.904Z"
     },
     "183": {
       "id": 183,
