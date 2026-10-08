@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-08T07:19:35.582Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-08T14:42:45.696Z",
   "lastPull": {
-    "id": 553,
-    "name": "krookodile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "id": 487,
+    "name": "giratina-altered",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
     "types": [
-      "ground",
-      "dark"
+      "ghost",
+      "dragon"
     ],
-    "totalStats": 519,
-    "grade": "SR",
-    "pulledAt": "2026-10-08T07:19:35.582Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-08T14:42:45.696Z"
   },
   "pulls": [
+    {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-08T14:42:45.696Z"
+    },
     {
       "id": 553,
       "name": "krookodile",
@@ -119,17 +131,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-10-06T13:25:47.631Z"
-    },
-    {
-      "id": 197,
-      "name": "umbreon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T06:14:11.046Z"
     }
   ],
   "pokemon": {
@@ -894,6 +895,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T02:05:53.262Z",
       "lastPulledAt": "2026-10-01T02:05:53.262Z"
+    },
+    "487": {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-08T14:42:45.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T14:42:45.696Z",
+      "lastPulledAt": "2026-10-08T14:42:45.696Z"
     },
     "491": {
       "id": 491,
