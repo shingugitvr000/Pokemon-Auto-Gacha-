@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-07T21:18:45.984Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-08T01:05:52.357Z",
   "lastPull": {
-    "id": 650,
-    "name": "chespin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "grass"
+      "bug"
     ],
-    "totalStats": 313,
-    "grade": "N",
-    "pulledAt": "2026-10-07T21:18:45.984Z"
+    "totalStats": 404,
+    "grade": "R",
+    "pulledAt": "2026-10-08T01:05:52.357Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-08T01:05:52.357Z"
+    },
     {
       "id": 650,
       "name": "chespin",
@@ -117,18 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-06T00:04:08.294Z"
-    },
-    {
-      "id": 991,
-      "name": "iron-bundle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-05T18:10:00.701Z"
     }
   ],
   "pokemon": {
@@ -1635,6 +1634,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:25:00.070Z",
       "lastPulledAt": "2026-09-27T15:25:00.070Z"
+    },
+    "918": {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-08T01:05:52.357Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T01:05:52.357Z",
+      "lastPulledAt": "2026-10-08T01:05:52.357Z"
     },
     "919": {
       "id": 919,
