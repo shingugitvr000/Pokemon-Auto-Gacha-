@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T19:03:26.071Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T23:13:43.152Z",
   "lastPull": {
-    "id": 931,
-    "name": "squawkabilly-green-plumage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "id": 209,
+    "name": "snubbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
     "types": [
-      "normal",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 417,
-    "grade": "R",
-    "pulledAt": "2026-10-09T19:03:26.071Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-09T23:13:43.152Z"
   },
   "pulls": [
+    {
+      "id": 209,
+      "name": "snubbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-09T23:13:43.152Z"
+    },
     {
       "id": 931,
       "name": "squawkabilly-green-plumage",
@@ -120,17 +130,6 @@
       "totalStats": 313,
       "grade": "N",
       "pulledAt": "2026-10-07T21:18:45.984Z"
-    },
-    {
-      "id": 513,
-      "name": "pansear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-10-07T16:09:52.949Z"
     }
   ],
   "pokemon": {
@@ -427,6 +426,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:31:31.669Z",
       "lastPulledAt": "2026-09-17T05:31:31.669Z"
+    },
+    "209": {
+      "id": 209,
+      "name": "snubbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-09T23:13:43.152Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T23:13:43.152Z",
+      "lastPulledAt": "2026-10-09T23:13:43.152Z"
     },
     "220": {
       "id": 220,
