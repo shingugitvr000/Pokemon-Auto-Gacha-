@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-09T06:35:33.447Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-09T13:44:42.716Z",
   "lastPull": {
-    "id": 430,
-    "name": "honchkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+    "id": 787,
+    "name": "tapu-bulu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
     "types": [
-      "dark",
-      "flying"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 505,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-09T06:35:33.447Z"
+    "pulledAt": "2026-10-09T13:44:42.716Z"
   },
   "pulls": [
+    {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T13:44:42.716Z"
+    },
     {
       "id": 430,
       "name": "honchkrow",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-07T08:50:22.559Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-07T02:14:19.595Z"
     }
   ],
   "pokemon": {
@@ -1468,6 +1468,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:49:36.606Z",
       "lastPulledAt": "2026-10-04T06:25:32.296Z"
+    },
+    "787": {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T13:44:42.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T13:44:42.716Z",
+      "lastPulledAt": "2026-10-09T13:44:42.716Z"
     },
     "823": {
       "id": 823,
