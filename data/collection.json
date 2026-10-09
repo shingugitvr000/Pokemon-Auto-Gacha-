@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-09T00:28:15.727Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-09T06:35:33.447Z",
   "lastPull": {
-    "id": 867,
-    "name": "runerigus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "id": 430,
+    "name": "honchkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
     "types": [
-      "ground",
-      "ghost"
+      "dark",
+      "flying"
     ],
-    "totalStats": 483,
-    "grade": "R",
-    "pulledAt": "2026-10-09T00:28:15.727Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T06:35:33.447Z"
   },
   "pulls": [
+    {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T06:35:33.447Z"
+    },
     {
       "id": 867,
       "name": "runerigus",
@@ -119,18 +131,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-07T02:14:19.595Z"
-    },
-    {
-      "id": 183,
-      "name": "marill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-06T22:58:19.973Z"
     }
   ],
   "pokemon": {
@@ -848,6 +848,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T15:11:46.560Z",
       "lastPulledAt": "2026-09-17T15:11:46.560Z"
+    },
+    "430": {
+      "id": 430,
+      "name": "honchkrow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T06:35:33.447Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T06:35:33.447Z",
+      "lastPulledAt": "2026-10-09T06:35:33.447Z"
     },
     "437": {
       "id": 437,
