@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T13:44:42.716Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T19:03:26.071Z",
   "lastPull": {
-    "id": 787,
-    "name": "tapu-bulu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
     "types": [
-      "grass",
-      "fairy"
+      "normal",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T13:44:42.716Z"
+    "totalStats": 417,
+    "grade": "R",
+    "pulledAt": "2026-10-09T19:03:26.071Z"
   },
   "pulls": [
+    {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-09T19:03:26.071Z"
+    },
     {
       "id": 787,
       "name": "tapu-bulu",
@@ -119,18 +131,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-10-07T16:09:52.949Z"
-    },
-    {
-      "id": 701,
-      "name": "hawlucha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
-      "types": [
-        "fighting",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T08:50:22.559Z"
     }
   ],
   "pokemon": {
@@ -1791,10 +1791,10 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-09-25T06:43:09.617Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:43:09.617Z",
-      "lastPulledAt": "2026-09-25T06:43:09.617Z"
+      "lastPulledAt": "2026-10-09T19:03:26.071Z"
     },
     "933": {
       "id": 933,
