@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-10T14:53:21.770Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-10T19:09:17.541Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 729,
+    "name": "brionne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-10T14:53:21.770Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-10T19:09:17.541Z"
   },
   "pulls": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-10T19:09:17.541Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -119,18 +130,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-08T20:14:05.904Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-08T14:42:45.696Z"
     }
   ],
   "pokemon": {
@@ -1405,6 +1404,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T02:14:19.595Z",
       "lastPulledAt": "2026-10-07T02:14:19.595Z"
+    },
+    "729": {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-10T19:09:17.541Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T19:09:17.541Z",
+      "lastPulledAt": "2026-10-10T19:09:17.541Z"
     },
     "751": {
       "id": 751,
