@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-10T02:25:36.137Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T08:50:06.462Z",
   "lastPull": {
-    "id": 976,
-    "name": "veluza",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+    "id": 14,
+    "name": "kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "types": [
-      "water",
-      "psychic"
+      "bug",
+      "poison"
     ],
-    "totalStats": 478,
-    "grade": "R",
-    "pulledAt": "2026-10-10T02:25:36.137Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-10-10T08:50:06.462Z"
   },
   "pulls": [
+    {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-10T08:50:06.462Z"
+    },
     {
       "id": 976,
       "name": "veluza",
@@ -121,17 +133,6 @@
       "totalStats": 519,
       "grade": "SR",
       "pulledAt": "2026-10-08T07:19:35.582Z"
-    },
-    {
-      "id": 918,
-      "name": "spidops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 404,
-      "grade": "R",
-      "pulledAt": "2026-10-08T01:05:52.357Z"
     }
   ],
   "pokemon": {
@@ -164,6 +165,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:09:52.342Z",
       "lastPulledAt": "2026-10-04T23:09:52.342Z"
+    },
+    "14": {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-10T08:50:06.462Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T08:50:06.462Z",
+      "lastPulledAt": "2026-10-10T08:50:06.462Z"
     },
     "35": {
       "id": 35,
