@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-11T07:18:30.913Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-11T14:12:17.651Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "dragon"
+      "bug"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-11T07:18:30.913Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-10-11T14:12:17.651Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-11T14:12:17.651Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -117,18 +128,6 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-10-09T19:03:26.071Z"
-    },
-    {
-      "id": 787,
-      "name": "tapu-bulu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T13:44:42.716Z"
     }
   ],
   "pokemon": {
@@ -157,10 +156,10 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-04T23:09:52.342Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:09:52.342Z",
-      "lastPulledAt": "2026-10-04T23:09:52.342Z"
+      "lastPulledAt": "2026-10-11T14:12:17.651Z"
     },
     "14": {
       "id": 14,
