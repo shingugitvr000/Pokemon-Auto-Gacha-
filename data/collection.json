@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-10T22:31:47.956Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-11T01:14:20.345Z",
   "lastPull": {
-    "id": 931,
-    "name": "squawkabilly-green-plumage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "id": 791,
+    "name": "solgaleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
     "types": [
-      "normal",
-      "flying"
+      "psychic",
+      "steel"
     ],
-    "totalStats": 417,
-    "grade": "R",
-    "pulledAt": "2026-10-10T22:31:47.956Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-11T01:14:20.345Z"
   },
   "pulls": [
+    {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T01:14:20.345Z"
+    },
     {
       "id": 931,
       "name": "squawkabilly-green-plumage",
@@ -119,18 +131,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-09T06:35:33.447Z"
-    },
-    {
-      "id": 867,
-      "name": "runerigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
-      "types": [
-        "ground",
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-09T00:28:15.727Z"
     }
   ],
   "pokemon": {
@@ -1545,6 +1545,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T13:44:42.716Z",
       "lastPulledAt": "2026-10-09T13:44:42.716Z"
+    },
+    "791": {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T01:14:20.345Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T01:14:20.345Z",
+      "lastPulledAt": "2026-10-11T01:14:20.345Z"
     },
     "823": {
       "id": 823,
