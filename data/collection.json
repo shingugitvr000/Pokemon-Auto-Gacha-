@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-11T01:14:20.345Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-11T07:18:30.913Z",
   "lastPull": {
-    "id": 791,
-    "name": "solgaleo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+    "id": 705,
+    "name": "sliggoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
     "types": [
-      "psychic",
-      "steel"
+      "dragon"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-11T01:14:20.345Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-10-11T07:18:30.913Z"
   },
   "pulls": [
+    {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:18:30.913Z"
+    },
     {
       "id": 791,
       "name": "solgaleo",
@@ -119,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-09T13:44:42.716Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T06:35:33.447Z"
     }
   ],
   "pokemon": {
@@ -1389,6 +1387,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T08:50:22.559Z",
       "lastPulledAt": "2026-10-07T08:50:22.559Z"
+    },
+    "705": {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-11T07:18:30.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T07:18:30.913Z",
+      "lastPulledAt": "2026-10-11T07:18:30.913Z"
     },
     "709": {
       "id": 709,
