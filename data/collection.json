@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T18:59:31.598Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T22:47:45.971Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 816,
+    "name": "sobble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
     "types": [
-      "steel",
-      "poison"
+      "water"
     ],
-    "totalStats": 300,
+    "totalStats": 310,
     "grade": "N",
-    "pulledAt": "2026-10-11T18:59:31.598Z"
+    "pulledAt": "2026-10-11T22:47:45.971Z"
   },
   "pulls": [
+    {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-11T22:47:45.971Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -118,17 +128,6 @@
       "totalStats": 478,
       "grade": "R",
       "pulledAt": "2026-10-10T02:25:36.137Z"
-    },
-    {
-      "id": 209,
-      "name": "snubbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-09T23:13:43.152Z"
     }
   ],
   "pokemon": {
@@ -1574,6 +1573,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:14:20.345Z",
       "lastPulledAt": "2026-10-11T01:14:20.345Z"
+    },
+    "816": {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-11T22:47:45.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:47:45.971Z",
+      "lastPulledAt": "2026-10-11T22:47:45.971Z"
     },
     "823": {
       "id": 823,
