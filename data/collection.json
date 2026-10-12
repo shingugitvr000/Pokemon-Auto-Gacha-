@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-12T08:47:45.291Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-12T18:15:30.552Z",
   "lastPull": {
-    "id": 525,
-    "name": "boldore",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "rock"
+      "psychic"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-10-12T08:47:45.291Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-12T18:15:30.552Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T18:15:30.552Z"
+    },
     {
       "id": 525,
       "name": "boldore",
@@ -115,17 +126,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-10T19:09:17.541Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-10T14:53:21.770Z"
     }
   ],
   "pokemon": {
@@ -407,6 +407,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T22:58:19.973Z",
       "lastPulledAt": "2026-10-06T22:58:19.973Z"
+    },
+    "196": {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T18:15:30.552Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T18:15:30.552Z",
+      "lastPulledAt": "2026-10-12T18:15:30.552Z"
     },
     "197": {
       "id": 197,
