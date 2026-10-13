@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-13T00:50:01.174Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-13T07:11:37.470Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 761,
+    "name": "bounsweet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
     "types": [
-      "psychic"
+      "grass"
     ],
-    "totalStats": 292,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-10-13T00:50:01.174Z"
+    "pulledAt": "2026-10-13T07:11:37.470Z"
   },
   "pulls": [
+    {
+      "id": 761,
+      "name": "bounsweet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-13T07:11:37.470Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -114,18 +125,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-11T01:14:20.345Z"
-    },
-    {
-      "id": 931,
-      "name": "squawkabilly-green-plumage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 417,
-      "grade": "R",
-      "pulledAt": "2026-10-10T22:31:47.956Z"
     }
   ],
   "pokemon": {
@@ -1523,6 +1522,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T14:07:20.890Z",
       "lastPulledAt": "2026-09-30T14:07:20.890Z"
+    },
+    "761": {
+      "id": 761,
+      "name": "bounsweet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-13T07:11:37.470Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T07:11:37.470Z",
+      "lastPulledAt": "2026-10-13T07:11:37.470Z"
     },
     "763": {
       "id": 763,
