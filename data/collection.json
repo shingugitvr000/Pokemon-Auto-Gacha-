@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T15:07:54.837Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T20:40:30.949Z",
   "lastPull": {
-    "id": 261,
-    "name": "poochyena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png",
+    "id": 350,
+    "name": "milotic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
     "types": [
-      "dark"
+      "water"
     ],
-    "totalStats": 220,
-    "grade": "N",
-    "pulledAt": "2026-10-13T15:07:54.837Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T20:40:30.949Z"
   },
   "pulls": [
+    {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T20:40:30.949Z"
+    },
     {
       "id": 261,
       "name": "poochyena",
@@ -113,17 +124,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-11T14:12:17.651Z"
-    },
-    {
-      "id": 705,
-      "name": "sliggoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-11T07:18:30.913Z"
     }
   ],
   "pokemon": {
@@ -716,6 +716,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T20:42:11.100Z",
       "lastPulledAt": "2026-09-28T20:42:11.100Z"
+    },
+    "350": {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T20:40:30.949Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T20:40:30.949Z",
+      "lastPulledAt": "2026-10-13T20:40:30.949Z"
     },
     "355": {
       "id": 355,
