@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-13T23:57:54.655Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-14T04:40:55.079Z",
   "lastPull": {
-    "id": 995,
-    "name": "iron-thorns",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "id": 988,
+    "name": "slither-wing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
     "types": [
-      "rock",
-      "electric"
+      "bug",
+      "fighting"
     ],
     "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-13T23:57:54.655Z"
+    "pulledAt": "2026-10-14T04:40:55.079Z"
   },
   "pulls": [
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T04:40:55.079Z"
+    },
     {
       "id": 995,
       "name": "iron-thorns",
@@ -114,18 +126,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-11T22:47:45.971Z"
-    },
-    {
-      "id": 965,
-      "name": "varoom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-11T18:59:31.598Z"
     }
   ],
   "pokemon": {
@@ -2174,6 +2174,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:19:17.279Z",
       "lastPulledAt": "2026-09-24T17:19:17.279Z"
+    },
+    "988": {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T04:40:55.079Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T04:40:55.079Z",
+      "lastPulledAt": "2026-10-14T04:40:55.079Z"
     },
     "989": {
       "id": 989,
