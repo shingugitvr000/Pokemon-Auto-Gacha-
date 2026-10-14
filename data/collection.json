@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-10-14T14:42:20.937Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-10-14T18:58:44.996Z",
   "lastPull": {
-    "id": 924,
-    "name": "tandemaus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+    "id": 374,
+    "name": "beldum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
     "types": [
-      "normal"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 305,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-14T14:42:20.937Z"
+    "pulledAt": "2026-10-14T18:58:44.996Z"
   },
   "pulls": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-14T18:58:44.996Z"
+    },
     {
       "id": 924,
       "name": "tandemaus",
@@ -115,17 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-12T18:15:30.552Z"
-    },
-    {
-      "id": 525,
-      "name": "boldore",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-10-12T08:47:45.291Z"
     }
   ],
   "pokemon": {
@@ -807,10 +809,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-24T20:34:29.503Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:34:29.503Z",
-      "lastPulledAt": "2026-09-24T20:34:29.503Z"
+      "lastPulledAt": "2026-10-14T18:58:44.996Z"
     },
     "384": {
       "id": 384,
