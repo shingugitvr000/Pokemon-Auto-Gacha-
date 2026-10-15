@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-15T14:57:53.254Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T19:01:47.974Z",
   "lastPull": {
-    "id": 64,
-    "name": "kadabra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "id": 498,
+    "name": "tepig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-10-15T14:57:53.254Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-15T19:01:47.974Z"
   },
   "pulls": [
+    {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:01:47.974Z"
+    },
     {
       "id": 64,
       "name": "kadabra",
@@ -118,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-14T04:40:55.079Z"
-    },
-    {
-      "id": 995,
-      "name": "iron-thorns",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-      "types": [
-        "rock",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T23:57:54.655Z"
     }
   ],
   "pokemon": {
@@ -1094,6 +1093,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T01:51:16.986Z",
       "lastPulledAt": "2026-10-12T01:51:16.986Z"
+    },
+    "498": {
+      "id": 498,
+      "name": "tepig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:01:47.974Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T19:01:47.974Z",
+      "lastPulledAt": "2026-10-15T19:01:47.974Z"
     },
     "500": {
       "id": 500,
