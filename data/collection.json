@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 157,
-  "updatedAt": "2026-10-15T00:35:29.290Z",
+  "totalPulls": 158,
+  "updatedAt": "2026-10-15T05:10:19.965Z",
   "lastPull": {
-    "id": 565,
-    "name": "carracosta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "id": 534,
+    "name": "conkeldurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
     "types": [
-      "water",
-      "rock"
+      "fighting"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-15T00:35:29.290Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T05:10:19.965Z"
   },
   "pulls": [
+    {
+      "id": 534,
+      "name": "conkeldurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T05:10:19.965Z"
+    },
     {
       "id": 565,
       "name": "carracosta",
@@ -119,17 +129,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-10-13T15:07:54.837Z"
-    },
-    {
-      "id": 761,
-      "name": "bounsweet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-13T07:11:37.470Z"
     }
   ],
   "pokemon": {
@@ -1185,6 +1184,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T08:47:45.291Z",
       "lastPulledAt": "2026-10-12T08:47:45.291Z"
+    },
+    "534": {
+      "id": 534,
+      "name": "conkeldurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T05:10:19.965Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T05:10:19.965Z",
+      "lastPulledAt": "2026-10-15T05:10:19.965Z"
     },
     "535": {
       "id": 535,
