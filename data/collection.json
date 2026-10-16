@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-10-16T18:09:53.733Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-10-16T21:09:56.442Z",
   "lastPull": {
-    "id": 415,
-    "name": "combee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+    "id": 262,
+    "name": "mightyena",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
     "types": [
-      "bug",
-      "flying"
+      "dark"
     ],
-    "totalStats": 244,
-    "grade": "N",
-    "pulledAt": "2026-10-16T18:09:53.733Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-16T21:09:56.442Z"
   },
   "pulls": [
+    {
+      "id": 262,
+      "name": "mightyena",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-16T21:09:56.442Z"
+    },
     {
       "id": 415,
       "name": "combee",
@@ -117,17 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-15T10:03:14.977Z"
-    },
-    {
-      "id": 534,
-      "name": "conkeldurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T05:10:19.965Z"
     }
   ],
   "pokemon": {
@@ -589,10 +588,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-26T22:07:02.834Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:07:02.834Z",
-      "lastPulledAt": "2026-09-26T22:07:02.834Z"
+      "lastPulledAt": "2026-10-16T21:09:56.442Z"
     },
     "270": {
       "id": 270,
