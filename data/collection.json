@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T21:09:56.442Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T23:36:29.021Z",
   "lastPull": {
-    "id": 262,
-    "name": "mightyena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "id": 909,
+    "name": "fuecoco",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
     "types": [
-      "dark"
+      "fire"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-16T21:09:56.442Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-16T23:36:29.021Z"
   },
   "pulls": [
+    {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T23:36:29.021Z"
+    },
     {
       "id": 262,
       "name": "mightyena",
@@ -115,18 +126,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-15T14:57:53.254Z"
-    },
-    {
-      "id": 780,
-      "name": "drampa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
-      "types": [
-        "normal",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-15T10:03:14.977Z"
     }
   ],
   "pokemon": {
@@ -2081,6 +2080,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T19:05:47.885Z",
       "lastPulledAt": "2026-09-17T19:05:47.885Z"
+    },
+    "909": {
+      "id": 909,
+      "name": "fuecoco",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-16T23:36:29.021Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T23:36:29.021Z",
+      "lastPulledAt": "2026-10-16T23:36:29.021Z"
     },
     "913": {
       "id": 913,
