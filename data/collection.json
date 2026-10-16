@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-16T00:28:40.998Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-16T04:53:42.991Z",
   "lastPull": {
-    "id": 510,
-    "name": "liepard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": [
-      "dark"
+      "normal",
+      "flying"
     ],
-    "totalStats": 446,
-    "grade": "R",
-    "pulledAt": "2026-10-16T00:28:40.998Z"
+    "totalStats": 349,
+    "grade": "N",
+    "pulledAt": "2026-10-16T04:53:42.991Z"
   },
   "pulls": [
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-16T04:53:42.991Z"
+    },
     {
       "id": 510,
       "name": "liepard",
@@ -117,17 +130,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-14T18:58:44.996Z"
-    },
-    {
-      "id": 924,
-      "name": "tandemaus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-14T14:42:20.937Z"
     }
   ],
   "pokemon": {
@@ -176,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T08:50:06.462Z",
       "lastPulledAt": "2026-10-10T08:50:06.462Z"
+    },
+    "17": {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-16T04:53:42.991Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T04:53:42.991Z",
+      "lastPulledAt": "2026-10-16T04:53:42.991Z"
     },
     "35": {
       "id": 35,
