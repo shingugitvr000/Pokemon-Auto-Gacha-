@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-15T22:12:43.584Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-16T00:28:40.998Z",
   "lastPull": {
-    "id": 238,
-    "name": "smoochum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+    "id": 510,
+    "name": "liepard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
     "types": [
-      "ice",
-      "psychic"
+      "dark"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-15T22:12:43.584Z"
+    "totalStats": 446,
+    "grade": "R",
+    "pulledAt": "2026-10-16T00:28:40.998Z"
   },
   "pulls": [
+    {
+      "id": 510,
+      "name": "liepard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 446,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:28:40.998Z"
+    },
     {
       "id": 238,
       "name": "smoochum",
@@ -118,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-14T14:42:20.937Z"
-    },
-    {
-      "id": 948,
-      "name": "toedscool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      "types": [
-        "ground",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-14T09:46:48.513Z"
     }
   ],
   "pokemon": {
@@ -1156,6 +1154,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T16:13:00.828Z",
       "lastPulledAt": "2026-10-03T16:13:00.828Z"
+    },
+    "510": {
+      "id": 510,
+      "name": "liepard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 446,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:28:40.998Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T00:28:40.998Z",
+      "lastPulledAt": "2026-10-16T00:28:40.998Z"
     },
     "513": {
       "id": 513,
