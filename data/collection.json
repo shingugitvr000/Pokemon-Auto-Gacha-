@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T14:13:54.601Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T18:09:53.733Z",
   "lastPull": {
-    "id": 812,
-    "name": "rillaboom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+    "id": 415,
+    "name": "combee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
     "types": [
-      "grass"
+      "bug",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T14:13:54.601Z"
+    "totalStats": 244,
+    "grade": "N",
+    "pulledAt": "2026-10-16T18:09:53.733Z"
   },
   "pulls": [
+    {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-10-16T18:09:53.733Z"
+    },
     {
       "id": 812,
       "name": "rillaboom",
@@ -115,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-15T05:10:19.965Z"
-    },
-    {
-      "id": 565,
-      "name": "carracosta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-15T00:35:29.290Z"
     }
   ],
   "pokemon": {
@@ -967,6 +968,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T06:02:34.855Z",
       "lastPulledAt": "2026-09-20T06:02:34.855Z"
+    },
+    "415": {
+      "id": 415,
+      "name": "combee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 244,
+      "grade": "N",
+      "pulledAt": "2026-10-16T18:09:53.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T18:09:53.733Z",
+      "lastPulledAt": "2026-10-16T18:09:53.733Z"
     },
     "429": {
       "id": 429,
