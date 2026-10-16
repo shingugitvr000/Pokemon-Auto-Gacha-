@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-16T09:33:09.318Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-16T14:13:54.601Z",
   "lastPull": {
-    "id": 750,
-    "name": "mudsdale",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "id": 812,
+    "name": "rillaboom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
     "types": [
-      "ground"
+      "grass"
     ],
-    "totalStats": 500,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-16T09:33:09.318Z"
+    "pulledAt": "2026-10-16T14:13:54.601Z"
   },
   "pulls": [
+    {
+      "id": 812,
+      "name": "rillaboom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T14:13:54.601Z"
+    },
     {
       "id": 750,
       "name": "mudsdale",
@@ -116,18 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-15T00:35:29.290Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T22:12:36.092Z"
     }
   ],
   "pokemon": {
@@ -1802,6 +1801,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:14:20.345Z",
       "lastPulledAt": "2026-10-11T01:14:20.345Z"
+    },
+    "812": {
+      "id": 812,
+      "name": "rillaboom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T14:13:54.601Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T14:13:54.601Z",
+      "lastPulledAt": "2026-10-16T14:13:54.601Z"
     },
     "816": {
       "id": 816,
