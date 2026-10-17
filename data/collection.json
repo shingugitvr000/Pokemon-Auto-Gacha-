@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T16:59:30.080Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T19:14:05.262Z",
   "lastPull": {
-    "id": 352,
-    "name": "kecleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "normal"
+      "rock"
     ],
-    "totalStats": 440,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-17T16:59:30.080Z"
+    "pulledAt": "2026-10-17T19:14:05.262Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-17T19:14:05.262Z"
+    },
     {
       "id": 352,
       "name": "kecleon",
@@ -116,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-16T14:13:54.601Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T09:33:09.318Z"
     }
   ],
   "pokemon": {
@@ -982,6 +982,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T11:16:54.634Z",
       "lastPulledAt": "2026-09-20T11:16:54.634Z"
+    },
+    "409": {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-17T19:14:05.262Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T19:14:05.262Z",
+      "lastPulledAt": "2026-10-17T19:14:05.262Z"
     },
     "410": {
       "id": 410,
