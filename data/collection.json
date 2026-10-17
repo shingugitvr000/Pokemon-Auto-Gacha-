@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-10-17T19:14:05.262Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-10-17T21:31:20.225Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 776,
+    "name": "turtonator",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
     "types": [
-      "rock"
+      "fire",
+      "dragon"
     ],
-    "totalStats": 495,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-17T19:14:05.262Z"
+    "pulledAt": "2026-10-17T21:31:20.225Z"
   },
   "pulls": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-17T21:31:20.225Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -116,17 +129,6 @@
       "totalStats": 244,
       "grade": "N",
       "pulledAt": "2026-10-16T18:09:53.733Z"
-    },
-    {
-      "id": 812,
-      "name": "rillaboom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T14:13:54.601Z"
     }
   ],
   "pokemon": {
@@ -1814,6 +1816,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:12:58.292Z",
       "lastPulledAt": "2026-10-03T22:12:58.292Z"
+    },
+    "776": {
+      "id": 776,
+      "name": "turtonator",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-17T21:31:20.225Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T21:31:20.225Z",
+      "lastPulledAt": "2026-10-17T21:31:20.225Z"
     },
     "780": {
       "id": 780,
