@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T13:57:57.285Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T16:59:30.080Z",
   "lastPull": {
-    "id": 980,
-    "name": "clodsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    "id": 352,
+    "name": "kecleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
     "types": [
-      "poison",
-      "ground"
+      "normal"
     ],
-    "totalStats": 430,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-17T13:57:57.285Z"
+    "pulledAt": "2026-10-17T16:59:30.080Z"
   },
   "pulls": [
+    {
+      "id": 352,
+      "name": "kecleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-17T16:59:30.080Z"
+    },
     {
       "id": 980,
       "name": "clodsire",
@@ -117,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-16T09:33:09.318Z"
-    },
-    {
-      "id": 17,
-      "name": "pidgeotto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 349,
-      "grade": "N",
-      "pulledAt": "2026-10-16T04:53:42.991Z"
     }
   ],
   "pokemon": {
@@ -799,6 +797,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T20:40:30.949Z",
       "lastPulledAt": "2026-10-13T20:40:30.949Z"
+    },
+    "352": {
+      "id": 352,
+      "name": "kecleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-17T16:59:30.080Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T16:59:30.080Z",
+      "lastPulledAt": "2026-10-17T16:59:30.080Z"
     },
     "355": {
       "id": 355,
