@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-17T01:32:24.218Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-17T06:09:43.462Z",
   "lastPull": {
-    "id": 228,
-    "name": "houndour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "id": 936,
+    "name": "armarouge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
     "types": [
-      "dark",
-      "fire"
+      "fire",
+      "psychic"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-17T01:32:24.218Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T06:09:43.462Z"
   },
   "pulls": [
+    {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T06:09:43.462Z"
+    },
     {
       "id": 228,
       "name": "houndour",
@@ -117,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-15T22:12:43.584Z"
-    },
-    {
-      "id": 498,
-      "name": "tepig",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-15T19:01:47.974Z"
     }
   ],
   "pokemon": {
@@ -2235,6 +2236,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T23:10:44.242Z",
       "lastPulledAt": "2026-09-22T23:10:44.242Z"
+    },
+    "936": {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T06:09:43.462Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T06:09:43.462Z",
+      "lastPulledAt": "2026-10-17T06:09:43.462Z"
     },
     "937": {
       "id": 937,
