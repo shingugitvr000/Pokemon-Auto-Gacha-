@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T10:44:59.776Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T13:57:57.285Z",
   "lastPull": {
-    "id": 480,
-    "name": "uxie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "id": 980,
+    "name": "clodsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
     "types": [
-      "psychic"
+      "poison",
+      "ground"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T10:44:59.776Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-17T13:57:57.285Z"
   },
   "pulls": [
+    {
+      "id": 980,
+      "name": "clodsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T13:57:57.285Z"
+    },
     {
       "id": 480,
       "name": "uxie",
@@ -116,17 +129,6 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-10-16T04:53:42.991Z"
-    },
-    {
-      "id": 510,
-      "name": "liepard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 446,
-      "grade": "R",
-      "pulledAt": "2026-10-16T00:28:40.998Z"
     }
   ],
   "pokemon": {
@@ -2438,6 +2440,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T02:25:36.137Z",
       "lastPulledAt": "2026-10-10T02:25:36.137Z"
+    },
+    "980": {
+      "id": 980,
+      "name": "clodsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T13:57:57.285Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T13:57:57.285Z",
+      "lastPulledAt": "2026-10-17T13:57:57.285Z"
     },
     "984": {
       "id": 984,
