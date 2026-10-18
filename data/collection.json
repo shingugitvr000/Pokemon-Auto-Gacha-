@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-18T11:34:33.503Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T14:47:51.477Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 640,
+    "name": "virizion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
     "types": [
-      "ground",
-      "normal"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 550,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-18T11:34:33.503Z"
+    "pulledAt": "2026-10-18T14:47:51.477Z"
   },
   "pulls": [
+    {
+      "id": 640,
+      "name": "virizion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T14:47:51.477Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -118,18 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-17T10:44:59.776Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T06:09:43.462Z"
     }
   ],
   "pokemon": {
@@ -1585,6 +1585,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T07:25:46.307Z",
       "lastPulledAt": "2026-09-30T07:25:46.307Z"
+    },
+    "640": {
+      "id": 640,
+      "name": "virizion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T14:47:51.477Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T14:47:51.477Z",
+      "lastPulledAt": "2026-10-18T14:47:51.477Z"
     },
     "650": {
       "id": 650,
