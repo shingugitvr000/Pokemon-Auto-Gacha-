@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-17T23:24:17.606Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-18T01:24:27.869Z",
   "lastPull": {
-    "id": 467,
-    "name": "magmortar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
+    "id": 1012,
+    "name": "poltchageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
     "types": [
-      "fire"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T23:24:17.606Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-18T01:24:27.869Z"
   },
   "pulls": [
+    {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-18T01:24:27.869Z"
+    },
     {
       "id": 467,
       "name": "magmortar",
@@ -116,17 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-16T23:36:29.021Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-16T21:09:56.442Z"
     }
   ],
   "pokemon": {
@@ -2642,6 +2644,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:11:14.181Z",
       "lastPulledAt": "2026-09-27T19:11:14.181Z"
+    },
+    "1012": {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-18T01:24:27.869Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T01:24:27.869Z",
+      "lastPulledAt": "2026-10-18T01:24:27.869Z"
     },
     "1021": {
       "id": 1021,
