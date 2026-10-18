@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-18T21:54:03.209Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-18T23:58:15.044Z",
   "lastPull": {
-    "id": 803,
-    "name": "poipole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "poison"
+      "fighting"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-18T21:54:03.209Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-18T23:58:15.044Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-18T23:58:15.044Z"
+    },
     {
       "id": 803,
       "name": "poipole",
@@ -119,17 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-17T21:31:20.225Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-17T19:14:05.262Z"
     }
   ],
   "pokemon": {
@@ -240,6 +240,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T14:57:53.254Z",
       "lastPulledAt": "2026-10-15T14:57:53.254Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-18T23:58:15.044Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T23:58:15.044Z",
+      "lastPulledAt": "2026-10-18T23:58:15.044Z"
     },
     "78": {
       "id": 78,
