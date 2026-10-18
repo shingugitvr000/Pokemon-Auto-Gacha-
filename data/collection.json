@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-18T17:35:31.757Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-18T19:39:51.824Z",
   "lastPull": {
-    "id": 14,
-    "name": "kakuna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "id": 636,
+    "name": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
     "types": [
       "bug",
-      "poison"
+      "fire"
     ],
-    "totalStats": 205,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-18T17:35:31.757Z"
+    "pulledAt": "2026-10-18T19:39:51.824Z"
   },
   "pulls": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:39:51.824Z"
+    },
     {
       "id": 14,
       "name": "kakuna",
@@ -119,18 +131,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-17T16:59:30.080Z"
-    },
-    {
-      "id": 980,
-      "name": "clodsire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-10-17T13:57:57.285Z"
     }
   ],
   "pokemon": {
@@ -1570,6 +1570,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T02:01:56.452Z",
       "lastPulledAt": "2026-10-05T02:01:56.452Z"
+    },
+    "636": {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:39:51.824Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T19:39:51.824Z",
+      "lastPulledAt": "2026-10-18T19:39:51.824Z"
     },
     "638": {
       "id": 638,
