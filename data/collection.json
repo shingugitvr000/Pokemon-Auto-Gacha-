@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-19T17:00:59.212Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-19T21:29:53.875Z",
   "lastPull": {
-    "id": 79,
-    "name": "slowpoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "id": 963,
+    "name": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
     "types": [
-      "water",
-      "psychic"
+      "water"
     ],
     "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-10-19T17:00:59.212Z"
+    "pulledAt": "2026-10-19T21:29:53.875Z"
   },
   "pulls": [
+    {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-19T21:29:53.875Z"
+    },
     {
       "id": 79,
       "name": "slowpoke",
@@ -120,18 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-18T11:34:33.503Z"
-    },
-    {
-      "id": 322,
-      "name": "numel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
-      "types": [
-        "fire",
-        "ground"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-18T06:25:10.668Z"
     }
   ],
   "pokemon": {
@@ -2583,6 +2581,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:37:22.637Z",
       "lastPulledAt": "2026-09-25T23:37:22.637Z"
+    },
+    "963": {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-19T21:29:53.875Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T21:29:53.875Z",
+      "lastPulledAt": "2026-10-19T21:29:53.875Z"
     },
     "965": {
       "id": 965,
