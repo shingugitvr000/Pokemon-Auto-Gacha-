@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T23:58:15.044Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-19T04:26:21.507Z",
   "lastPull": {
-    "id": 66,
-    "name": "machop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "id": 46,
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "types": [
-      "fighting"
+      "bug",
+      "grass"
     ],
-    "totalStats": 305,
+    "totalStats": 285,
     "grade": "N",
-    "pulledAt": "2026-10-18T23:58:15.044Z"
+    "pulledAt": "2026-10-19T04:26:21.507Z"
   },
   "pulls": [
+    {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-19T04:26:21.507Z"
+    },
     {
       "id": 66,
       "name": "machop",
@@ -118,18 +131,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-17T23:24:17.606Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-17T21:31:20.225Z"
     }
   ],
   "pokemon": {
@@ -225,6 +226,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:20:48.622Z",
       "lastPulledAt": "2026-09-25T12:20:48.622Z"
+    },
+    "46": {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-19T04:26:21.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T04:26:21.507Z",
+      "lastPulledAt": "2026-10-19T04:26:21.507Z"
     },
     "64": {
       "id": 64,
