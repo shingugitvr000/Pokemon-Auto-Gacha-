@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T10:10:41.623Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T17:00:59.212Z",
   "lastPull": {
-    "id": 848,
-    "name": "toxel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "id": 79,
+    "name": "slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
     "types": [
-      "electric",
-      "poison"
+      "water",
+      "psychic"
     ],
-    "totalStats": 242,
+    "totalStats": 315,
     "grade": "N",
-    "pulledAt": "2026-10-19T10:10:41.623Z"
+    "pulledAt": "2026-10-19T17:00:59.212Z"
   },
   "pulls": [
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-19T17:00:59.212Z"
+    },
     {
       "id": 848,
       "name": "toxel",
@@ -120,18 +132,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-18T06:25:10.668Z"
-    },
-    {
-      "id": 1012,
-      "name": "poltchageist",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-18T01:24:27.869Z"
     }
   ],
   "pokemon": {
@@ -288,6 +288,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:45:08.237Z",
       "lastPulledAt": "2026-09-19T18:45:08.237Z"
+    },
+    "79": {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-19T17:00:59.212Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T17:00:59.212Z",
+      "lastPulledAt": "2026-10-19T17:00:59.212Z"
     },
     "86": {
       "id": 86,
