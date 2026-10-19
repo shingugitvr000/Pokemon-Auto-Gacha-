@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-19T04:26:21.507Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-19T10:10:41.623Z",
   "lastPull": {
-    "id": 46,
-    "name": "paras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "id": 848,
+    "name": "toxel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
     "types": [
-      "bug",
-      "grass"
+      "electric",
+      "poison"
     ],
-    "totalStats": 285,
+    "totalStats": 242,
     "grade": "N",
-    "pulledAt": "2026-10-19T04:26:21.507Z"
+    "pulledAt": "2026-10-19T10:10:41.623Z"
   },
   "pulls": [
+    {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-10-19T10:10:41.623Z"
+    },
     {
       "id": 46,
       "name": "paras",
@@ -120,17 +132,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-18T01:24:27.869Z"
-    },
-    {
-      "id": 467,
-      "name": "magmortar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T23:24:17.606Z"
     }
   ],
   "pokemon": {
@@ -2177,6 +2178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:50:03.015Z",
       "lastPulledAt": "2026-09-20T19:50:03.015Z"
+    },
+    "848": {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-10-19T10:10:41.623Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T10:10:41.623Z",
+      "lastPulledAt": "2026-10-19T10:10:41.623Z"
     },
     "858": {
       "id": 858,
