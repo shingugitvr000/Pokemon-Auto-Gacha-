@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-19T21:29:53.875Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-20T00:35:42.696Z",
   "lastPull": {
-    "id": 963,
-    "name": "finizen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    "id": 639,
+    "name": "terrakion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
     "types": [
-      "water"
+      "rock",
+      "fighting"
     ],
-    "totalStats": 315,
-    "grade": "N",
-    "pulledAt": "2026-10-19T21:29:53.875Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T00:35:42.696Z"
   },
   "pulls": [
+    {
+      "id": 639,
+      "name": "terrakion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T00:35:42.696Z"
+    },
     {
       "id": 963,
       "name": "finizen",
@@ -118,18 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-18T14:47:51.477Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T11:34:33.503Z"
     }
   ],
   "pokemon": {
@@ -1648,6 +1649,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T07:25:46.307Z",
       "lastPulledAt": "2026-09-30T07:25:46.307Z"
+    },
+    "639": {
+      "id": 639,
+      "name": "terrakion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T00:35:42.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T00:35:42.696Z",
+      "lastPulledAt": "2026-10-20T00:35:42.696Z"
     },
     "640": {
       "id": 640,
