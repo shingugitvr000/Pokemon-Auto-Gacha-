@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T15:10:45.093Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T19:21:57.407Z",
   "lastPull": {
-    "id": 858,
-    "name": "hatterene",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+    "id": 612,
+    "name": "haxorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
     "types": [
-      "psychic",
-      "fairy"
+      "dragon"
     ],
-    "totalStats": 510,
+    "totalStats": 540,
     "grade": "SR",
-    "pulledAt": "2026-10-20T15:10:45.093Z"
+    "pulledAt": "2026-10-20T19:21:57.407Z"
   },
   "pulls": [
+    {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:21:57.407Z"
+    },
     {
       "id": 858,
       "name": "hatterene",
@@ -120,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-18T23:58:15.044Z"
-    },
-    {
-      "id": 803,
-      "name": "poipole",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-18T21:54:03.209Z"
     }
   ],
   "pokemon": {
@@ -1604,6 +1603,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:55:52.594Z",
       "lastPulledAt": "2026-09-18T21:55:52.594Z"
+    },
+    "612": {
+      "id": 612,
+      "name": "haxorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:21:57.407Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T19:21:57.407Z",
+      "lastPulledAt": "2026-10-20T19:21:57.407Z"
     },
     "616": {
       "id": 616,
