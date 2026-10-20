@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T19:21:57.407Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T22:31:29.268Z",
   "lastPull": {
-    "id": 612,
-    "name": "haxorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "id": 985,
+    "name": "scream-tail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
     "types": [
-      "dragon"
+      "fairy",
+      "psychic"
     ],
-    "totalStats": 540,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-20T19:21:57.407Z"
+    "pulledAt": "2026-10-20T22:31:29.268Z"
   },
   "pulls": [
+    {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T22:31:29.268Z"
+    },
     {
       "id": 612,
       "name": "haxorus",
@@ -119,17 +132,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-10-19T04:26:21.507Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-18T23:58:15.044Z"
     }
   ],
   "pokemon": {
@@ -2754,6 +2756,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:19:17.279Z",
       "lastPulledAt": "2026-09-24T17:19:17.279Z"
+    },
+    "985": {
+      "id": 985,
+      "name": "scream-tail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T22:31:29.268Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T22:31:29.268Z",
+      "lastPulledAt": "2026-10-20T22:31:29.268Z"
     },
     "988": {
       "id": 988,
