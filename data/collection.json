@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-20T10:10:43.474Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-20T15:10:45.093Z",
   "lastPull": {
-    "id": 552,
-    "name": "krokorok",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "id": 858,
+    "name": "hatterene",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
     "types": [
-      "ground",
-      "dark"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 351,
-    "grade": "N",
-    "pulledAt": "2026-10-20T10:10:43.474Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T15:10:45.093Z"
   },
   "pulls": [
+    {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T15:10:45.093Z"
+    },
     {
       "id": 552,
       "name": "krokorok",
@@ -119,18 +131,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-18T21:54:03.209Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-18T19:39:51.824Z"
     }
   ],
   "pokemon": {
@@ -2269,10 +2269,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-26T07:31:45.800Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T07:31:45.800Z",
-      "lastPulledAt": "2026-09-26T07:31:45.800Z"
+      "lastPulledAt": "2026-10-20T15:10:45.093Z"
     },
     "867": {
       "id": 867,
