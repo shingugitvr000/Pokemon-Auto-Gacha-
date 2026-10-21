@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-20T22:31:29.268Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-21T00:54:46.022Z",
   "lastPull": {
-    "id": 985,
-    "name": "scream-tail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "fairy",
-      "psychic"
+      "ground"
     ],
-    "totalStats": 570,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-10-20T22:31:29.268Z"
+    "pulledAt": "2026-10-21T00:54:46.022Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T00:54:46.022Z"
+    },
     {
       "id": 985,
       "name": "scream-tail",
@@ -120,18 +130,6 @@
       "totalStats": 242,
       "grade": "N",
       "pulledAt": "2026-10-19T10:10:41.623Z"
-    },
-    {
-      "id": 46,
-      "name": "paras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-10-19T04:26:21.507Z"
     }
   ],
   "pokemon": {
@@ -2257,6 +2255,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:50:03.015Z",
       "lastPulledAt": "2026-09-20T19:50:03.015Z"
+    },
+    "844": {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T00:54:46.022Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T00:54:46.022Z",
+      "lastPulledAt": "2026-10-21T00:54:46.022Z"
     },
     "848": {
       "id": 848,
