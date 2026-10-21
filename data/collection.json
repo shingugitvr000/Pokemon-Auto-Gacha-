@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-21T15:52:33.743Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-21T19:37:10.943Z",
   "lastPull": {
-    "id": 355,
-    "name": "duskull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "ghost"
+      "dragon"
     ],
-    "totalStats": 295,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-21T15:52:33.743Z"
+    "pulledAt": "2026-10-21T19:37:10.943Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T19:37:10.943Z"
+    },
     {
       "id": 355,
       "name": "duskull",
@@ -117,18 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-20T05:16:00.071Z"
-    },
-    {
-      "id": 639,
-      "name": "terrakion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
-      "types": [
-        "rock",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T00:35:42.696Z"
     }
   ],
   "pokemon": {
@@ -1836,6 +1835,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T08:50:22.559Z",
       "lastPulledAt": "2026-10-07T08:50:22.559Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T19:37:10.943Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T19:37:10.943Z",
+      "lastPulledAt": "2026-10-21T19:37:10.943Z"
     },
     "705": {
       "id": 705,
