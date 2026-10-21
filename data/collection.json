@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-21T00:54:46.022Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-21T05:47:30.447Z",
   "lastPull": {
-    "id": 844,
-    "name": "sandaconda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "id": 775,
+    "name": "komala",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
     "types": [
-      "ground"
+      "normal"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T00:54:46.022Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-21T05:47:30.447Z"
   },
   "pulls": [
+    {
+      "id": 775,
+      "name": "komala",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-21T05:47:30.447Z"
+    },
     {
       "id": 844,
       "name": "sandaconda",
@@ -118,18 +129,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-19T17:00:59.212Z"
-    },
-    {
-      "id": 848,
-      "name": "toxel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 242,
-      "grade": "N",
-      "pulledAt": "2026-10-19T10:10:41.623Z"
     }
   ],
   "pokemon": {
@@ -1986,10 +1985,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-03T22:12:58.292Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:12:58.292Z",
-      "lastPulledAt": "2026-10-03T22:12:58.292Z"
+      "lastPulledAt": "2026-10-21T05:47:30.447Z"
     },
     "776": {
       "id": 776,
