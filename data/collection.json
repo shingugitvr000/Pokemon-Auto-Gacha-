@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-22T05:58:26.082Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-22T11:38:24.086Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 593,
+    "name": "jellicent-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
     "types": [
-      "poison",
-      "fighting"
+      "water",
+      "ghost"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-22T05:58:26.082Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-22T11:38:24.086Z"
   },
   "pulls": [
+    {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-22T11:38:24.086Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -117,17 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-20T22:31:29.268Z"
-    },
-    {
-      "id": 612,
-      "name": "haxorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T19:21:57.407Z"
     }
   ],
   "pokemon": {
@@ -1618,6 +1619,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T04:53:04.799Z",
       "lastPulledAt": "2026-09-19T22:58:52.531Z"
+    },
+    "593": {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-22T11:38:24.086Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T11:38:24.086Z",
+      "lastPulledAt": "2026-10-22T11:38:24.086Z"
     },
     "610": {
       "id": 610,
