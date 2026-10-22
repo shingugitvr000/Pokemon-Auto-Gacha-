@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-22T16:01:46.490Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-22T20:02:43.391Z",
   "lastPull": {
-    "id": 298,
-    "name": "azurill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "id": 866,
+    "name": "mr-rime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
     "types": [
-      "normal",
-      "fairy"
+      "ice",
+      "psychic"
     ],
-    "totalStats": 190,
-    "grade": "N",
-    "pulledAt": "2026-10-22T16:01:46.490Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T20:02:43.391Z"
   },
   "pulls": [
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T20:02:43.391Z"
+    },
     {
       "id": 298,
       "name": "azurill",
@@ -118,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-21T05:47:30.447Z"
-    },
-    {
-      "id": 844,
-      "name": "sandaconda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T00:54:46.022Z"
     }
   ],
   "pokemon": {
@@ -2380,6 +2381,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T07:31:45.800Z",
       "lastPulledAt": "2026-10-20T15:10:45.093Z"
+    },
+    "866": {
+      "id": 866,
+      "name": "mr-rime",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T20:02:43.391Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T20:02:43.391Z",
+      "lastPulledAt": "2026-10-22T20:02:43.391Z"
     },
     "867": {
       "id": 867,
