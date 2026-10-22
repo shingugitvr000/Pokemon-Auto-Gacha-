@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-22T20:02:43.391Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-22T23:18:57.633Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 801,
+    "name": "magearna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
     "types": [
-      "ice",
-      "psychic"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T20:02:43.391Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-22T23:18:57.633Z"
   },
   "pulls": [
+    {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T23:18:57.633Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -119,17 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-21T10:38:21.147Z"
-    },
-    {
-      "id": 775,
-      "name": "komala",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-21T05:47:30.447Z"
     }
   ],
   "pokemon": {
@@ -2149,6 +2150,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:14:20.345Z",
       "lastPulledAt": "2026-10-11T01:14:20.345Z"
+    },
+    "801": {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T23:18:57.633Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T23:18:57.633Z",
+      "lastPulledAt": "2026-10-22T23:18:57.633Z"
     },
     "803": {
       "id": 803,
