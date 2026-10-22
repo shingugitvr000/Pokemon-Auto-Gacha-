@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 202,
-  "updatedAt": "2026-10-22T00:58:10.993Z",
+  "totalPulls": 203,
+  "updatedAt": "2026-10-22T05:58:26.082Z",
   "lastPull": {
-    "id": 989,
-    "name": "sandy-shocks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "id": 453,
+    "name": "croagunk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
     "types": [
-      "electric",
-      "ground"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T00:58:10.993Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-22T05:58:26.082Z"
   },
   "pulls": [
+    {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-22T05:58:26.082Z"
+    },
     {
       "id": 989,
       "name": "sandy-shocks",
@@ -116,18 +128,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-20T19:21:57.407Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T15:10:45.093Z"
     }
   ],
   "pokemon": {
@@ -1156,6 +1156,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:33:39.601Z",
       "lastPulledAt": "2026-09-30T01:33:39.601Z"
+    },
+    "453": {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-22T05:58:26.082Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T05:58:26.082Z",
+      "lastPulledAt": "2026-10-22T05:58:26.082Z"
     },
     "462": {
       "id": 462,
