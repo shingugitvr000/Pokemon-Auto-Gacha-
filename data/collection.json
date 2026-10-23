@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-23T01:39:45.856Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-23T06:30:02.796Z",
   "lastPull": {
-    "id": 21,
-    "name": "spearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "id": 47,
+    "name": "parasect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
     "types": [
-      "normal",
-      "flying"
+      "bug",
+      "grass"
     ],
-    "totalStats": 262,
-    "grade": "N",
-    "pulledAt": "2026-10-23T01:39:45.856Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-23T06:30:02.796Z"
   },
   "pulls": [
+    {
+      "id": 47,
+      "name": "parasect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T06:30:02.796Z"
+    },
     {
       "id": 21,
       "name": "spearow",
@@ -120,17 +132,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-21T19:37:10.943Z"
-    },
-    {
-      "id": 355,
-      "name": "duskull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-21T15:52:33.743Z"
     }
   ],
   "pokemon": {
@@ -274,6 +275,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T04:26:21.507Z",
       "lastPulledAt": "2026-10-19T04:26:21.507Z"
+    },
+    "47": {
+      "id": 47,
+      "name": "parasect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-23T06:30:02.796Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T06:30:02.796Z",
+      "lastPulledAt": "2026-10-23T06:30:02.796Z"
     },
     "64": {
       "id": 64,
