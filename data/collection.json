@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-23T20:24:45.155Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-23T23:21:08.844Z",
   "lastPull": {
-    "id": 643,
-    "name": "reshiram",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "id": 25,
+    "name": "pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
     "types": [
-      "dragon",
-      "fire"
+      "electric"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-23T20:24:45.155Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-23T23:21:08.844Z"
   },
   "pulls": [
+    {
+      "id": 25,
+      "name": "pikachu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-23T23:21:08.844Z"
+    },
     {
       "id": 643,
       "name": "reshiram",
@@ -121,18 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-22T11:38:24.086Z"
-    },
-    {
-      "id": 453,
-      "name": "croagunk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-22T05:58:26.082Z"
     }
   ],
   "pokemon": {
@@ -213,6 +211,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T01:39:45.856Z",
       "lastPulledAt": "2026-10-23T01:39:45.856Z"
+    },
+    "25": {
+      "id": 25,
+      "name": "pikachu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-23T23:21:08.844Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T23:21:08.844Z",
+      "lastPulledAt": "2026-10-23T23:21:08.844Z"
     },
     "35": {
       "id": 35,
