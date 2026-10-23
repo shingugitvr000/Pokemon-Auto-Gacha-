@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-23T12:00:11.993Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-23T17:01:16.492Z",
   "lastPull": {
-    "id": 597,
-    "name": "ferroseed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "id": 327,
+    "name": "spinda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
     "types": [
-      "grass",
-      "steel"
+      "normal"
     ],
-    "totalStats": 305,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-23T12:00:11.993Z"
+    "pulledAt": "2026-10-23T17:01:16.492Z"
   },
   "pulls": [
+    {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T17:01:16.492Z"
+    },
     {
       "id": 597,
       "name": "ferroseed",
@@ -122,17 +132,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-22T00:58:10.993Z"
-    },
-    {
-      "id": 878,
-      "name": "cufant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-21T22:44:47.576Z"
     }
   ],
   "pokemon": {
@@ -851,6 +850,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T16:06:32.574Z",
       "lastPulledAt": "2026-10-01T16:06:32.574Z"
+    },
+    "327": {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T17:01:16.492Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T17:01:16.492Z",
+      "lastPulledAt": "2026-10-23T17:01:16.492Z"
     },
     "330": {
       "id": 330,
