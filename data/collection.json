@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-23T06:30:02.796Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-23T12:00:11.993Z",
   "lastPull": {
-    "id": 47,
-    "name": "parasect",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "id": 597,
+    "name": "ferroseed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
     "types": [
-      "bug",
-      "grass"
+      "grass",
+      "steel"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-23T06:30:02.796Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-23T12:00:11.993Z"
   },
   "pulls": [
+    {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-23T12:00:11.993Z"
+    },
     {
       "id": 47,
       "name": "parasect",
@@ -121,17 +133,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-21T22:44:47.576Z"
-    },
-    {
-      "id": 704,
-      "name": "goomy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-21T19:37:10.943Z"
     }
   ],
   "pokemon": {
@@ -1686,6 +1687,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T11:38:24.086Z",
       "lastPulledAt": "2026-10-22T11:38:24.086Z"
+    },
+    "597": {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-23T12:00:11.993Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T12:00:11.993Z",
+      "lastPulledAt": "2026-10-23T12:00:11.993Z"
     },
     "610": {
       "id": 610,
