@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T21:05:07.622Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T23:08:40.487Z",
   "lastPull": {
-    "id": 838,
-    "name": "carkol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+    "id": 822,
+    "name": "corvisquire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
     "types": [
-      "rock",
-      "fire"
+      "flying"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-24T21:05:07.622Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-10-24T23:08:40.487Z"
   },
   "pulls": [
+    {
+      "id": 822,
+      "name": "corvisquire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-24T23:08:40.487Z"
+    },
     {
       "id": 838,
       "name": "carkol",
@@ -117,18 +127,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-23T17:01:16.492Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-23T12:00:11.993Z"
     }
   ],
   "pokemon": {
@@ -2364,6 +2362,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:47:45.971Z",
       "lastPulledAt": "2026-10-11T22:47:45.971Z"
+    },
+    "822": {
+      "id": 822,
+      "name": "corvisquire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-24T23:08:40.487Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T23:08:40.487Z",
+      "lastPulledAt": "2026-10-24T23:08:40.487Z"
     },
     "823": {
       "id": 823,
