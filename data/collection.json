@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T23:21:08.844Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-24T01:50:55.584Z",
   "lastPull": {
-    "id": 25,
-    "name": "pikachu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "id": 771,
+    "name": "pyukumuku",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-23T23:21:08.844Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-24T01:50:55.584Z"
   },
   "pulls": [
+    {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-24T01:50:55.584Z"
+    },
     {
       "id": 25,
       "name": "pikachu",
@@ -119,18 +130,6 @@
       "totalStats": 190,
       "grade": "N",
       "pulledAt": "2026-10-22T16:01:46.490Z"
-    },
-    {
-      "id": 593,
-      "name": "jellicent-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-22T11:38:24.086Z"
     }
   ],
   "pokemon": {
@@ -2134,6 +2133,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:36:05.374Z",
       "lastPulledAt": "2026-09-21T23:36:05.374Z"
+    },
+    "771": {
+      "id": 771,
+      "name": "pyukumuku",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-24T01:50:55.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T01:50:55.584Z",
+      "lastPulledAt": "2026-10-24T01:50:55.584Z"
     },
     "773": {
       "id": 773,
