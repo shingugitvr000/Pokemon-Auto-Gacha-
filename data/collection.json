@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-24T15:44:21.283Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-24T18:22:57.005Z",
   "lastPull": {
-    "id": 377,
-    "name": "regirock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "id": 794,
+    "name": "buzzwole",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
     "types": [
-      "rock"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 580,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-24T15:44:21.283Z"
+    "pulledAt": "2026-10-24T18:22:57.005Z"
   },
   "pulls": [
+    {
+      "id": 794,
+      "name": "buzzwole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T18:22:57.005Z"
+    },
     {
       "id": 377,
       "name": "regirock",
@@ -116,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-23T06:30:02.796Z"
-    },
-    {
-      "id": 21,
-      "name": "spearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-10-23T01:39:45.856Z"
     }
   ],
   "pokemon": {
@@ -2286,6 +2287,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T01:14:20.345Z",
       "lastPulledAt": "2026-10-11T01:14:20.345Z"
+    },
+    "794": {
+      "id": 794,
+      "name": "buzzwole",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T18:22:57.005Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T18:22:57.005Z",
+      "lastPulledAt": "2026-10-24T18:22:57.005Z"
     },
     "801": {
       "id": 801,
