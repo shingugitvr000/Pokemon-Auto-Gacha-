@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-24T18:22:57.005Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-24T21:05:07.622Z",
   "lastPull": {
-    "id": 794,
-    "name": "buzzwole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "id": 838,
+    "name": "carkol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
     "types": [
-      "bug",
-      "fighting"
+      "rock",
+      "fire"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T18:22:57.005Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-24T21:05:07.622Z"
   },
   "pulls": [
+    {
+      "id": 838,
+      "name": "carkol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-24T21:05:07.622Z"
+    },
     {
       "id": 794,
       "name": "buzzwole",
@@ -117,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-23T12:00:11.993Z"
-    },
-    {
-      "id": 47,
-      "name": "parasect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-23T06:30:02.796Z"
     }
   ],
   "pokemon": {
@@ -2453,10 +2453,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-06T19:00:01.150Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T19:00:01.150Z",
-      "lastPulledAt": "2026-10-06T19:00:01.150Z"
+      "lastPulledAt": "2026-10-24T21:05:07.622Z"
     },
     "840": {
       "id": 840,
