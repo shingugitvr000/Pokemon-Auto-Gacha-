@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-24T01:50:55.584Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-24T06:58:31.193Z",
   "lastPull": {
-    "id": 771,
-    "name": "pyukumuku",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
+    "id": 550,
+    "name": "basculin-red-striped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
     "types": [
       "water"
     ],
-    "totalStats": 410,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-10-24T01:50:55.584Z"
+    "pulledAt": "2026-10-24T06:58:31.193Z"
   },
   "pulls": [
+    {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-24T06:58:31.193Z"
+    },
     {
       "id": 771,
       "name": "pyukumuku",
@@ -118,18 +129,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-22T20:02:43.391Z"
-    },
-    {
-      "id": 298,
-      "name": "azurill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
-      "types": [
-        "normal",
-        "fairy"
-      ],
-      "totalStats": 190,
-      "grade": "N",
-      "pulledAt": "2026-10-22T16:01:46.490Z"
     }
   ],
   "pokemon": {
@@ -1589,6 +1588,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T06:33:08.779Z",
       "lastPulledAt": "2026-09-28T06:33:08.779Z"
+    },
+    "550": {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-24T06:58:31.193Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T06:58:31.193Z",
+      "lastPulledAt": "2026-10-24T06:58:31.193Z"
     },
     "552": {
       "id": 552,
