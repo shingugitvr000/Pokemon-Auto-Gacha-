@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-24T11:56:41.613Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-24T15:44:21.283Z",
   "lastPull": {
-    "id": 993,
-    "name": "iron-jugulis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "id": 377,
+    "name": "regirock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
     "types": [
-      "dark",
-      "flying"
+      "rock"
     ],
-    "totalStats": 570,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-24T11:56:41.613Z"
+    "pulledAt": "2026-10-24T15:44:21.283Z"
   },
   "pulls": [
+    {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T15:44:21.283Z"
+    },
     {
       "id": 993,
       "name": "iron-jugulis",
@@ -118,18 +128,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-10-23T01:39:45.856Z"
-    },
-    {
-      "id": 801,
-      "name": "magearna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-22T23:18:57.633Z"
     }
   ],
   "pokemon": {
@@ -1050,6 +1048,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:34:29.503Z",
       "lastPulledAt": "2026-10-14T18:58:44.996Z"
+    },
+    "377": {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T15:44:21.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T15:44:21.283Z",
+      "lastPulledAt": "2026-10-24T15:44:21.283Z"
     },
     "384": {
       "id": 384,
