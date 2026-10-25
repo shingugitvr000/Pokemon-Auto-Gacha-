@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-25T18:22:31.368Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-25T21:06:12.403Z",
   "lastPull": {
-    "id": 185,
-    "name": "sudowoodo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+    "id": 179,
+    "name": "mareep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
     "types": [
-      "rock"
+      "electric"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-25T18:22:31.368Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-25T21:06:12.403Z"
   },
   "pulls": [
+    {
+      "id": 179,
+      "name": "mareep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-25T21:06:12.403Z"
+    },
     {
       "id": 185,
       "name": "sudowoodo",
@@ -117,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-24T15:44:21.283Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T11:56:41.613Z"
     }
   ],
   "pokemon": {
@@ -535,6 +534,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T20:14:05.904Z",
       "lastPulledAt": "2026-10-08T20:14:05.904Z"
+    },
+    "179": {
+      "id": 179,
+      "name": "mareep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-25T21:06:12.403Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:06:12.403Z",
+      "lastPulledAt": "2026-10-25T21:06:12.403Z"
     },
     "183": {
       "id": 183,
