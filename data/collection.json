@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T23:08:40.487Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-25T01:09:25.591Z",
   "lastPull": {
-    "id": 822,
-    "name": "corvisquire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
+    "id": 520,
+    "name": "tranquill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
     "types": [
+      "normal",
       "flying"
     ],
-    "totalStats": 365,
+    "totalStats": 358,
     "grade": "N",
-    "pulledAt": "2026-10-24T23:08:40.487Z"
+    "pulledAt": "2026-10-25T01:09:25.591Z"
   },
   "pulls": [
+    {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-10-25T01:09:25.591Z"
+    },
     {
       "id": 822,
       "name": "corvisquire",
@@ -116,17 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-23T20:24:45.155Z"
-    },
-    {
-      "id": 327,
-      "name": "spinda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-23T17:01:16.492Z"
     }
   ],
   "pokemon": {
@@ -1525,6 +1527,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T16:38:27.390Z",
       "lastPulledAt": "2026-09-26T16:38:27.390Z"
+    },
+    "520": {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-10-25T01:09:25.591Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T01:09:25.591Z",
+      "lastPulledAt": "2026-10-25T01:09:25.591Z"
     },
     "523": {
       "id": 523,
