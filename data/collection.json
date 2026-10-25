@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-25T11:25:23.723Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-25T15:00:54.736Z",
   "lastPull": {
-    "id": 787,
-    "name": "tapu-bulu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+    "id": 279,
+    "name": "pelipper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
     "types": [
-      "grass",
-      "fairy"
+      "water",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T11:25:23.723Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-25T15:00:54.736Z"
   },
   "pulls": [
+    {
+      "id": 279,
+      "name": "pelipper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-25T15:00:54.736Z"
+    },
     {
       "id": 787,
       "name": "tapu-bulu",
@@ -118,17 +130,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-24T06:58:31.193Z"
-    },
-    {
-      "id": 771,
-      "name": "pyukumuku",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-24T01:50:55.584Z"
     }
   ],
   "pokemon": {
@@ -752,6 +753,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T12:26:15.408Z",
       "lastPulledAt": "2026-09-26T12:26:15.408Z"
+    },
+    "279": {
+      "id": 279,
+      "name": "pelipper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-25T15:00:54.736Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T15:00:54.736Z",
+      "lastPulledAt": "2026-10-25T15:00:54.736Z"
     },
     "286": {
       "id": 286,
