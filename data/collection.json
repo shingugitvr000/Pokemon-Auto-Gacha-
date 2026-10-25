@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-25T01:09:25.591Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-10-25T06:08:06.336Z",
   "lastPull": {
-    "id": 520,
-    "name": "tranquill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "id": 745,
+    "name": "lycanroc-midday",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
     "types": [
-      "normal",
-      "flying"
+      "rock"
     ],
-    "totalStats": 358,
-    "grade": "N",
-    "pulledAt": "2026-10-25T01:09:25.591Z"
+    "totalStats": 487,
+    "grade": "R",
+    "pulledAt": "2026-10-25T06:08:06.336Z"
   },
   "pulls": [
+    {
+      "id": 745,
+      "name": "lycanroc-midday",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:08:06.336Z"
+    },
     {
       "id": 520,
       "name": "tranquill",
@@ -117,18 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-23T23:21:08.844Z"
-    },
-    {
-      "id": 643,
-      "name": "reshiram",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
-      "types": [
-        "dragon",
-        "fire"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-23T20:24:45.155Z"
     }
   ],
   "pokemon": {
@@ -2085,6 +2083,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T19:09:17.541Z",
       "lastPulledAt": "2026-10-10T19:09:17.541Z"
+    },
+    "745": {
+      "id": 745,
+      "name": "lycanroc-midday",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:08:06.336Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T06:08:06.336Z",
+      "lastPulledAt": "2026-10-25T06:08:06.336Z"
     },
     "750": {
       "id": 750,
