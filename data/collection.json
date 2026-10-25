@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-25T06:08:06.336Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-25T11:25:23.723Z",
   "lastPull": {
-    "id": 745,
-    "name": "lycanroc-midday",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "id": 787,
+    "name": "tapu-bulu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
     "types": [
-      "rock"
+      "grass",
+      "fairy"
     ],
-    "totalStats": 487,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:08:06.336Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T11:25:23.723Z"
   },
   "pulls": [
+    {
+      "id": 787,
+      "name": "tapu-bulu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T11:25:23.723Z"
+    },
     {
       "id": 745,
       "name": "lycanroc-midday",
@@ -116,17 +129,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-24T01:50:55.584Z"
-    },
-    {
-      "id": 25,
-      "name": "pikachu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-23T23:21:08.844Z"
     }
   ],
   "pokemon": {
@@ -2296,10 +2298,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-09T13:44:42.716Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T13:44:42.716Z",
-      "lastPulledAt": "2026-10-09T13:44:42.716Z"
+      "lastPulledAt": "2026-10-25T11:25:23.723Z"
     },
     "791": {
       "id": 791,
