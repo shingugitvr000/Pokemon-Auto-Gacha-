@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-26T01:19:15.101Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-26T06:28:00.992Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 968,
+    "name": "orthworm",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
     "types": [
-      "psychic"
+      "steel"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-26T01:19:15.101Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-26T06:28:00.992Z"
   },
   "pulls": [
+    {
+      "id": 968,
+      "name": "orthworm",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-26T06:28:00.992Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,18 +127,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-24T23:08:40.487Z"
-    },
-    {
-      "id": 838,
-      "name": "carkol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
-      "types": [
-        "rock",
-        "fire"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-24T21:05:07.622Z"
     }
   ],
   "pokemon": {
@@ -3092,6 +3091,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T18:59:31.598Z",
       "lastPulledAt": "2026-10-11T18:59:31.598Z"
+    },
+    "968": {
+      "id": 968,
+      "name": "orthworm",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-26T06:28:00.992Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T06:28:00.992Z",
+      "lastPulledAt": "2026-10-26T06:28:00.992Z"
     },
     "969": {
       "id": 969,
