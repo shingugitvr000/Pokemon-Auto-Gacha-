@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-26T06:28:00.992Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-26T13:28:33.799Z",
   "lastPull": {
-    "id": 968,
-    "name": "orthworm",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+    "id": 41,
+    "name": "zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
     "types": [
-      "steel"
+      "poison",
+      "flying"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-26T06:28:00.992Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-10-26T13:28:33.799Z"
   },
   "pulls": [
+    {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-26T13:28:33.799Z"
+    },
     {
       "id": 968,
       "name": "orthworm",
@@ -116,17 +129,6 @@
       "totalStats": 358,
       "grade": "N",
       "pulledAt": "2026-10-25T01:09:25.591Z"
-    },
-    {
-      "id": 822,
-      "name": "corvisquire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-24T23:08:40.487Z"
     }
   ],
   "pokemon": {
@@ -253,6 +255,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T12:20:48.622Z",
       "lastPulledAt": "2026-09-25T12:20:48.622Z"
+    },
+    "41": {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-26T13:28:33.799Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T13:28:33.799Z",
+      "lastPulledAt": "2026-10-26T13:28:33.799Z"
     },
     "45": {
       "id": 45,
