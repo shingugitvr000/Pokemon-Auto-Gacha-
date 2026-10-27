@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-27T19:33:20.188Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-27T23:08:53.062Z",
   "lastPull": {
-    "id": 934,
-    "name": "garganacl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "id": 664,
+    "name": "scatterbug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
     "types": [
-      "rock"
+      "bug"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-27T19:33:20.188Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-10-27T23:08:53.062Z"
   },
   "pulls": [
+    {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-27T23:08:53.062Z"
+    },
     {
       "id": 934,
       "name": "garganacl",
@@ -115,18 +126,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-26T01:19:15.101Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-25T23:13:40.094Z"
     }
   ],
   "pokemon": {
@@ -2112,6 +2111,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T16:35:00.275Z",
       "lastPulledAt": "2026-09-21T16:35:00.275Z"
+    },
+    "664": {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-27T23:08:53.062Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T23:08:53.062Z",
+      "lastPulledAt": "2026-10-27T23:08:53.062Z"
     },
     "666": {
       "id": 666,
