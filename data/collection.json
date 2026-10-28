@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 238,
-  "updatedAt": "2026-10-28T02:14:20.829Z",
+  "totalPulls": 239,
+  "updatedAt": "2026-10-28T08:42:36.382Z",
   "lastPull": {
-    "id": 199,
-    "name": "slowking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+    "id": 955,
+    "name": "flittle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
     "types": [
-      "water",
       "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-28T02:14:20.829Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-10-28T08:42:36.382Z"
   },
   "pulls": [
+    {
+      "id": 955,
+      "name": "flittle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-28T08:42:36.382Z"
+    },
     {
       "id": 199,
       "name": "slowking",
@@ -117,17 +127,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-26T13:28:33.799Z"
-    },
-    {
-      "id": 968,
-      "name": "orthworm",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-26T06:28:00.992Z"
     }
   ],
   "pokemon": {
@@ -3185,6 +3184,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:52:02.394Z",
       "lastPulledAt": "2026-09-22T01:52:02.394Z"
+    },
+    "955": {
+      "id": 955,
+      "name": "flittle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-28T08:42:36.382Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T08:42:36.382Z",
+      "lastPulledAt": "2026-10-28T08:42:36.382Z"
     },
     "960": {
       "id": 960,
