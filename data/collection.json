@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-27T23:08:53.062Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-28T02:14:20.829Z",
   "lastPull": {
-    "id": 664,
-    "name": "scatterbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "id": 199,
+    "name": "slowking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
     "types": [
-      "bug"
+      "water",
+      "psychic"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-10-27T23:08:53.062Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-28T02:14:20.829Z"
   },
   "pulls": [
+    {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-28T02:14:20.829Z"
+    },
     {
       "id": 664,
       "name": "scatterbug",
@@ -115,17 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-26T06:28:00.992Z"
-    },
-    {
-      "id": 578,
-      "name": "duosion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-26T01:19:15.101Z"
     }
   ],
   "pokemon": {
@@ -639,6 +641,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T06:14:11.046Z",
       "lastPulledAt": "2026-10-06T06:14:11.046Z"
+    },
+    "199": {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-28T02:14:20.829Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T02:14:20.829Z",
+      "lastPulledAt": "2026-10-28T02:14:20.829Z"
     },
     "201": {
       "id": 201,
