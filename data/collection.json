@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-10-28T08:42:36.382Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-10-28T15:30:14.212Z",
   "lastPull": {
-    "id": 955,
-    "name": "flittle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+    "id": 890,
+    "name": "eternatus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
     "types": [
-      "psychic"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-10-28T08:42:36.382Z"
+    "totalStats": 690,
+    "grade": "SSR",
+    "pulledAt": "2026-10-28T15:30:14.212Z"
   },
   "pulls": [
+    {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-10-28T15:30:14.212Z"
+    },
     {
       "id": 955,
       "name": "flittle",
@@ -115,18 +128,6 @@
       "totalStats": 336,
       "grade": "N",
       "pulledAt": "2026-10-26T19:30:43.194Z"
-    },
-    {
-      "id": 41,
-      "name": "zubat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-26T13:28:33.799Z"
     }
   ],
   "pokemon": {
@@ -2890,6 +2891,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T09:27:32.271Z",
       "lastPulledAt": "2026-09-18T09:27:32.271Z"
+    },
+    "890": {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-10-28T15:30:14.212Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T15:30:14.212Z",
+      "lastPulledAt": "2026-10-28T15:30:14.212Z"
     },
     "901": {
       "id": 901,
