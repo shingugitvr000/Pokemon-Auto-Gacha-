@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-29T00:23:00.406Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-29T06:15:49.995Z",
   "lastPull": {
-    "id": 128,
-    "name": "tauros",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "normal"
+      "fire"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-29T00:23:00.406Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-10-29T06:15:49.995Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-10-29T06:15:49.995Z"
+    },
     {
       "id": 128,
       "name": "tauros",
@@ -115,18 +126,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-27T08:00:08.342Z"
-    },
-    {
-      "id": 397,
-      "name": "staravia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-27T02:10:34.509Z"
     }
   ],
   "pokemon": {
@@ -2123,10 +2122,10 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-09-19T16:25:55.534Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:25:55.534Z",
-      "lastPulledAt": "2026-10-02T18:15:07.711Z"
+      "lastPulledAt": "2026-10-29T06:15:49.995Z"
     },
     "660": {
       "id": 660,
