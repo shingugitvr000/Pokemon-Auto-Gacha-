@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 243,
-  "updatedAt": "2026-10-29T06:15:49.995Z",
+  "totalPulls": 244,
+  "updatedAt": "2026-10-29T13:19:16.113Z",
   "lastPull": {
-    "id": 653,
-    "name": "fennekin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+    "id": 382,
+    "name": "kyogre",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 307,
-    "grade": "N",
-    "pulledAt": "2026-10-29T06:15:49.995Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-10-29T13:19:16.113Z"
   },
   "pulls": [
+    {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-29T13:19:16.113Z"
+    },
     {
       "id": 653,
       "name": "fennekin",
@@ -115,17 +126,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-27T14:21:36.788Z"
-    },
-    {
-      "id": 359,
-      "name": "absol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-27T08:00:08.342Z"
     }
   ],
   "pokemon": {
@@ -1199,6 +1199,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T15:44:21.283Z",
       "lastPulledAt": "2026-10-24T15:44:21.283Z"
+    },
+    "382": {
+      "id": 382,
+      "name": "kyogre",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-10-29T13:19:16.113Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T13:19:16.113Z",
+      "lastPulledAt": "2026-10-29T13:19:16.113Z"
     },
     "384": {
       "id": 384,
