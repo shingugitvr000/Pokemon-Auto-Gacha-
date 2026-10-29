@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-29T13:19:16.113Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-29T19:01:25.942Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 801,
+    "name": "magearna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
     "types": [
-      "water"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 670,
+    "totalStats": 600,
     "grade": "SSR",
-    "pulledAt": "2026-10-29T13:19:16.113Z"
+    "pulledAt": "2026-10-29T19:01:25.942Z"
   },
   "pulls": [
+    {
+      "id": 801,
+      "name": "magearna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-29T19:01:25.942Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -115,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-27T19:33:20.188Z"
-    },
-    {
-      "id": 5,
-      "name": "charmeleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-27T14:21:36.788Z"
     }
   ],
   "pokemon": {
@@ -2590,10 +2592,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-22T23:18:57.633Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T23:18:57.633Z",
-      "lastPulledAt": "2026-10-22T23:18:57.633Z"
+      "lastPulledAt": "2026-10-29T19:01:25.942Z"
     },
     "803": {
       "id": 803,
