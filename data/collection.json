@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-30T15:51:49.262Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-30T20:30:30.944Z",
   "lastPull": {
-    "id": 425,
-    "name": "drifloon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
-      "ghost",
-      "flying"
+      "water"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-10-30T15:51:49.262Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-30T20:30:30.944Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-30T20:30:30.944Z"
+    },
     {
       "id": 425,
       "name": "drifloon",
@@ -118,18 +128,6 @@
       "totalStats": 289,
       "grade": "N",
       "pulledAt": "2026-10-28T20:32:39.744Z"
-    },
-    {
-      "id": 890,
-      "name": "eternatus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 690,
-      "grade": "SSR",
-      "pulledAt": "2026-10-28T15:30:14.212Z"
     }
   ],
   "pokemon": {
@@ -1960,6 +1958,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T11:38:24.086Z",
       "lastPulledAt": "2026-10-22T11:38:24.086Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-30T20:30:30.944Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T20:30:30.944Z",
+      "lastPulledAt": "2026-10-30T20:30:30.944Z"
     },
     "597": {
       "id": 597,
