@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-30T09:03:23.702Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-30T15:51:49.262Z",
   "lastPull": {
-    "id": 774,
-    "name": "minior-red-meteor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
+    "id": 425,
+    "name": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
     "types": [
-      "rock",
+      "ghost",
       "flying"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-10-30T09:03:23.702Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-10-30T15:51:49.262Z"
   },
   "pulls": [
+    {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-30T15:51:49.262Z"
+    },
     {
       "id": 774,
       "name": "minior-red-meteor",
@@ -118,17 +130,6 @@
       "totalStats": 690,
       "grade": "SSR",
       "pulledAt": "2026-10-28T15:30:14.212Z"
-    },
-    {
-      "id": 955,
-      "name": "flittle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 255,
-      "grade": "N",
-      "pulledAt": "2026-10-28T08:42:36.382Z"
     }
   ],
   "pokemon": {
@@ -1372,6 +1373,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T18:09:53.733Z",
       "lastPulledAt": "2026-10-16T18:09:53.733Z"
+    },
+    "425": {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-30T15:51:49.262Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T15:51:49.262Z",
+      "lastPulledAt": "2026-10-30T15:51:49.262Z"
     },
     "429": {
       "id": 429,
