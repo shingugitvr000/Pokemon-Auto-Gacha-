@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-31T00:01:54.114Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-31T05:31:13.119Z",
   "lastPull": {
-    "id": 1025,
-    "name": "pecharunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+    "id": 60,
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "types": [
-      "poison",
-      "ghost"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-31T00:01:54.114Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-31T05:31:13.119Z"
   },
   "pulls": [
+    {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-31T05:31:13.119Z"
+    },
     {
       "id": 1025,
       "name": "pecharunt",
@@ -118,17 +128,6 @@
       "totalStats": 307,
       "grade": "N",
       "pulledAt": "2026-10-29T06:15:49.995Z"
-    },
-    {
-      "id": 128,
-      "name": "tauros",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-29T00:23:00.406Z"
     }
   ],
   "pokemon": {
@@ -334,6 +333,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T06:30:02.796Z",
       "lastPulledAt": "2026-10-23T06:30:02.796Z"
+    },
+    "60": {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-31T05:31:13.119Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T05:31:13.119Z",
+      "lastPulledAt": "2026-10-31T05:31:13.119Z"
     },
     "64": {
       "id": 64,
