@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-31T05:31:13.119Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-31T11:12:43.024Z",
   "lastPull": {
-    "id": 60,
-    "name": "poliwag",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "id": 16,
+    "name": "pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "types": [
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 300,
+    "totalStats": 251,
     "grade": "N",
-    "pulledAt": "2026-10-31T05:31:13.119Z"
+    "pulledAt": "2026-10-31T11:12:43.024Z"
   },
   "pulls": [
+    {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-10-31T11:12:43.024Z"
+    },
     {
       "id": 60,
       "name": "poliwag",
@@ -117,17 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-29T13:19:16.113Z"
-    },
-    {
-      "id": 653,
-      "name": "fennekin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 307,
-      "grade": "N",
-      "pulledAt": "2026-10-29T06:15:49.995Z"
     }
   ],
   "pokemon": {
@@ -191,6 +193,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T08:50:06.462Z",
       "lastPulledAt": "2026-10-29T23:15:13.207Z"
+    },
+    "16": {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-10-31T11:12:43.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T11:12:43.024Z",
+      "lastPulledAt": "2026-10-31T11:12:43.024Z"
     },
     "17": {
       "id": 17,
