@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-10-31T16:09:59.523Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-10-31T19:59:22.485Z",
   "lastPull": {
-    "id": 298,
-    "name": "azurill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "id": 847,
+    "name": "barraskewda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
     "types": [
-      "normal",
-      "fairy"
+      "water"
     ],
-    "totalStats": 190,
-    "grade": "N",
-    "pulledAt": "2026-10-31T16:09:59.523Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-31T19:59:22.485Z"
   },
   "pulls": [
+    {
+      "id": 847,
+      "name": "barraskewda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T19:59:22.485Z"
+    },
     {
       "id": 298,
       "name": "azurill",
@@ -119,18 +129,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-29T23:15:13.207Z"
-    },
-    {
-      "id": 801,
-      "name": "magearna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-29T19:01:25.942Z"
     }
   ],
   "pokemon": {
@@ -2892,6 +2890,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T00:54:46.022Z",
       "lastPulledAt": "2026-10-21T00:54:46.022Z"
+    },
+    "847": {
+      "id": 847,
+      "name": "barraskewda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T19:59:22.485Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T19:59:22.485Z",
+      "lastPulledAt": "2026-10-31T19:59:22.485Z"
     },
     "848": {
       "id": 848,
