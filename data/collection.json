@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-11-01T16:21:24.470Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-11-01T20:42:31.355Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 700,
+    "name": "sylveon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
     "types": [
-      "grass",
-      "ghost"
+      "fairy"
     ],
-    "totalStats": 530,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-01T16:21:24.470Z"
+    "pulledAt": "2026-11-01T20:42:31.355Z"
   },
   "pulls": [
+    {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T20:42:31.355Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -119,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-31T00:01:54.114Z"
-    },
-    {
-      "id": 594,
-      "name": "alomomola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-30T20:30:30.944Z"
     }
   ],
   "pokemon": {
@@ -2350,6 +2349,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T00:44:54.608Z",
       "lastPulledAt": "2026-10-04T00:44:54.608Z"
+    },
+    "700": {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T20:42:31.355Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T20:42:31.355Z",
+      "lastPulledAt": "2026-11-01T20:42:31.355Z"
     },
     "701": {
       "id": 701,
