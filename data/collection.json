@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-11-01T02:20:41.085Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-11-01T09:32:36.745Z",
   "lastPull": {
-    "id": 595,
-    "name": "joltik",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "id": 460,
+    "name": "abomasnow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
     "types": [
-      "bug",
-      "electric"
+      "grass",
+      "ice"
     ],
-    "totalStats": 319,
-    "grade": "N",
-    "pulledAt": "2026-11-01T02:20:41.085Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-11-01T09:32:36.745Z"
   },
   "pulls": [
+    {
+      "id": 460,
+      "name": "abomasnow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-01T09:32:36.745Z"
+    },
     {
       "id": 595,
       "name": "joltik",
@@ -118,18 +130,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-10-30T15:51:49.262Z"
-    },
-    {
-      "id": 774,
-      "name": "minior-red-meteor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-30T09:03:23.702Z"
     }
   ],
   "pokemon": {
@@ -1483,6 +1483,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T05:58:26.082Z",
       "lastPulledAt": "2026-10-22T05:58:26.082Z"
+    },
+    "460": {
+      "id": 460,
+      "name": "abomasnow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-01T09:32:36.745Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T09:32:36.745Z",
+      "lastPulledAt": "2026-11-01T09:32:36.745Z"
     },
     "462": {
       "id": 462,
