@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 258,
-  "updatedAt": "2026-11-01T09:32:36.745Z",
+  "totalPulls": 259,
+  "updatedAt": "2026-11-01T16:21:24.470Z",
   "lastPull": {
-    "id": 460,
-    "name": "abomasnow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
       "grass",
-      "ice"
+      "ghost"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-11-01T09:32:36.745Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T16:21:24.470Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T16:21:24.470Z"
+    },
     {
       "id": 460,
       "name": "abomasnow",
@@ -118,18 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-30T20:30:30.944Z"
-    },
-    {
-      "id": 425,
-      "name": "drifloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
-      "types": [
-        "ghost",
-        "flying"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-10-30T15:51:49.262Z"
     }
   ],
   "pokemon": {
@@ -2412,6 +2412,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T02:14:19.595Z",
       "lastPulledAt": "2026-10-07T02:14:19.595Z"
+    },
+    "724": {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T16:21:24.470Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T16:21:24.470Z",
+      "lastPulledAt": "2026-11-01T16:21:24.470Z"
     },
     "729": {
       "id": 729,
