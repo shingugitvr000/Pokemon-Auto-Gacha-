@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-11-01T23:56:48.625Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-11-02T05:38:13.630Z",
   "lastPull": {
-    "id": 528,
-    "name": "swoobat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "psychic",
+      "dark",
       "flying"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-11-01T23:56:48.625Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-02T05:38:13.630Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-02T05:38:13.630Z"
+    },
     {
       "id": 528,
       "name": "swoobat",
@@ -119,17 +131,6 @@
       "totalStats": 251,
       "grade": "N",
       "pulledAt": "2026-10-31T11:12:43.024Z"
-    },
-    {
-      "id": 60,
-      "name": "poliwag",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-31T05:31:13.119Z"
     }
   ],
   "pokemon": {
@@ -3652,10 +3653,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-24T11:56:41.613Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T11:56:41.613Z",
-      "lastPulledAt": "2026-10-24T11:56:41.613Z"
+      "lastPulledAt": "2026-11-02T05:38:13.630Z"
     },
     "995": {
       "id": 995,
