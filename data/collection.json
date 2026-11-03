@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-03T18:34:53.773Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-03T23:39:15.807Z",
   "lastPull": {
-    "id": 620,
-    "name": "mienshao",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "id": 419,
+    "name": "floatzel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T18:34:53.773Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-03T23:39:15.807Z"
   },
   "pulls": [
+    {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-03T23:39:15.807Z"
+    },
     {
       "id": 620,
       "name": "mienshao",
@@ -118,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-01T16:21:24.470Z"
-    },
-    {
-      "id": 460,
-      "name": "abomasnow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
-      "types": [
-        "grass",
-        "ice"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-11-01T09:32:36.745Z"
     }
   ],
   "pokemon": {
@@ -1404,6 +1403,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T18:09:53.733Z",
       "lastPulledAt": "2026-10-16T18:09:53.733Z"
+    },
+    "419": {
+      "id": 419,
+      "name": "floatzel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-03T23:39:15.807Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T23:39:15.807Z",
+      "lastPulledAt": "2026-11-03T23:39:15.807Z"
     },
     "425": {
       "id": 425,
