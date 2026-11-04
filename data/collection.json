@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-04T03:19:09.748Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-04T11:15:22.568Z",
   "lastPull": {
-    "id": 810,
-    "name": "grookey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+    "id": 659,
+    "name": "bunnelby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 310,
+    "totalStats": 237,
     "grade": "N",
-    "pulledAt": "2026-11-04T03:19:09.748Z"
+    "pulledAt": "2026-11-04T11:15:22.568Z"
   },
   "pulls": [
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-04T11:15:22.568Z"
+    },
     {
       "id": 810,
       "name": "grookey",
@@ -117,17 +128,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-11-01T23:56:48.625Z"
-    },
-    {
-      "id": 700,
-      "name": "sylveon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T20:42:31.355Z"
     }
   ],
   "pokemon": {
@@ -2268,6 +2268,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T16:25:55.534Z",
       "lastPulledAt": "2026-10-29T06:15:49.995Z"
+    },
+    "659": {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-04T11:15:22.568Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T11:15:22.568Z",
+      "lastPulledAt": "2026-11-04T11:15:22.568Z"
     },
     "660": {
       "id": 660,
