@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-04T18:41:40.597Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-04T23:57:01.559Z",
   "lastPull": {
-    "id": 942,
-    "name": "maschiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "id": 807,
+    "name": "zeraora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
     "types": [
-      "dark"
+      "electric"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-04T18:41:40.597Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-04T23:57:01.559Z"
   },
   "pulls": [
+    {
+      "id": 807,
+      "name": "zeraora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T23:57:01.559Z"
+    },
     {
       "id": 942,
       "name": "maschiff",
@@ -115,18 +126,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-02T13:50:52.044Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T05:38:13.630Z"
     }
   ],
   "pokemon": {
@@ -2797,6 +2796,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:54:03.209Z",
       "lastPulledAt": "2026-10-18T21:54:03.209Z"
+    },
+    "807": {
+      "id": 807,
+      "name": "zeraora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T23:57:01.559Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T23:57:01.559Z",
+      "lastPulledAt": "2026-11-04T23:57:01.559Z"
     },
     "810": {
       "id": 810,
