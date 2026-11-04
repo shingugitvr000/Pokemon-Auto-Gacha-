@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-04T11:15:22.568Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-04T18:41:40.597Z",
   "lastPull": {
-    "id": 659,
-    "name": "bunnelby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "id": 942,
+    "name": "maschiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
     "types": [
-      "normal"
+      "dark"
     ],
-    "totalStats": 237,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-04T11:15:22.568Z"
+    "pulledAt": "2026-11-04T18:41:40.597Z"
   },
   "pulls": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-04T18:41:40.597Z"
+    },
     {
       "id": 659,
       "name": "bunnelby",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-02T05:38:13.630Z"
-    },
-    {
-      "id": 528,
-      "name": "swoobat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-11-01T23:56:48.625Z"
     }
   ],
   "pokemon": {
@@ -3416,6 +3415,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:17:30.671Z",
       "lastPulledAt": "2026-10-03T19:17:30.671Z"
+    },
+    "942": {
+      "id": 942,
+      "name": "maschiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-04T18:41:40.597Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T18:41:40.597Z",
+      "lastPulledAt": "2026-11-04T18:41:40.597Z"
     },
     "946": {
       "id": 946,
