@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-03T23:39:15.807Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-04T03:19:09.748Z",
   "lastPull": {
-    "id": 419,
-    "name": "floatzel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+    "id": 810,
+    "name": "grookey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-11-03T23:39:15.807Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-04T03:19:09.748Z"
   },
   "pulls": [
+    {
+      "id": 810,
+      "name": "grookey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T03:19:09.748Z"
+    },
     {
       "id": 419,
       "name": "floatzel",
@@ -117,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-01T20:42:31.355Z"
-    },
-    {
-      "id": 724,
-      "name": "decidueye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T16:21:24.470Z"
     }
   ],
   "pokemon": {
@@ -2784,6 +2783,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:54:03.209Z",
       "lastPulledAt": "2026-10-18T21:54:03.209Z"
+    },
+    "810": {
+      "id": 810,
+      "name": "grookey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-04T03:19:09.748Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T03:19:09.748Z",
+      "lastPulledAt": "2026-11-04T03:19:09.748Z"
     },
     "812": {
       "id": 812,
