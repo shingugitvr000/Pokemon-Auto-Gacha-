@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-04T23:57:01.559Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-05T06:20:37.816Z",
   "lastPull": {
-    "id": 807,
-    "name": "zeraora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
+    "id": 228,
+    "name": "houndour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
     "types": [
-      "electric"
+      "dark",
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-04T23:57:01.559Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-05T06:20:37.816Z"
   },
   "pulls": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-05T06:20:37.816Z"
+    },
     {
       "id": 807,
       "name": "zeraora",
@@ -114,18 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-02T22:37:44.881Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T13:50:52.044Z"
     }
   ],
   "pokemon": {
@@ -775,10 +776,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-17T01:32:24.218Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:32:24.218Z",
-      "lastPulledAt": "2026-10-17T01:32:24.218Z"
+      "lastPulledAt": "2026-11-05T06:20:37.816Z"
     },
     "238": {
       "id": 238,
