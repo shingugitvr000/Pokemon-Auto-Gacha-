@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-05T14:52:03.432Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-05T21:22:13.036Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 247,
+    "name": "pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
     "types": [
-      "electric"
+      "rock",
+      "ground"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-05T14:52:03.432Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-05T21:22:13.036Z"
   },
   "pulls": [
+    {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-05T21:22:13.036Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -113,18 +126,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-03T11:24:01.920Z"
-    },
-    {
-      "id": 553,
-      "name": "krookodile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 519,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T03:42:07.310Z"
     }
   ],
   "pokemon": {
@@ -809,6 +810,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T14:53:21.770Z",
       "lastPulledAt": "2026-10-10T14:53:21.770Z"
+    },
+    "247": {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-05T21:22:13.036Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T21:22:13.036Z",
+      "lastPulledAt": "2026-11-05T21:22:13.036Z"
     },
     "255": {
       "id": 255,
