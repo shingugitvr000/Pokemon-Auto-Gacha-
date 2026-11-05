@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-05T06:20:37.816Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-05T14:52:03.432Z",
   "lastPull": {
-    "id": 228,
-    "name": "houndour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
     "types": [
-      "dark",
-      "fire"
+      "electric"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-05T06:20:37.816Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-05T14:52:03.432Z"
   },
   "pulls": [
+    {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T14:52:03.432Z"
+    },
     {
       "id": 228,
       "name": "houndour",
@@ -115,18 +125,6 @@
       "totalStats": 519,
       "grade": "SR",
       "pulledAt": "2026-11-03T03:42:07.310Z"
-    },
-    {
-      "id": 981,
-      "name": "farigiraf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-11-02T22:37:44.881Z"
     }
   ],
   "pokemon": {
@@ -1543,6 +1541,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T05:16:00.071Z",
       "lastPulledAt": "2026-10-20T05:16:00.071Z"
+    },
+    "466": {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T14:52:03.432Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T14:52:03.432Z",
+      "lastPulledAt": "2026-11-05T14:52:03.432Z"
     },
     "467": {
       "id": 467,
