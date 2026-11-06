@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-06T08:32:35.192Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-06T16:14:33.417Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 200,
+    "name": "misdreavus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
     "types": [
-      "normal"
+      "ghost"
     ],
-    "totalStats": 489,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-11-06T08:32:35.192Z"
+    "pulledAt": "2026-11-06T16:14:33.417Z"
   },
   "pulls": [
+    {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-06T16:14:33.417Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -115,17 +126,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-04T03:19:09.748Z"
-    },
-    {
-      "id": 419,
-      "name": "floatzel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-03T23:39:15.807Z"
     }
   ],
   "pokemon": {
@@ -701,6 +701,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T02:14:20.829Z",
       "lastPulledAt": "2026-10-28T02:14:20.829Z"
+    },
+    "200": {
+      "id": 200,
+      "name": "misdreavus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-06T16:14:33.417Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T16:14:33.417Z",
+      "lastPulledAt": "2026-11-06T16:14:33.417Z"
     },
     "201": {
       "id": 201,
