@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-06T21:36:00.752Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-07T01:11:44.140Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 284,
+    "name": "masquerain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
     "types": [
-      "ground"
+      "bug",
+      "flying"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-06T21:36:00.752Z"
+    "totalStats": 454,
+    "grade": "R",
+    "pulledAt": "2026-11-07T01:11:44.140Z"
   },
   "pulls": [
+    {
+      "id": 284,
+      "name": "masquerain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-11-07T01:11:44.140Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -115,17 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-04T18:41:40.597Z"
-    },
-    {
-      "id": 659,
-      "name": "bunnelby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-11-04T11:15:22.568Z"
     }
   ],
   "pokemon": {
@@ -934,6 +936,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T15:00:54.736Z",
       "lastPulledAt": "2026-10-25T15:00:54.736Z"
+    },
+    "284": {
+      "id": 284,
+      "name": "masquerain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-11-07T01:11:44.140Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T01:11:44.140Z",
+      "lastPulledAt": "2026-11-07T01:11:44.140Z"
     },
     "286": {
       "id": 286,
