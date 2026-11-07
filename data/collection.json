@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 280,
-  "updatedAt": "2026-11-07T01:11:44.140Z",
+  "totalPulls": 281,
+  "updatedAt": "2026-11-07T07:17:10.927Z",
   "lastPull": {
-    "id": 284,
-    "name": "masquerain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "id": 107,
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "types": [
-      "bug",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 454,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-07T01:11:44.140Z"
+    "pulledAt": "2026-11-07T07:17:10.927Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-07T07:17:10.927Z"
+    },
     {
       "id": 284,
       "name": "masquerain",
@@ -117,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-04T23:57:01.559Z"
-    },
-    {
-      "id": 942,
-      "name": "maschiff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-04T18:41:40.597Z"
     }
   ],
   "pokemon": {
@@ -516,6 +515,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:12:33.346Z",
       "lastPulledAt": "2026-09-29T06:12:33.346Z"
+    },
+    "107": {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-07T07:17:10.927Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T07:17:10.927Z",
+      "lastPulledAt": "2026-11-07T07:17:10.927Z"
     },
     "111": {
       "id": 111,
