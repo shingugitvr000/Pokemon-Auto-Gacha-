@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-08T15:07:07.912Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-08T19:39:37.868Z",
   "lastPull": {
-    "id": 319,
-    "name": "sharpedo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "water",
-      "dark"
+      "normal"
     ],
-    "totalStats": 460,
+    "totalStats": 489,
     "grade": "R",
-    "pulledAt": "2026-11-08T15:07:07.912Z"
+    "pulledAt": "2026-11-08T19:39:37.868Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-08T19:39:37.868Z"
+    },
     {
       "id": 319,
       "name": "sharpedo",
@@ -118,17 +128,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-06T21:36:00.752Z"
-    },
-    {
-      "id": 200,
-      "name": "misdreavus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 435,
-      "grade": "R",
-      "pulledAt": "2026-11-06T16:14:33.417Z"
     }
   ],
   "pokemon": {
@@ -3429,10 +3428,10 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-11-06T08:32:35.192Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T08:32:35.192Z",
-      "lastPulledAt": "2026-11-06T08:32:35.192Z"
+      "lastPulledAt": "2026-11-08T19:39:37.868Z"
     },
     "918": {
       "id": 918,
