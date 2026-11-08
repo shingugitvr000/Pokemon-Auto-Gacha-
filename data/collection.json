@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-08T08:04:05.547Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-08T15:07:07.912Z",
   "lastPull": {
-    "id": 241,
-    "name": "miltank",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "id": 319,
+    "name": "sharpedo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "types": [
-      "normal"
+      "water",
+      "dark"
     ],
-    "totalStats": 490,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-11-08T08:04:05.547Z"
+    "pulledAt": "2026-11-08T15:07:07.912Z"
   },
   "pulls": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-08T15:07:07.912Z"
+    },
     {
       "id": 241,
       "name": "miltank",
@@ -116,17 +129,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-11-06T16:14:33.417Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-11-06T08:32:35.192Z"
     }
   ],
   "pokemon": {
@@ -1076,6 +1078,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T21:00:45.737Z",
       "lastPulledAt": "2026-10-01T21:00:45.737Z"
+    },
+    "319": {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-08T15:07:07.912Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T15:07:07.912Z",
+      "lastPulledAt": "2026-11-08T15:07:07.912Z"
     },
     "322": {
       "id": 322,
