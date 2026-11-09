@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-09T10:22:31.440Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-09T20:57:57.865Z",
   "lastPull": {
-    "id": 277,
-    "name": "swellow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "id": 770,
+    "name": "palossand",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
     "types": [
-      "normal",
-      "flying"
+      "ghost",
+      "ground"
     ],
-    "totalStats": 455,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-09T10:22:31.440Z"
+    "pulledAt": "2026-11-09T20:57:57.865Z"
   },
   "pulls": [
+    {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-09T20:57:57.865Z"
+    },
     {
       "id": 277,
       "name": "swellow",
@@ -119,18 +131,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-11-07T18:50:57.675Z"
-    },
-    {
-      "id": 561,
-      "name": "sigilyph",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-07T14:10:46.977Z"
     }
   ],
   "pokemon": {
@@ -2784,6 +2784,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T23:36:05.374Z",
       "lastPulledAt": "2026-09-21T23:36:05.374Z"
+    },
+    "770": {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-09T20:57:57.865Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T20:57:57.865Z",
+      "lastPulledAt": "2026-11-09T20:57:57.865Z"
     },
     "771": {
       "id": 771,
