@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 290,
-  "updatedAt": "2026-11-09T02:39:49.289Z",
+  "totalPulls": 291,
+  "updatedAt": "2026-11-09T10:22:31.440Z",
   "lastPull": {
-    "id": 709,
-    "name": "trevenant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "id": 277,
+    "name": "swellow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
     "types": [
-      "ghost",
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 474,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-09T02:39:49.289Z"
+    "pulledAt": "2026-11-09T10:22:31.440Z"
   },
   "pulls": [
+    {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-09T10:22:31.440Z"
+    },
     {
       "id": 709,
       "name": "trevenant",
@@ -119,17 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-07T14:10:46.977Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-07T07:17:10.927Z"
     }
   ],
   "pokemon": {
@@ -968,6 +969,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T12:26:15.408Z",
       "lastPulledAt": "2026-09-26T12:26:15.408Z"
+    },
+    "277": {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-09T10:22:31.440Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T10:22:31.440Z",
+      "lastPulledAt": "2026-11-09T10:22:31.440Z"
     },
     "279": {
       "id": 279,
