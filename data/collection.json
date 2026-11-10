@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-10T11:34:08.498Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-10T18:48:50.206Z",
   "lastPull": {
-    "id": 750,
-    "name": "mudsdale",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+    "id": 828,
+    "name": "thievul",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
     "types": [
-      "ground"
+      "dark"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-10T11:34:08.498Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-11-10T18:48:50.206Z"
   },
   "pulls": [
+    {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-10T18:48:50.206Z"
+    },
     {
       "id": 750,
       "name": "mudsdale",
@@ -118,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-08T08:04:05.547Z"
-    },
-    {
-      "id": 900,
-      "name": "kleavor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T01:47:26.466Z"
     }
   ],
   "pokemon": {
@@ -3136,10 +3135,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-19T21:05:41.908Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:05:41.908Z",
-      "lastPulledAt": "2026-09-19T21:05:41.908Z"
+      "lastPulledAt": "2026-11-10T18:48:50.206Z"
     },
     "832": {
       "id": 832,
