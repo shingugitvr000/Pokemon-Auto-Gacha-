@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 295,
-  "updatedAt": "2026-11-10T18:48:50.206Z",
+  "totalPulls": 296,
+  "updatedAt": "2026-11-10T23:47:17.656Z",
   "lastPull": {
-    "id": 828,
-    "name": "thievul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "id": 954,
+    "name": "rabsca",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
     "types": [
-      "dark"
+      "bug",
+      "psychic"
     ],
-    "totalStats": 455,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-11-10T18:48:50.206Z"
+    "pulledAt": "2026-11-10T23:47:17.656Z"
   },
   "pulls": [
+    {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T23:47:17.656Z"
+    },
     {
       "id": 828,
       "name": "thievul",
@@ -118,17 +131,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-08T15:07:07.912Z"
-    },
-    {
-      "id": 241,
-      "name": "miltank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-08T08:04:05.547Z"
     }
   ],
   "pokemon": {
@@ -3729,6 +3731,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:52:02.394Z",
       "lastPulledAt": "2026-09-22T01:52:02.394Z"
+    },
+    "954": {
+      "id": 954,
+      "name": "rabsca",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-11-10T23:47:17.656Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T23:47:17.656Z",
+      "lastPulledAt": "2026-11-10T23:47:17.656Z"
     },
     "955": {
       "id": 955,
