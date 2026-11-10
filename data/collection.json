@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-10T03:23:39.036Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-10T11:34:08.498Z",
   "lastPull": {
-    "id": 485,
-    "name": "heatran",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+    "id": 750,
+    "name": "mudsdale",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
     "types": [
-      "fire",
-      "steel"
+      "ground"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-10T03:23:39.036Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T11:34:08.498Z"
   },
   "pulls": [
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T11:34:08.498Z"
+    },
     {
       "id": 485,
       "name": "heatran",
@@ -120,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-08T01:47:26.466Z"
-    },
-    {
-      "id": 15,
-      "name": "beedrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-07T22:31:19.259Z"
     }
   ],
   "pokemon": {
@@ -2719,10 +2717,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-16T09:33:09.318Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T09:33:09.318Z",
-      "lastPulledAt": "2026-10-16T09:33:09.318Z"
+      "lastPulledAt": "2026-11-10T11:34:08.498Z"
     },
     "751": {
       "id": 751,
