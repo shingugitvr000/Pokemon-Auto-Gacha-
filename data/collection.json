@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-11T03:11:21.946Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-11T11:11:36.349Z",
   "lastPull": {
-    "id": 487,
-    "name": "giratina-altered",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "id": 188,
+    "name": "skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
     "types": [
-      "ghost",
-      "dragon"
+      "grass",
+      "flying"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-11-11T03:11:21.946Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-11T11:11:36.349Z"
   },
   "pulls": [
+    {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-11T11:11:36.349Z"
+    },
     {
       "id": 487,
       "name": "giratina-altered",
@@ -120,17 +132,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-08T23:09:29.061Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-11-08T19:39:37.868Z"
     }
   ],
   "pokemon": {
@@ -691,6 +692,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T18:22:31.368Z",
       "lastPulledAt": "2026-10-25T18:22:31.368Z"
+    },
+    "188": {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-11T11:11:36.349Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T11:11:36.349Z",
+      "lastPulledAt": "2026-11-11T11:11:36.349Z"
     },
     "196": {
       "id": 196,
