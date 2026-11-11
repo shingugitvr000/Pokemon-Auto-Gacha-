@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-11T11:11:36.349Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-11T18:44:31.804Z",
   "lastPull": {
-    "id": 188,
-    "name": "skiploom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "id": 435,
+    "name": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
     "types": [
-      "grass",
-      "flying"
+      "poison",
+      "dark"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-11T11:11:36.349Z"
+    "totalStats": 479,
+    "grade": "R",
+    "pulledAt": "2026-11-11T18:44:31.804Z"
   },
   "pulls": [
+    {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-11T18:44:31.804Z"
+    },
     {
       "id": 188,
       "name": "skiploom",
@@ -120,18 +132,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-11-09T02:39:49.289Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T23:09:29.061Z"
     }
   ],
   "pokemon": {
@@ -1624,6 +1624,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T06:35:33.447Z",
       "lastPulledAt": "2026-10-09T06:35:33.447Z"
+    },
+    "435": {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-11T18:44:31.804Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T18:44:31.804Z",
+      "lastPulledAt": "2026-11-11T18:44:31.804Z"
     },
     "437": {
       "id": 437,
