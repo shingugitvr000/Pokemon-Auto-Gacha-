@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-11T18:44:31.804Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-12T01:03:20.441Z",
   "lastPull": {
-    "id": 435,
-    "name": "skuntank",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+    "id": 910,
+    "name": "crocalor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
     "types": [
-      "poison",
-      "dark"
+      "fire"
     ],
-    "totalStats": 479,
+    "totalStats": 411,
     "grade": "R",
-    "pulledAt": "2026-11-11T18:44:31.804Z"
+    "pulledAt": "2026-11-12T01:03:20.441Z"
   },
   "pulls": [
+    {
+      "id": 910,
+      "name": "crocalor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-12T01:03:20.441Z"
+    },
     {
       "id": 435,
       "name": "skuntank",
@@ -120,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-09T10:22:31.440Z"
-    },
-    {
-      "id": 709,
-      "name": "trevenant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-11-09T02:39:49.289Z"
     }
   ],
   "pokemon": {
@@ -3486,6 +3484,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T23:36:29.021Z",
       "lastPulledAt": "2026-10-16T23:36:29.021Z"
+    },
+    "910": {
+      "id": 910,
+      "name": "crocalor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-12T01:03:20.441Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T01:03:20.441Z",
+      "lastPulledAt": "2026-11-12T01:03:20.441Z"
     },
     "913": {
       "id": 913,
