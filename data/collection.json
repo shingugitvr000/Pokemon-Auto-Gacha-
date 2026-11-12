@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-12T16:52:41.697Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-12T22:37:18.276Z",
   "lastPull": {
-    "id": 815,
-    "name": "cinderace",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
+    "id": 132,
+    "name": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-12T16:52:41.697Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-11-12T22:37:18.276Z"
   },
   "pulls": [
+    {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-12T22:37:18.276Z"
+    },
     {
       "id": 815,
       "name": "cinderace",
@@ -116,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-10T11:34:08.498Z"
-    },
-    {
-      "id": 485,
-      "name": "heatran",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
-      "types": [
-        "fire",
-        "steel"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-10T03:23:39.036Z"
     }
   ],
   "pokemon": {
@@ -578,6 +577,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T00:23:00.406Z",
       "lastPulledAt": "2026-10-29T00:23:00.406Z"
+    },
+    "132": {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-12T22:37:18.276Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T22:37:18.276Z",
+      "lastPulledAt": "2026-11-12T22:37:18.276Z"
     },
     "139": {
       "id": 139,
