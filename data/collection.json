@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 305,
-  "updatedAt": "2026-11-13T10:40:21.521Z",
+  "totalPulls": 306,
+  "updatedAt": "2026-11-13T18:08:32.383Z",
   "lastPull": {
-    "id": 928,
-    "name": "smoliv",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "id": 282,
+    "name": "gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
     "types": [
-      "grass",
-      "normal"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-11-13T10:40:21.521Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T18:08:32.383Z"
   },
   "pulls": [
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T18:08:32.383Z"
+    },
     {
       "id": 928,
       "name": "smoliv",
@@ -118,18 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-11T03:11:21.946Z"
-    },
-    {
-      "id": 954,
-      "name": "rabsca",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-      "types": [
-        "bug",
-        "psychic"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-10T23:47:17.656Z"
     }
   ],
   "pokemon": {
@@ -1046,6 +1046,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T15:00:54.736Z",
       "lastPulledAt": "2026-10-25T15:00:54.736Z"
+    },
+    "282": {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T18:08:32.383Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T18:08:32.383Z",
+      "lastPulledAt": "2026-11-13T18:08:32.383Z"
     },
     "284": {
       "id": 284,
