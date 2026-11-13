@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-13T18:08:32.383Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-13T23:31:24.763Z",
   "lastPull": {
-    "id": 282,
-    "name": "gardevoir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "id": 57,
+    "name": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "types": [
-      "psychic",
-      "fairy"
+      "fighting"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-11-13T18:08:32.383Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-11-13T23:31:24.763Z"
   },
   "pulls": [
+    {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-13T23:31:24.763Z"
+    },
     {
       "id": 282,
       "name": "gardevoir",
@@ -118,18 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-11T11:11:36.349Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-11T03:11:21.946Z"
     }
   ],
   "pokemon": {
@@ -367,6 +365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T06:30:02.796Z",
       "lastPulledAt": "2026-10-23T06:30:02.796Z"
+    },
+    "57": {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-13T23:31:24.763Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T23:31:24.763Z",
+      "lastPulledAt": "2026-11-13T23:31:24.763Z"
     },
     "60": {
       "id": 60,
