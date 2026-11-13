@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 303,
-  "updatedAt": "2026-11-12T22:37:18.276Z",
+  "totalPulls": 304,
+  "updatedAt": "2026-11-13T02:54:27.167Z",
   "lastPull": {
-    "id": 132,
-    "name": "ditto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "id": 681,
+    "name": "aegislash-shield",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
     "types": [
-      "normal"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-11-12T22:37:18.276Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-13T02:54:27.167Z"
   },
   "pulls": [
+    {
+      "id": 681,
+      "name": "aegislash-shield",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T02:54:27.167Z"
+    },
     {
       "id": 132,
       "name": "ditto",
@@ -116,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-10T18:48:50.206Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T11:34:08.498Z"
     }
   ],
   "pokemon": {
@@ -2578,6 +2580,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:07.684Z",
       "lastPulledAt": "2026-09-16T01:30:07.684Z"
+    },
+    "681": {
+      "id": 681,
+      "name": "aegislash-shield",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-13T02:54:27.167Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T02:54:27.167Z",
+      "lastPulledAt": "2026-11-13T02:54:27.167Z"
     },
     "687": {
       "id": 687,
