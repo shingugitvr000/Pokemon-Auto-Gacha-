@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-13T23:31:24.763Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-14T03:31:11.702Z",
   "lastPull": {
-    "id": 57,
-    "name": "primeape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "id": 790,
+    "name": "cosmoem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
     "types": [
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 455,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-11-13T23:31:24.763Z"
+    "pulledAt": "2026-11-14T03:31:11.702Z"
   },
   "pulls": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-14T03:31:11.702Z"
+    },
     {
       "id": 57,
       "name": "primeape",
@@ -116,18 +127,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-11-11T18:44:31.804Z"
-    },
-    {
-      "id": 188,
-      "name": "skiploom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-11T11:11:36.349Z"
     }
   ],
   "pokemon": {
@@ -3047,6 +3046,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T13:44:42.716Z",
       "lastPulledAt": "2026-10-25T11:25:23.723Z"
+    },
+    "790": {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-14T03:31:11.702Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T03:31:11.702Z",
+      "lastPulledAt": "2026-11-14T03:31:11.702Z"
     },
     "791": {
       "id": 791,
