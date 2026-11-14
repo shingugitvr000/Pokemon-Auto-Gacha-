@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-14T03:31:11.702Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-14T10:54:25.546Z",
   "lastPull": {
-    "id": 790,
-    "name": "cosmoem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "id": 936,
+    "name": "armarouge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
     "types": [
+      "fire",
       "psychic"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-14T03:31:11.702Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T10:54:25.546Z"
   },
   "pulls": [
+    {
+      "id": 936,
+      "name": "armarouge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T10:54:25.546Z"
+    },
     {
       "id": 790,
       "name": "cosmoem",
@@ -115,18 +128,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-12T01:03:20.441Z"
-    },
-    {
-      "id": 435,
-      "name": "skuntank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-11-11T18:44:31.804Z"
     }
   ],
   "pokemon": {
@@ -3767,10 +3768,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-17T06:09:43.462Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T06:09:43.462Z",
-      "lastPulledAt": "2026-10-17T06:09:43.462Z"
+      "lastPulledAt": "2026-11-14T10:54:25.546Z"
     },
     "937": {
       "id": 937,
