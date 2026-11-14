@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-14T10:54:25.546Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-14T16:52:44.632Z",
   "lastPull": {
-    "id": 936,
-    "name": "armarouge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
     "types": [
-      "fire",
-      "psychic"
+      "ground",
+      "normal"
     ],
-    "totalStats": 525,
+    "totalStats": 550,
     "grade": "SR",
-    "pulledAt": "2026-11-14T10:54:25.546Z"
+    "pulledAt": "2026-11-14T16:52:44.632Z"
   },
   "pulls": [
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T16:52:44.632Z"
+    },
     {
       "id": 936,
       "name": "armarouge",
@@ -117,17 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-12T08:14:39.015Z"
-    },
-    {
-      "id": 910,
-      "name": "crocalor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-11-12T01:03:20.441Z"
     }
   ],
   "pokemon": {
@@ -3555,10 +3556,10 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-18T11:34:33.503Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T11:34:33.503Z",
-      "lastPulledAt": "2026-11-08T23:09:29.061Z"
+      "lastPulledAt": "2026-11-14T16:52:44.632Z"
     },
     "907": {
       "id": 907,
