@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-14T21:09:18.284Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-15T01:03:21.704Z",
   "lastPull": {
-    "id": 909,
-    "name": "fuecoco",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+    "id": 305,
+    "name": "lairon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
     "types": [
-      "fire"
+      "steel",
+      "rock"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-14T21:09:18.284Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-11-15T01:03:21.704Z"
   },
   "pulls": [
+    {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-15T01:03:21.704Z"
+    },
     {
       "id": 909,
       "name": "fuecoco",
@@ -117,17 +130,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-12T22:37:18.276Z"
-    },
-    {
-      "id": 815,
-      "name": "cinderace",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T16:52:41.697Z"
     }
   ],
   "pokemon": {
@@ -1155,6 +1157,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T01:59:16.765Z",
       "lastPulledAt": "2026-09-26T01:59:16.765Z"
+    },
+    "305": {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-15T01:03:21.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T01:03:21.704Z",
+      "lastPulledAt": "2026-11-15T01:03:21.704Z"
     },
     "317": {
       "id": 317,
