@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-15T07:48:23.344Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-15T15:01:15.356Z",
   "lastPull": {
-    "id": 23,
-    "name": "ekans",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "id": 451,
+    "name": "skorupi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
     "types": [
-      "poison"
+      "poison",
+      "bug"
     ],
-    "totalStats": 288,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-11-15T07:48:23.344Z"
+    "pulledAt": "2026-11-15T15:01:15.356Z"
   },
   "pulls": [
+    {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T15:01:15.356Z"
+    },
     {
       "id": 23,
       "name": "ekans",
@@ -117,18 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-13T10:40:21.521Z"
-    },
-    {
-      "id": 681,
-      "name": "aegislash-shield",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-13T02:54:27.167Z"
     }
   ],
   "pokemon": {
@@ -1745,6 +1746,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:33:39.601Z",
       "lastPulledAt": "2026-09-30T01:33:39.601Z"
+    },
+    "451": {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T15:01:15.356Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T15:01:15.356Z",
+      "lastPulledAt": "2026-11-15T15:01:15.356Z"
     },
     "453": {
       "id": 453,
