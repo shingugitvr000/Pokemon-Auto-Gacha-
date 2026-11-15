@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 312,
-  "updatedAt": "2026-11-15T01:03:21.704Z",
+  "totalPulls": 313,
+  "updatedAt": "2026-11-15T07:48:23.344Z",
   "lastPull": {
-    "id": 305,
-    "name": "lairon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "id": 23,
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": [
-      "steel",
-      "rock"
+      "poison"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-11-15T01:03:21.704Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-11-15T07:48:23.344Z"
   },
   "pulls": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-15T07:48:23.344Z"
+    },
     {
       "id": 305,
       "name": "lairon",
@@ -119,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-13T02:54:27.167Z"
-    },
-    {
-      "id": 132,
-      "name": "ditto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-11-12T22:37:18.276Z"
     }
   ],
   "pokemon": {
@@ -257,6 +256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T01:39:45.856Z",
       "lastPulledAt": "2026-10-23T01:39:45.856Z"
+    },
+    "23": {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-15T07:48:23.344Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T07:48:23.344Z",
+      "lastPulledAt": "2026-11-15T07:48:23.344Z"
     },
     "25": {
       "id": 25,
