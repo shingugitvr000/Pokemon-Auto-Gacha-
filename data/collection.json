@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-16T16:30:04.944Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-17T00:26:20.226Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 282,
+    "name": "gardevoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
     "types": [
-      "fighting"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-11-16T16:30:04.944Z"
+    "totalStats": 518,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T00:26:20.226Z"
   },
   "pulls": [
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 518,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T00:26:20.226Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -116,18 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-14T16:52:44.632Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T10:54:25.546Z"
     }
   ],
   "pokemon": {
@@ -1116,10 +1117,10 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-13T18:08:32.383Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T18:08:32.383Z",
-      "lastPulledAt": "2026-11-13T18:08:32.383Z"
+      "lastPulledAt": "2026-11-17T00:26:20.226Z"
     },
     "284": {
       "id": 284,
