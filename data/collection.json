@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-17T08:21:50.353Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-17T17:46:45.091Z",
   "lastPull": {
-    "id": 971,
-    "name": "greavard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+    "id": 1003,
+    "name": "ting-lu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
     "types": [
-      "ghost"
+      "dark",
+      "ground"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-11-17T08:21:50.353Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T17:46:45.091Z"
   },
   "pulls": [
+    {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T17:46:45.091Z"
+    },
     {
       "id": 971,
       "name": "greavard",
@@ -116,17 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-15T01:03:21.704Z"
-    },
-    {
-      "id": 909,
-      "name": "fuecoco",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-14T21:09:18.284Z"
     }
   ],
   "pokemon": {
@@ -4317,6 +4319,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:36:59.811Z",
       "lastPulledAt": "2026-09-29T00:36:59.811Z"
+    },
+    "1003": {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T17:46:45.091Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T17:46:45.091Z",
+      "lastPulledAt": "2026-11-17T17:46:45.091Z"
     },
     "1010": {
       "id": 1010,
