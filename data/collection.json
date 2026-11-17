@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-17T00:26:20.226Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-17T08:21:50.353Z",
   "lastPull": {
-    "id": 282,
-    "name": "gardevoir",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "id": 971,
+    "name": "greavard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
     "types": [
-      "psychic",
-      "fairy"
+      "ghost"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T00:26:20.226Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-17T08:21:50.353Z"
   },
   "pulls": [
+    {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-17T08:21:50.353Z"
+    },
     {
       "id": 282,
       "name": "gardevoir",
@@ -117,18 +127,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-14T21:09:18.284Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T16:52:44.632Z"
     }
   ],
   "pokemon": {
@@ -4083,6 +4081,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:33:08.323Z",
       "lastPulledAt": "2026-09-23T01:33:08.323Z"
+    },
+    "971": {
+      "id": 971,
+      "name": "greavard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-17T08:21:50.353Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T08:21:50.353Z",
+      "lastPulledAt": "2026-11-17T08:21:50.353Z"
     },
     "975": {
       "id": 975,
