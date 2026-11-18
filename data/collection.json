@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-18T07:17:51.360Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-18T16:34:52.943Z",
   "lastPull": {
-    "id": 433,
-    "name": "chingling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
+    "id": 506,
+    "name": "lillipup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 285,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-11-18T07:17:51.360Z"
+    "pulledAt": "2026-11-18T16:34:52.943Z"
   },
   "pulls": [
+    {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-18T16:34:52.943Z"
+    },
     {
       "id": 433,
       "name": "chingling",
@@ -115,18 +126,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-11-15T20:21:48.362Z"
-    },
-    {
-      "id": 451,
-      "name": "skorupi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
-      "types": [
-        "poison",
-        "bug"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-15T15:01:15.356Z"
     }
   ],
   "pokemon": {
@@ -2083,6 +2082,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:05:39.010Z",
       "lastPulledAt": "2026-09-23T23:05:39.010Z"
+    },
+    "506": {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-18T16:34:52.943Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T16:34:52.943Z",
+      "lastPulledAt": "2026-11-18T16:34:52.943Z"
     },
     "507": {
       "id": 507,
