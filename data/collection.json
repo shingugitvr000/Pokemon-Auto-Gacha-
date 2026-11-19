@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-19T04:09:29.822Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-19T13:07:36.641Z",
   "lastPull": {
-    "id": 480,
-    "name": "uxie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
+    "id": 363,
+    "name": "spheal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
     "types": [
-      "psychic"
+      "ice",
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T04:09:29.822Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-11-19T13:07:36.641Z"
   },
   "pulls": [
+    {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-19T13:07:36.641Z"
+    },
     {
       "id": 480,
       "name": "uxie",
@@ -114,17 +127,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-11-16T16:30:04.944Z"
-    },
-    {
-      "id": 116,
-      "name": "horsea",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-16T06:46:28.555Z"
     }
   ],
   "pokemon": {
@@ -1444,6 +1446,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:25:56.862Z",
       "lastPulledAt": "2026-09-24T23:25:56.862Z"
+    },
+    "363": {
+      "id": 363,
+      "name": "spheal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-19T13:07:36.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T13:07:36.641Z",
+      "lastPulledAt": "2026-11-19T13:07:36.641Z"
     },
     "365": {
       "id": 365,
