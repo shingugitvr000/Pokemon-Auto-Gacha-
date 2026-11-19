@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-19T13:07:36.641Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-19T21:29:37.060Z",
   "lastPull": {
-    "id": 363,
-    "name": "spheal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "id": 463,
+    "name": "lickilicky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
     "types": [
-      "ice",
-      "water"
+      "normal"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-11-19T13:07:36.641Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-19T21:29:37.060Z"
   },
   "pulls": [
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T21:29:37.060Z"
+    },
     {
       "id": 363,
       "name": "spheal",
@@ -116,17 +126,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-17T00:26:20.226Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-16T16:30:04.944Z"
     }
   ],
   "pokemon": {
@@ -1898,6 +1897,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T00:09:04.893Z",
       "lastPulledAt": "2026-09-21T00:09:04.893Z"
+    },
+    "463": {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T21:29:37.060Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T21:29:37.060Z",
+      "lastPulledAt": "2026-11-19T21:29:37.060Z"
     },
     "464": {
       "id": 464,
