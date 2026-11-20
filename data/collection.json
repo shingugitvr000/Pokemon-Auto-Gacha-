@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 330,
-  "updatedAt": "2026-11-20T10:27:35.573Z",
+  "totalPulls": 331,
+  "updatedAt": "2026-11-20T18:45:25.335Z",
   "lastPull": {
-    "id": 168,
-    "name": "ariados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+    "id": 958,
+    "name": "tinkatuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
     "types": [
-      "bug",
-      "poison"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-20T10:27:35.573Z"
+    "totalStats": 380,
+    "grade": "N",
+    "pulledAt": "2026-11-20T18:45:25.335Z"
   },
   "pulls": [
+    {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-11-20T18:45:25.335Z"
+    },
     {
       "id": 168,
       "name": "ariados",
@@ -116,18 +128,6 @@
       "totalStats": 220,
       "grade": "N",
       "pulledAt": "2026-11-18T00:01:36.775Z"
-    },
-    {
-      "id": 1003,
-      "name": "ting-lu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
-      "types": [
-        "dark",
-        "ground"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T17:46:45.091Z"
     }
   ],
   "pokemon": {
@@ -4096,6 +4096,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T08:42:36.382Z",
       "lastPulledAt": "2026-10-28T08:42:36.382Z"
+    },
+    "958": {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-11-20T18:45:25.335Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T18:45:25.335Z",
+      "lastPulledAt": "2026-11-20T18:45:25.335Z"
     },
     "960": {
       "id": 960,
