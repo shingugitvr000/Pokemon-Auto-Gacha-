@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-19T21:29:37.060Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-20T02:31:58.839Z",
   "lastPull": {
-    "id": 463,
-    "name": "lickilicky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "id": 111,
+    "name": "rhyhorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
     "types": [
-      "normal"
+      "ground",
+      "rock"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-11-19T21:29:37.060Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-11-20T02:31:58.839Z"
   },
   "pulls": [
+    {
+      "id": 111,
+      "name": "rhyhorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-20T02:31:58.839Z"
+    },
     {
       "id": 463,
       "name": "lickilicky",
@@ -114,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-17T08:21:50.353Z"
-    },
-    {
-      "id": 282,
-      "name": "gardevoir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 518,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T00:26:20.226Z"
     }
   ],
   "pokemon": {
@@ -602,10 +603,10 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-09-29T13:05:11.331Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T13:05:11.331Z",
-      "lastPulledAt": "2026-09-29T13:05:11.331Z"
+      "lastPulledAt": "2026-11-20T02:31:58.839Z"
     },
     "116": {
       "id": 116,
