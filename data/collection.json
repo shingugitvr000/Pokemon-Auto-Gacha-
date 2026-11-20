@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 329,
-  "updatedAt": "2026-11-20T02:31:58.839Z",
+  "totalPulls": 330,
+  "updatedAt": "2026-11-20T10:27:35.573Z",
   "lastPull": {
-    "id": 111,
-    "name": "rhyhorn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "id": 168,
+    "name": "ariados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
     "types": [
-      "ground",
-      "rock"
+      "bug",
+      "poison"
     ],
-    "totalStats": 345,
-    "grade": "N",
-    "pulledAt": "2026-11-20T02:31:58.839Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-20T10:27:35.573Z"
   },
   "pulls": [
+    {
+      "id": 168,
+      "name": "ariados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-20T10:27:35.573Z"
+    },
     {
       "id": 111,
       "name": "rhyhorn",
@@ -116,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-17T17:46:45.091Z"
-    },
-    {
-      "id": 971,
-      "name": "greavard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-17T08:21:50.353Z"
     }
   ],
   "pokemon": {
@@ -727,10 +728,10 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-08T20:14:05.904Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T20:14:05.904Z",
-      "lastPulledAt": "2026-10-08T20:14:05.904Z"
+      "lastPulledAt": "2026-11-20T10:27:35.573Z"
     },
     "179": {
       "id": 179,
