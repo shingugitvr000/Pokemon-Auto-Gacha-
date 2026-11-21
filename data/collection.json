@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-21T15:36:05.682Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-21T21:07:53.984Z",
   "lastPull": {
-    "id": 511,
-    "name": "pansage",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "id": 83,
+    "name": "farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "types": [
-      "grass"
+      "normal",
+      "flying"
     ],
-    "totalStats": 316,
+    "totalStats": 377,
     "grade": "N",
-    "pulledAt": "2026-11-21T15:36:05.682Z"
+    "pulledAt": "2026-11-21T21:07:53.984Z"
   },
   "pulls": [
+    {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-11-21T21:07:53.984Z"
+    },
     {
       "id": 511,
       "name": "pansage",
@@ -117,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-19T04:09:29.822Z"
-    },
-    {
-      "id": 538,
-      "name": "throh",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-11-18T23:06:55.021Z"
     }
   ],
   "pokemon": {
@@ -486,6 +488,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T17:00:59.212Z",
       "lastPulledAt": "2026-10-19T17:00:59.212Z"
+    },
+    "83": {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-11-21T21:07:53.984Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T21:07:53.984Z",
+      "lastPulledAt": "2026-11-21T21:07:53.984Z"
     },
     "86": {
       "id": 86,
