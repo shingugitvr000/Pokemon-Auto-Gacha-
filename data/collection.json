@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-21T00:20:28.950Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-21T07:35:30.610Z",
   "lastPull": {
-    "id": 959,
-    "name": "tinkaton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "id": 147,
+    "name": "dratini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
     "types": [
-      "fairy",
-      "steel"
+      "dragon"
     ],
-    "totalStats": 506,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T00:20:28.950Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-21T07:35:30.610Z"
   },
   "pulls": [
+    {
+      "id": 147,
+      "name": "dratini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:35:30.610Z"
+    },
     {
       "id": 959,
       "name": "tinkaton",
@@ -118,17 +128,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-11-18T16:34:52.943Z"
-    },
-    {
-      "id": 433,
-      "name": "chingling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-18T07:17:51.360Z"
     }
   ],
   "pokemon": {
@@ -670,6 +669,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T00:44:20.717Z",
       "lastPulledAt": "2026-10-02T00:44:20.717Z"
+    },
+    "147": {
+      "id": 147,
+      "name": "dratini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:35:30.610Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T07:35:30.610Z",
+      "lastPulledAt": "2026-11-21T07:35:30.610Z"
     },
     "148": {
       "id": 148,
