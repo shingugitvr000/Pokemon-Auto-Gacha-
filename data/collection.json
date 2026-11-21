@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-21T07:35:30.610Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-21T15:36:05.682Z",
   "lastPull": {
-    "id": 147,
-    "name": "dratini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "id": 511,
+    "name": "pansage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
     "types": [
-      "dragon"
+      "grass"
     ],
-    "totalStats": 300,
+    "totalStats": 316,
     "grade": "N",
-    "pulledAt": "2026-11-21T07:35:30.610Z"
+    "pulledAt": "2026-11-21T15:36:05.682Z"
   },
   "pulls": [
+    {
+      "id": 511,
+      "name": "pansage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-11-21T15:36:05.682Z"
+    },
     {
       "id": 147,
       "name": "dratini",
@@ -117,17 +128,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-11-18T23:06:55.021Z"
-    },
-    {
-      "id": 506,
-      "name": "lillipup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-11-18T16:34:52.943Z"
     }
   ],
   "pokemon": {
@@ -2175,6 +2175,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T00:28:40.998Z",
       "lastPulledAt": "2026-10-16T00:28:40.998Z"
+    },
+    "511": {
+      "id": 511,
+      "name": "pansage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-11-21T15:36:05.682Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T15:36:05.682Z",
+      "lastPulledAt": "2026-11-21T15:36:05.682Z"
     },
     "513": {
       "id": 513,
