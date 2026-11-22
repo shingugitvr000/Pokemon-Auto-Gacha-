@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-21T21:07:53.984Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-22T01:16:40.171Z",
   "lastPull": {
-    "id": 83,
-    "name": "farfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "id": 713,
+    "name": "avalugg",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
     "types": [
-      "normal",
-      "flying"
+      "ice"
     ],
-    "totalStats": 377,
-    "grade": "N",
-    "pulledAt": "2026-11-21T21:07:53.984Z"
+    "totalStats": 514,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T01:16:40.171Z"
   },
   "pulls": [
+    {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T01:16:40.171Z"
+    },
     {
       "id": 83,
       "name": "farfetchd",
@@ -119,17 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-19T13:07:36.641Z"
-    },
-    {
-      "id": 480,
-      "name": "uxie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T04:09:29.822Z"
     }
   ],
   "pokemon": {
@@ -2998,6 +2997,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T02:14:19.595Z",
       "lastPulledAt": "2026-11-09T02:39:49.289Z"
+    },
+    "713": {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T01:16:40.171Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T01:16:40.171Z",
+      "lastPulledAt": "2026-11-22T01:16:40.171Z"
     },
     "724": {
       "id": 724,
