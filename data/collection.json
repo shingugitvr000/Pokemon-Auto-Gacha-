@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-22T16:24:23.909Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-22T21:56:14.923Z",
   "lastPull": {
-    "id": 990,
-    "name": "iron-treads",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "id": 378,
+    "name": "regice",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
     "types": [
-      "ground",
-      "steel"
+      "ice"
     ],
-    "totalStats": 570,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-11-22T16:24:23.909Z"
+    "pulledAt": "2026-11-22T21:56:14.923Z"
   },
   "pulls": [
+    {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T21:56:14.923Z"
+    },
     {
       "id": 990,
       "name": "iron-treads",
@@ -118,18 +128,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-20T10:27:35.573Z"
-    },
-    {
-      "id": 111,
-      "name": "rhyhorn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-11-20T02:31:58.839Z"
     }
   ],
   "pokemon": {
@@ -1559,6 +1557,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T15:44:21.283Z",
       "lastPulledAt": "2026-10-24T15:44:21.283Z"
+    },
+    "378": {
+      "id": 378,
+      "name": "regice",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T21:56:14.923Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T21:56:14.923Z",
+      "lastPulledAt": "2026-11-22T21:56:14.923Z"
     },
     "382": {
       "id": 382,
