@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 341,
-  "updatedAt": "2026-11-23T11:03:41.982Z",
+  "totalPulls": 342,
+  "updatedAt": "2026-11-23T22:35:33.707Z",
   "lastPull": {
-    "id": 269,
-    "name": "dustox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "id": 230,
+    "name": "kingdra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
     "types": [
-      "bug",
-      "poison"
+      "water",
+      "dragon"
     ],
-    "totalStats": 385,
-    "grade": "N",
-    "pulledAt": "2026-11-23T11:03:41.982Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T22:35:33.707Z"
   },
   "pulls": [
+    {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T22:35:33.707Z"
+    },
     {
       "id": 269,
       "name": "dustox",
@@ -117,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-21T07:35:30.610Z"
-    },
-    {
-      "id": 959,
-      "name": "tinkaton",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 506,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T00:20:28.950Z"
     }
   ],
   "pokemon": {
@@ -965,6 +965,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:32:24.218Z",
       "lastPulledAt": "2026-11-05T06:20:37.816Z"
+    },
+    "230": {
+      "id": 230,
+      "name": "kingdra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T22:35:33.707Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T22:35:33.707Z",
+      "lastPulledAt": "2026-11-23T22:35:33.707Z"
     },
     "238": {
       "id": 238,
