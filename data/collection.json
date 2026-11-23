@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-22T21:56:14.923Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-23T02:24:33.471Z",
   "lastPull": {
-    "id": 378,
-    "name": "regice",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "id": 425,
+    "name": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
     "types": [
-      "ice"
+      "ghost",
+      "flying"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T21:56:14.923Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-11-23T02:24:33.471Z"
   },
   "pulls": [
+    {
+      "id": 425,
+      "name": "drifloon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-11-23T02:24:33.471Z"
+    },
     {
       "id": 378,
       "name": "regice",
@@ -116,18 +129,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-11-20T18:45:25.335Z"
-    },
-    {
-      "id": 168,
-      "name": "ariados",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-20T10:27:35.573Z"
     }
   ],
   "pokemon": {
@@ -1784,10 +1785,10 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-10-30T15:51:49.262Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T15:51:49.262Z",
-      "lastPulledAt": "2026-10-30T15:51:49.262Z"
+      "lastPulledAt": "2026-11-23T02:24:33.471Z"
     },
     "429": {
       "id": 429,
