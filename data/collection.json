@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-23T22:35:33.707Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-24T06:22:46.188Z",
   "lastPull": {
-    "id": 230,
-    "name": "kingdra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+    "id": 316,
+    "name": "gulpin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
     "types": [
-      "water",
-      "dragon"
+      "poison"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-23T22:35:33.707Z"
+    "totalStats": 302,
+    "grade": "N",
+    "pulledAt": "2026-11-24T06:22:46.188Z"
   },
   "pulls": [
+    {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-11-24T06:22:46.188Z"
+    },
     {
       "id": 230,
       "name": "kingdra",
@@ -118,17 +128,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-11-21T15:36:05.682Z"
-    },
-    {
-      "id": 147,
-      "name": "dratini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-21T07:35:30.610Z"
     }
   ],
   "pokemon": {
@@ -1295,6 +1294,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T01:03:21.704Z",
       "lastPulledAt": "2026-11-15T01:03:21.704Z"
+    },
+    "316": {
+      "id": 316,
+      "name": "gulpin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 302,
+      "grade": "N",
+      "pulledAt": "2026-11-24T06:22:46.188Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T06:22:46.188Z",
+      "lastPulledAt": "2026-11-24T06:22:46.188Z"
     },
     "317": {
       "id": 317,
