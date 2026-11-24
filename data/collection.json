@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 343,
-  "updatedAt": "2026-11-24T06:22:46.188Z",
+  "totalPulls": 344,
+  "updatedAt": "2026-11-24T18:07:42.968Z",
   "lastPull": {
-    "id": 316,
-    "name": "gulpin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
     "types": [
-      "poison"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 302,
-    "grade": "N",
-    "pulledAt": "2026-11-24T06:22:46.188Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T18:07:42.968Z"
   },
   "pulls": [
+    {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T18:07:42.968Z"
+    },
     {
       "id": 316,
       "name": "gulpin",
@@ -117,17 +130,6 @@
       "totalStats": 377,
       "grade": "N",
       "pulledAt": "2026-11-21T21:07:53.984Z"
-    },
-    {
-      "id": 511,
-      "name": "pansage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-11-21T15:36:05.682Z"
     }
   ],
   "pokemon": {
@@ -1695,6 +1697,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:58:55.337Z",
       "lastPulledAt": "2026-09-16T11:58:55.337Z"
+    },
+    "392": {
+      "id": 392,
+      "name": "infernape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T18:07:42.968Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T18:07:42.968Z",
+      "lastPulledAt": "2026-11-24T18:07:42.968Z"
     },
     "394": {
       "id": 394,
