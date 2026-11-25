@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-24T18:07:42.968Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-25T02:23:58.392Z",
   "lastPull": {
-    "id": 392,
-    "name": "infernape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
+    "id": 517,
+    "name": "munna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
     "types": [
-      "fire",
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T18:07:42.968Z"
+    "totalStats": 292,
+    "grade": "N",
+    "pulledAt": "2026-11-25T02:23:58.392Z"
   },
   "pulls": [
+    {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-11-25T02:23:58.392Z"
+    },
     {
       "id": 392,
       "name": "infernape",
@@ -118,18 +128,6 @@
       "totalStats": 514,
       "grade": "SR",
       "pulledAt": "2026-11-22T01:16:40.171Z"
-    },
-    {
-      "id": 83,
-      "name": "farfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 377,
-      "grade": "N",
-      "pulledAt": "2026-11-21T21:07:53.984Z"
     }
   ],
   "pokemon": {
@@ -2312,10 +2310,10 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-09-22T12:47:48.758Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-09-22T12:47:48.758Z",
-      "lastPulledAt": "2026-10-13T00:50:01.174Z"
+      "lastPulledAt": "2026-11-25T02:23:58.392Z"
     },
     "518": {
       "id": 518,
