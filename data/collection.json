@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-25T02:23:58.392Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-25T11:35:49.136Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 222,
+    "name": "corsola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
     "types": [
-      "psychic"
+      "water",
+      "rock"
     ],
-    "totalStats": 292,
-    "grade": "N",
-    "pulledAt": "2026-11-25T02:23:58.392Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-25T11:35:49.136Z"
   },
   "pulls": [
+    {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-25T11:35:49.136Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -117,17 +130,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-11-22T08:12:10.525Z"
-    },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 514,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T01:16:40.171Z"
     }
   ],
   "pokemon": {
@@ -948,6 +950,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:44:38.492Z",
       "lastPulledAt": "2026-09-20T14:44:38.492Z"
+    },
+    "222": {
+      "id": 222,
+      "name": "corsola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-25T11:35:49.136Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T11:35:49.136Z",
+      "lastPulledAt": "2026-11-25T11:35:49.136Z"
     },
     "228": {
       "id": 228,
