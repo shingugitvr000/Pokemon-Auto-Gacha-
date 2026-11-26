@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-26T03:07:48.956Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-26T12:27:03.997Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 113,
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 292,
-    "grade": "N",
-    "pulledAt": "2026-11-26T03:07:48.956Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-26T12:27:03.997Z"
   },
   "pulls": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-26T12:27:03.997Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -117,17 +128,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-11-23T02:24:33.471Z"
-    },
-    {
-      "id": 378,
-      "name": "regice",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T21:56:14.923Z"
     }
   ],
   "pokemon": {
@@ -624,6 +624,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T13:05:11.331Z",
       "lastPulledAt": "2026-11-20T02:31:58.839Z"
+    },
+    "113": {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-26T12:27:03.997Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T12:27:03.997Z",
+      "lastPulledAt": "2026-11-26T12:27:03.997Z"
     },
     "116": {
       "id": 116,
