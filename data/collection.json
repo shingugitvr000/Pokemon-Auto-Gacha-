@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-26T12:27:03.997Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-26T21:50:55.347Z",
   "lastPull": {
-    "id": 113,
-    "name": "chansey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "id": 505,
+    "name": "watchog",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
     "types": [
       "normal"
     ],
-    "totalStats": 450,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-11-26T12:27:03.997Z"
+    "pulledAt": "2026-11-26T21:50:55.347Z"
   },
   "pulls": [
+    {
+      "id": 505,
+      "name": "watchog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-26T21:50:55.347Z"
+    },
     {
       "id": 113,
       "name": "chansey",
@@ -116,18 +127,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-23T11:03:41.982Z"
-    },
-    {
-      "id": 425,
-      "name": "drifloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
-      "types": [
-        "ghost",
-        "flying"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-11-23T02:24:33.471Z"
     }
   ],
   "pokemon": {
@@ -2255,6 +2254,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:05:39.010Z",
       "lastPulledAt": "2026-09-23T23:05:39.010Z"
+    },
+    "505": {
+      "id": 505,
+      "name": "watchog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-26T21:50:55.347Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T21:50:55.347Z",
+      "lastPulledAt": "2026-11-26T21:50:55.347Z"
     },
     "506": {
       "id": 506,
